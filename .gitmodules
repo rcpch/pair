@@ -1,0 +1,3 @@
+[submodule "submodules/LibreChat"]
+	path = submodules/LibreChat
+	url = git@github.com:danny-avila/LibreChat.git

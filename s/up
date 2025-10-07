@@ -1,0 +1,17 @@
+#!/bin/bash -e
+
+pushd submodules/LibreChat
+
+docker compose \
+    --env-file ../../config/libre-chat.env \
+    -f docker-compose.yml \
+    -f ../../config/libre-chat.docker-compose.override.yml \
+    up "$@"
+
+# docker compose \
+#     --env-file ../../config/libre-chat.env \
+#     -f docker-compose.yml \
+#     -f ../../config/libre-chat.docker-compose.override.yml \
+#     config
+
+popd
