@@ -1,0 +1,53 @@
+services:
+  caddy:
+    depends_on:
+      - open-webui
+    image: caddy
+    ports:
+      - "80:80"
+      - "443:443"
+    restart: always
+    volumes:
+      - caddy:/data/
+      - caddy:/config/
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - /run/tailscale/tailscaled.sock:/run/tailscale/tailscaled.sock
+
+  postgres:
+    container_name: postgres
+    image: pgvector/pgvector:0.8.0-pg15-trixie
+    environment:
+      POSTGRES_DB: pair
+      POSTGRES_USER: pair
+      POSTGRES_PASSWORD: pair
+    restart: always
+    volumes:
+      - postgres:/var/lib/postgresql/data
+
+  open-webui:
+    build:
+      context: submodules/open-webui
+    image: rcpch-open-webui:built
+    container_name: open-webui
+    volumes:
+      - open-webui:/app/backend/data
+    ports:
+      - 8080:8080
+    restart: always
+    environment:
+      DATABASE_TYPE: postgresql
+      DATABASE_HOST: postgres
+      DATABASE_USER: pair
+      DATABASE_NAME: pair
+      DATABASE_PASSWORD: pair
+      DATABASE_PORT: 5432
+      VECTOR_DB: pgvector
+      OLLAMA_BASE_URL: https://api.rcpch.ac.uk/ollama-openweb-ui-compat
+      WEBUI_NAME: pAIr
+      WEBUI_URL: https://nuc.vulture-dojo.ts.net
+      WEBUI_AUTH: False
+
+volumes:
+  caddy: {}
+  postgres: {}
+  open-webui: {}

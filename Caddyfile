@@ -1,0 +1,11 @@
+nuc.vulture-dojo.ts.net {
+    tls {
+        get_certificate tailscale
+    }
+
+    reverse_proxy http://open-webui:8080
+
+    log {
+        level ERROR # switch to DEBUG for more verbose logging
+    }
+}

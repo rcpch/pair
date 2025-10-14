@@ -1,3 +1,6 @@
 [submodule "submodules/LibreChat"]
 	path = submodules/LibreChat
 	url = git@github.com:danny-avila/LibreChat.git
+[submodule "submodules/open-webui"]
+	path = submodules/open-webui
+	url = git@github.com:rcpch/open-webui.git
