@@ -1,2 +1,4 @@
 .env
 .venv
+source_docs/*
+!source_docs/.gitkeep
