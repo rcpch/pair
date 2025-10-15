@@ -1,3 +1,7 @@
 #!/bin/bash -e
 
-docker compose up "$@"
+uv sync
+
+uv run ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=pair
+
+docker compose up -d
