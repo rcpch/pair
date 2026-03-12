@@ -2,3 +2,4 @@
 .venv
 source_docs/*
 !source_docs/.gitkeep
+agent/node_modules

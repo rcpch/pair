@@ -1,0 +1,28 @@
+{
+  "name": "@rcpch/pair",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/rcpch/pair#readme",
+  "bugs": {
+    "url": "https://github.com/rcpch/pair/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rcpch/pair.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src/test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@mariozechner/pi-agent-core": "^0.57.1"
+  }
+}
