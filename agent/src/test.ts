@@ -1,5 +1,5 @@
-import { Agent } from "@mariozechner/pi-agent-core";
-import { streamSimple, type Model } from "@mariozechner/pi-ai";
+import { Agent, type AgentTool } from "@mariozechner/pi-agent-core";
+import { streamSimple, Type, type Model } from "@mariozechner/pi-ai";
 
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY!;
 
@@ -17,11 +17,42 @@ const model: Model<'openai-completions'> = {
   headers: {
     "Ocp-Apim-Subscription-Key": OLLAMA_API_KEY
   }
+};
+
+const pokeTool: AgentTool = {
+  name: "pokeapi",
+  label: "Poke API",
+  description: "Look up data about Pokemon from the PokeAPI.",
+  parameters: Type.Object({
+    name: Type.String({ description: "The name of the Pokemon to look up." })
+  }),
+  execute: async (toolCallId, params, signal, onUpdate) => {
+    const { name } = params;
+
+    const res = await fetch(`https://pokeapi.co/api/v2/pokemon/${name.toLowerCase()}`);
+
+    if (!res.ok) {
+      return `Error: ${res.status} ${res.statusText}`;
+    }
+
+    const data = await res.text();
+
+    return {
+      content: [{ type: "text", text: data }],
+      details: {}
+    };
+  }
 }
+
+const systemPrompt = `
+  You are a helpful assistant. You have access to the Pokemon API tool, which you can use to look up information about any Pokemon.
+  Use it whenever the user asks about a Pokemon. Make sure you refer back to the tool results and don't use any of your own knowledge
+  about Pokemon.
+`;
 
 const agent = new Agent({
   initialState: {
-    systemPrompt: "You are a helpful assistant.",
+    systemPrompt,
     model
   },
   streamFn: (model, context, options) => {
@@ -32,6 +63,8 @@ const agent = new Agent({
   }
 });
 
+agent.setTools([pokeTool]);
+
 agent.subscribe((event) => {
   if (event.type === "message_update" && event.assistantMessageEvent.type === "text_delta") {
     // Stream just the new text chunk
@@ -39,5 +72,5 @@ agent.subscribe((event) => {
   }
 });
 
-await agent.prompt("Hello!");
+await agent.prompt("Hello! Please tell me what moves the Ditto pokemon has. Thanks!");
 process.stdout.write("\n");
