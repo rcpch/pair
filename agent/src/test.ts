@@ -1,11 +1,35 @@
 import { Agent } from "@mariozechner/pi-agent-core";
-import { getModel } from "@mariozechner/pi-ai";
+import { streamSimple, type Model } from "@mariozechner/pi-ai";
+
+const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY!;
+
+const model: Model<'openai-completions'> = {
+  id: "qwen3.5:35b",
+  name: "Qwen 3.5 35B",
+  api: "openai-completions",
+  provider: "ollama",
+  baseUrl: "https://api.rcpch.ac.uk/ollama/v1",
+  reasoning: true,
+  input: ["text"],
+  cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 },
+  contextWindow: 256000,
+  maxTokens: 32000,
+  headers: {
+    "Ocp-Apim-Subscription-Key": OLLAMA_API_KEY
+  }
+}
 
 const agent = new Agent({
   initialState: {
     systemPrompt: "You are a helpful assistant.",
-    model: getModel("anthropic", "claude-sonnet-4-20250514"),
+    model
   },
+  streamFn: (model, context, options) => {
+    return streamSimple(model, context, {
+      ...options,
+      apiKey: OLLAMA_API_KEY,
+    });
+  }
 });
 
 agent.subscribe((event) => {

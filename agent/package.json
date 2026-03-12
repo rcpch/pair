@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx src/test.ts"
+    "dev": "tsx --env-file=.env src/test.ts"
   },
   "devDependencies": {
     "tsx": "^4.21.0",
