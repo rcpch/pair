@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY!;
-const OLLAMA_API = 'https://api.rcpch.ac.uk/ollama/api/generate';
+const OLLAMA_API = 'https://api.rcpch.ac.uk/ollama2/api/generate';
 const MODEL_NAME = 'glm-ocr';
 const SOURCE_IMAGES_DIR = path.join(__dirname, '../../source_images');
 const SOURCE_MARKDOWN_DIR = path.join(__dirname, '../../source_markdown');
@@ -19,6 +19,12 @@ interface OllamaResponse {
   created_at: string;
   response: string;
   done: boolean;
+}
+
+interface ProcessingResult {
+  success: boolean;
+  skipped: boolean;
+  imageName: string;
 }
 
 /**
@@ -66,8 +72,6 @@ async function ocrImage(imagePath: string): Promise<string> {
     stream: false
   };
   
-  console.log(`Processing: ${imagePath}`);
-  
   try {
     const response = await fetch(OLLAMA_API, {
       method: 'POST',
@@ -109,7 +113,33 @@ function saveMarkdown(imagePath: string, content: string): void {
   
   // Write the markdown file
   fs.writeFileSync(markdownPath, content, 'utf-8');
-  console.log(`Saved: ${markdownPath}`);
+}
+
+/**
+ * Process a single image
+ */
+async function processImage(imagePath: string): Promise<ProcessingResult> {
+  const imageName = path.relative(SOURCE_IMAGES_DIR, imagePath);
+  
+  // Check if markdown already exists
+  const relativePath = path.relative(SOURCE_IMAGES_DIR, imagePath);
+  const markdownPath = path.join(
+    SOURCE_MARKDOWN_DIR,
+    relativePath.replace(/\.[^.]+$/, '.md')
+  );
+  
+  if (fs.existsSync(markdownPath)) {
+    return { success: true, skipped: true, imageName };
+  }
+  
+  try {
+    const ocrResult = await ocrImage(imagePath);
+    saveMarkdown(imagePath, ocrResult);
+    return { success: true, skipped: false, imageName };
+  } catch (error) {
+    console.error(`Failed to process ${imagePath}:`, error);
+    return { success: false, skipped: false, imageName };
+  }
 }
 
 /**
@@ -127,31 +157,69 @@ async function main() {
     return;
   }
   
-  // Process each image
+  // Process images with continuous parallel processing (2 at a time)
+  const PARALLEL_LIMIT = 2;
   let successCount = 0;
+  let skippedCount = 0;
   let failCount = 0;
   let processedCount = 0;
   
-  for (const imagePath of imageFiles) {
-    processedCount++;
-    console.log(`[${processedCount}/${imageFiles.length}] Processing: ${path.relative(SOURCE_IMAGES_DIR, imagePath)}`);
+  console.log(`Processing up to ${PARALLEL_LIMIT} images concurrently...\n`);
+  
+  // Process images with a worker pool
+  const processImageWithLogging = async (imagePath: string, index: number): Promise<ProcessingResult> => {
+    const imageName = path.relative(SOURCE_IMAGES_DIR, imagePath);
+    console.log(`[${index + 1}/${imageFiles.length}] Starting: ${imageName}`);
     
-    try {
-      const ocrResult = await ocrImage(imagePath);
-      saveMarkdown(imagePath, ocrResult);
-      successCount++;
-    } catch (error) {
-      console.error(`Failed to process ${imagePath}:`, error);
-      failCount++;
+    const result = await processImage(imagePath);
+    
+    if (result.skipped) {
+      console.log(`[${index + 1}/${imageFiles.length}] ⊘ Skipped: ${result.imageName} (already exists)`);
+    } else if (result.success) {
+      console.log(`[${index + 1}/${imageFiles.length}] ✓ Completed: ${result.imageName}`);
+    } else {
+      console.log(`[${index + 1}/${imageFiles.length}] ✗ Failed: ${result.imageName}`);
     }
     
-    console.log('');
+    return result;
+  };
+  
+  // Worker pool: maintain PARALLEL_LIMIT concurrent operations
+  const activePromises = new Set<Promise<void>>();
+  
+  for (let i = 0; i < imageFiles.length; i++) {
+    // Create a promise for this image
+    const promise = processImageWithLogging(imageFiles[i]!, i).then((result) => {
+      processedCount++;
+      if (result.skipped) {
+        skippedCount++;
+      } else if (result.success) {
+        successCount++;
+      } else {
+        failCount++;
+      }
+      // Remove from active set when done
+      activePromises.delete(promise);
+    });
+    
+    activePromises.add(promise);
+    
+    // If we've reached the limit, wait for one to finish before starting another
+    if (activePromises.size >= PARALLEL_LIMIT) {
+      await Promise.race(activePromises);
+    }
   }
+  
+  // Wait for all remaining operations to complete
+  await Promise.all(activePromises);
+  
+  console.log('');
   
   // Summary
   console.log('='.repeat(50));
   console.log(`Processing complete!`);
   console.log(`Successfully processed: ${successCount}`);
+  console.log(`Skipped (already exist): ${skippedCount}`);
   console.log(`Failed: ${failCount}`);
   console.log(`Total: ${imageFiles.length}`);
 }

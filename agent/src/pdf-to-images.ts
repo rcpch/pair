@@ -1,7 +1,10 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { execSync } from 'child_process';
+import { exec } from 'child_process';
+import { promisify } from 'util';
+
+const execAsync = promisify(exec);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -26,22 +29,25 @@ function findPdfFiles(dir: string): string[] {
   return results;
 }
 
+interface ConversionResult {
+  success: boolean;
+  skipped: boolean;
+  pdfName: string;
+}
+
 /**
  * Convert a PDF to images using pdftoppm
  */
-function convertPdfToImages(pdfPath: string): void {
+async function convertPdfToImages(pdfPath: string): Promise<ConversionResult> {
   const pdfName = path.basename(pdfPath, '.pdf');
   const outputDir = path.join(SOURCE_IMAGES_DIR, pdfName);
   
   // Create output directory if it doesn't exist
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir, { recursive: true });
-    console.log(`Created directory: ${outputDir}`);
-  } else {
-    console.log(`Directory already exists: ${outputDir}`);
-    console.log('Skipping (delete folder to regenerate)');
-    return;
+  if (fs.existsSync(outputDir)) {
+    return { success: true, skipped: true, pdfName };
   }
+  
+  fs.mkdirSync(outputDir, { recursive: true });
   
   // Use pdftoppm to convert PDF pages to images
   // -jpeg: output as JPEG
@@ -50,18 +56,17 @@ function convertPdfToImages(pdfPath: string): void {
   const outputPattern = path.join(outputDir, pdfName);
   
   try {
-    console.log(`Converting: ${pdfName}`);
-    
     const command = `pdftoppm -jpeg -r 300 "${pdfPath}" "${outputPattern}"`;
-    execSync(command, { stdio: 'inherit' });
+    await execAsync(command);
     
-    console.log(`✓ Successfully converted: ${pdfName}\n`);
+    return { success: true, skipped: false, pdfName };
   } catch (error) {
     console.error(`✗ Failed to convert ${pdfName}:`, error);
     // Clean up the directory if conversion failed
     if (fs.existsSync(outputDir)) {
       fs.rmSync(outputDir, { recursive: true });
     }
+    return { success: false, skipped: false, pdfName };
   }
 }
 
@@ -76,7 +81,7 @@ async function main() {
   
   // Check if pdftoppm is available
   try {
-    execSync('which pdftoppm', { stdio: 'ignore' });
+    await execAsync('which pdftoppm');
   } catch (error) {
     console.error('Error: pdftoppm is not installed or not in PATH');
     console.error('Install it with: sudo apt-get install poppler-utils');
@@ -92,32 +97,65 @@ async function main() {
     return;
   }
   
-  // Convert each PDF
+  // Convert PDFs with continuous parallel processing (4 at a time)
+  const PARALLEL_LIMIT = 12;
   let successCount = 0;
   let skippedCount = 0;
   let failCount = 0;
   let processedCount = 0;
+  let startedCount = 0;
   
-  for (const pdfPath of pdfFiles) {
-    processedCount++;
+  console.log(`Processing up to ${PARALLEL_LIMIT} PDFs concurrently...\n`);
+  
+  // Process PDFs with a worker pool
+  const processPdf = async (pdfPath: string, index: number): Promise<ConversionResult> => {
     const pdfName = path.basename(pdfPath, '.pdf');
-    const outputDir = path.join(SOURCE_IMAGES_DIR, pdfName);
+    console.log(`[${index + 1}/${pdfFiles.length}] Starting: ${pdfName}`);
     
-    console.log(`[${processedCount}/${pdfFiles.length}] ${pdfName}`);
+    const result = await convertPdfToImages(pdfPath);
     
-    if (fs.existsSync(outputDir)) {
-      console.log('Skipping (already exists)\n');
-      skippedCount++;
-      continue;
+    if (result.skipped) {
+      console.log(`[${index + 1}/${pdfFiles.length}] ⊘ Skipped: ${result.pdfName} (already exists)`);
+    } else if (result.success) {
+      console.log(`[${index + 1}/${pdfFiles.length}] ✓ Completed: ${result.pdfName}`);
+    } else {
+      console.log(`[${index + 1}/${pdfFiles.length}] ✗ Failed: ${result.pdfName}`);
     }
     
-    try {
-      convertPdfToImages(pdfPath);
-      successCount++;
-    } catch (error) {
-      failCount++;
+    return result;
+  };
+  
+  // Worker pool: maintain PARALLEL_LIMIT concurrent operations
+  const activePromises = new Set<Promise<void>>();
+  
+  for (let i = 0; i < pdfFiles.length; i++) {
+    // Create a promise for this PDF
+    const promise = processPdf(pdfFiles[i]!, i).then((result) => {
+      processedCount++;
+      if (result.skipped) {
+        skippedCount++;
+      } else if (result.success) {
+        successCount++;
+      } else {
+        failCount++;
+      }
+      // Remove from active set when done
+      activePromises.delete(promise);
+    });
+    
+    activePromises.add(promise);
+    startedCount++;
+    
+    // If we've reached the limit, wait for one to finish before starting another
+    if (activePromises.size >= PARALLEL_LIMIT) {
+      await Promise.race(activePromises);
     }
   }
+  
+  // Wait for all remaining operations to complete
+  await Promise.all(activePromises);
+  
+  console.log('');
   
   // Summary
   console.log('='.repeat(50));
