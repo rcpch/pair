@@ -23,44 +23,10 @@ const model: Model<'openai-completions'> = {
   }
 };
 
-const findTool: AgentTool = {
-  name: "find",
-  label: "Find Command",
-  description: "Execute the Unix find command with the specified arguments.",
-  parameters: Type.Object({
-    args: Type.String({ description: "The arguments to pass to the find command (e.g., '. -name \"*.txt\"')." })
-  }),
-  execute: async (toolCallId, params, signal, onUpdate) => {
-    const { args } = params as { args: string };
-
-    try {
-      console.error(`find ${args}`);
-      const { stdout, stderr } = await execAsync(`find ${args}`, { cwd: "../source_markdown" });
-
-      if (stderr) {
-        return {
-          content: [{ type: "text", text: `Error: ${stderr}` }],
-          details: {}
-        };
-      }
-
-      return {
-        content: [{ type: "text", text: stdout }],
-        details: {}
-      };
-    } catch (error) {
-      return {
-        content: [{ type: "text", text: `Error executing find: ${error}` }],
-        details: {}
-      };
-    }
-  }
-}
-
 const catTool: AgentTool = {
   name: "cat",
-  label: "Cat Command",
-  description: "Execute the Unix cat command to read file contents.",
+  label: "Read guidance files",
+  description: "Read the markdown of the medical guidance files. Accepts the same arguments as the unix cat command.",
   parameters: Type.Object({
     args: Type.String({ description: "The arguments to pass to the cat command (e.g., 'file.txt' or 'file1.txt file2.txt')." })
   }),
@@ -93,8 +59,8 @@ const catTool: AgentTool = {
 
 const grepTool: AgentTool = {
   name: "grep",
-  label: "Grep Command",
-  description: "Execute the Unix grep command to search for patterns in files.",
+  label: "Search guidance files",
+  description: "Search text in the medical guidance using patterns. Accepts the same syntax as the unix grep command.",
   parameters: Type.Object({
     args: Type.String({ description: "The arguments to pass to the grep command (e.g., '\"pattern\" file.txt' or '-r \"pattern\" .')." })
   }),
@@ -127,18 +93,13 @@ const grepTool: AgentTool = {
 
 const systemPrompt = `
   You are the AI agent assistant from the Royal College of Paediatrics and Child Health. You are designed to provide trained clinicians
-  with referenced and cited advice from guidance provided to you as markdown files in the current directory. This is your database of
-  knowledge.
+  with referenced and cited advice from guidance. This knowledge base is available to you as markdown files in the current directory.
 
-  We are deliberately testing how you perform using unix tools against markdown files to work with the guidance. You have access to:
+  Use your tools to find relevant guidance to the user's query. Summarise and return what you find, always providing the source of
+  the information. User's don't care about the mechanics of this, they just want to see how the guidance can answer their question.
 
-    - The find tool is the unix find command. Use it to find markdown files in the current directory.
-    - The cat tool is the unix cat command. Use it to read the contents of markdown files.
-    - The grep tool is the unix grep command. Use it to search for patterns in the markdown files.
-
-  Always respond to the user's question with referenced information from the guidance. Always provide the source of the information you
-  return, including the filename and section heading if possible. Don't include any information in your responses that is not directly
-  supported by the content of these files. Don't respond with just listings of the files in the guidance.
+    - The cat tool to read the contents of markdown files. It accepts the same syntax as the unix cat command.
+    - The grep tool to search for text in the markdown files. It accepts the same syntax as the unix grep command.
   `;
 
 const agent = new Agent({
@@ -154,7 +115,7 @@ const agent = new Agent({
   }
 });
 
-agent.setTools([findTool, catTool, grepTool]);
+agent.setTools([catTool, grepTool]);
 
 agent.subscribe((event) => {
   if (event.type === "message_update" && event.assistantMessageEvent.type === "text_delta") {
