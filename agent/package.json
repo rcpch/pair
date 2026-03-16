@@ -15,8 +15,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx --env-file=.env src/test.ts",
+    "test": "tsx --env-file=.env src/test.ts",
     "ocr": "tsx --env-file=.env src/ocr-images.ts",
     "pdf2img": "tsx src/pdf-to-images.ts"
   },
