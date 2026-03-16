@@ -35,7 +35,7 @@ const findTool: AgentTool = {
 
     try {
       console.error(`find ${args}`);
-      const { stdout, stderr } = await execAsync(`find ${args}`);
+      const { stdout, stderr } = await execAsync(`find ${args}`, { cwd: "../source_markdown" });
 
       if (stderr) {
         return {
@@ -69,7 +69,7 @@ const catTool: AgentTool = {
 
     try {
       console.error(`cat ${args}`);
-      const { stdout, stderr } = await execAsync(`cat ${args}`);
+      const { stdout, stderr } = await execAsync(`cat ${args}`, { cwd: "../source_markdown" });
 
       if (stderr) {
         return {
@@ -103,7 +103,7 @@ const grepTool: AgentTool = {
   
     try {
       console.error(`grep ${args}`);
-      const { stdout, stderr } = await execAsync(`grep ${args}`);
+      const { stdout, stderr } = await execAsync(`grep ${args}`, { cwd: "../source_markdown" });
 
       if (stderr) {
         return {
@@ -126,19 +126,19 @@ const grepTool: AgentTool = {
 }
 
 const systemPrompt = `
-  You are the AI agent assistant from the Royal College of Paediatrics and Child Health. You are designed to provide trained
-  clinicians with referenced and cited advice from the NICE guidance provided to you as markdown files.
+  You are the AI agent assistant from the Royal College of Paediatrics and Child Health. You are designed to provide trained clinicians
+  with referenced and cited advice from guidance provided to you as markdown files in the current directory. This is your database of
+  knowledge.
 
-  The markdown files are in the source_markdown directory. Use the tools provided to look up information from the files
-  and respond to the user's question with referenced information from the guidance. Always provide the source of the information you
-  provide, including the filename and section heading if possible. Don't include any information in your responses that is not directly
-  supported by the content of these files.
+  We are deliberately testing how you perform using unix tools against markdown files to work with the guidance. You have access to:
 
-  You have access to the following tools to work with the guidance:
-
-    - The find tool is the unix find command. Use it to find markdown files in the source_markdown directory.
+    - The find tool is the unix find command. Use it to find markdown files in the current directory.
     - The cat tool is the unix cat command. Use it to read the contents of markdown files.
     - The grep tool is the unix grep command. Use it to search for patterns in the markdown files.
+
+  Always respond to the user's question with referenced information from the guidance. Always provide the source of the information you
+  return, including the filename and section heading if possible. Don't include any information in your responses that is not directly
+  supported by the content of these files. Don't respond with just listings of the files in the guidance.
   `;
 
 const agent = new Agent({
@@ -163,5 +163,5 @@ agent.subscribe((event) => {
   }
 });
 
-await agent.prompt("I have a child in clinic with severe asthma. What does the guidance say I should do?");
+await agent.prompt("I have a patient in clinic and their asthma has got worse over the last two months. What does the guidance say?");
 process.stdout.write("\n");
