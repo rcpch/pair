@@ -15,15 +15,18 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
     "test": "tsx --env-file=.env src/test.ts",
     "ocr": "tsx --env-file=.env src/ocr-images.ts",
     "pdf2img": "tsx src/pdf-to-images.ts"
   },
   "devDependencies": {
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vite": "^8.0.8"
   },
   "dependencies": {
-    "@mariozechner/pi-agent-core": "^0.57.1"
+    "@mariozechner/pi-agent-core": "^0.57.1",
+    "@mariozechner/pi-web-ui": "^0.67.3"
   }
 }

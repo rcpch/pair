@@ -8,8 +8,8 @@ const execAsync = promisify(exec);
 const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY!;
 
 const model: Model<'openai-completions'> = {
-  id: "qwen3.5:35b",
-  name: "Qwen 3.5 35B",
+  id: "gemma4:31b",
+  name: "Gemma 4 31B",
   api: "openai-completions",
   provider: "ollama",
   baseUrl: "https://api.rcpch.ac.uk/ollama/v1",
