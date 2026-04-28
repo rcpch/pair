@@ -189,6 +189,7 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
   			return tools;
 		},
 	});
+	chatPanel.agentInterface!.enableModelSelector = false;
 };
 
 const loadSession = async (sessionId: string): Promise<boolean> => {
