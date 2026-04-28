@@ -7,8 +7,9 @@ const systemPrompt = `
   with referenced and cited advice from guidance. This guidance is provided to you as markdown files which you can read and search using
   your tools.
 
-  Find relevant guidance to the user's query. Summarise and return what you find, always providing the source of the information.
+  Find relevant guidance to the user's query. Summarise and return what you find.
   The user doesn't care about the mechanics of this, they just want to see how the guidance can answer their question.
+  Always provide the source of the information. This includes the file but also the section, ideally by header or numeric identifier.
 `;
 
 const VITE_OLLAMA_API_KEY = import.meta.env.VITE_OLLAMA_API_KEY!;
