@@ -1,7 +1,7 @@
 import type { AgentTool } from "@mariozechner/pi-agent-core";
 import { Type } from "@mariozechner/pi-ai";
 
-const db: Record<string, string> = {};
+let db: Record<string, string> = {};
 
 export async function loadAllMarkdown(
   onProgress?: (loaded: number, total: number) => void
@@ -24,7 +24,26 @@ export async function loadAllMarkdown(
     onProgress?.(Math.min(i + BATCH_SIZE, index.length), index.length);
   }
 
+  db = result;
+
   return result;
+}
+
+export const listFilesTools: AgentTool = {
+  name: "listFiles",
+  label: "List available guidance files",
+  description: "List the markdown files that are available to read and search.",
+  parameters: Type.Object({}),
+  execute: async () => {
+    const files = Object.keys(db);
+
+    console.log("Available files:", files);
+
+    return {
+      content: [{ type: "text", text: `Available files:\n${files.join("\n")}` }],
+      details: {}
+    };
+  }
 }
 
 export const readFileTool: AgentTool = {
@@ -98,3 +117,5 @@ export const searchTool: AgentTool = {
 
   }
 }
+
+export const tools = [listFilesTools, readFileTool, searchTool];

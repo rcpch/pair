@@ -9,7 +9,7 @@ const systemPrompt = `
 
   Find relevant guidance to the user's query. Summarise and return what you find, always providing the source of the information.
   The user doesn't care about the mechanics of this, they just want to see how the guidance can answer their question.
-  `;
+`;
 
 const VITE_OLLAMA_API_KEY = import.meta.env.VITE_OLLAMA_API_KEY!;
 

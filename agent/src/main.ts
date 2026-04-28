@@ -27,7 +27,7 @@ import { Button } from "@mariozechner/mini-lit/dist/Button.js";
 import { Input } from "@mariozechner/mini-lit/dist/Input.js";
 import { createSystemNotification, customConvertToLlm, registerCustomMessageRenderers } from "./custom-messages.ts";
 import { buildAgent } from "./agent.js";
-import { readFileTool, searchTool, loadAllMarkdown } from "./tools.js";
+import { loadAllMarkdown, tools } from "./tools.js";
 
 // Register custom message renderers
 registerCustomMessageRenderers();
@@ -195,7 +195,7 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
 			return await ApiKeyPromptDialog.prompt(provider);
 		},
 		toolsFactory: (_agent, _agentInterface, _artifactsPanel, runtimeProvidersFactory) => {
-  			return [readFileTool, searchTool];
+  			return tools;
 		},
 	});
 };
