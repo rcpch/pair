@@ -9,5 +9,5 @@ agent.subscribe((event) => {
   }
 });
 
-await agent.prompt("I have a patient in clinic and their asthma has got worse over the last two months. What does the guidance say?");
+await agent.prompt("I have a child in clinic and their asthma has got worse over the last two months. What does the guidance say?");
 process.stdout.write("\n");

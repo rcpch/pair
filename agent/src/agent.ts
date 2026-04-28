@@ -1,5 +1,5 @@
 import { streamSimple, Type, type Model } from "@mariozechner/pi-ai";
-import { Agent, type AgentTool } from "@mariozechner/pi-agent-core";
+import { Agent, type AgentState, type AgentTool } from "@mariozechner/pi-agent-core";
 import { customConvertToLlm } from "./custom-messages.js";
 
 const systemPrompt = `
@@ -29,11 +29,12 @@ const model: Model<'openai-completions'> = {
   }
 };
 
-export async function buildAgent() {
+export async function buildAgent(initialState?: Partial<AgentState>) {
   const agent = new Agent({
     initialState: {
       systemPrompt,
-      model
+      model,
+      ...initialState,
     },
     streamFn: (model, context, options) => {
       return streamSimple(model, context, {

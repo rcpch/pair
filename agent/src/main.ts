@@ -69,7 +69,6 @@ let currentTitle = "";
 let isEditingTitle = false;
 let agent: Agent;
 let chatPanel: ChatPanel;
-let agentUnsubscribe: (() => void) | undefined;
 
 const generateTitle = (messages: AgentMessage[]): string => {
 	const firstUserMsg = messages.find((m) => m.role === "user" || m.role === "user-with-attachments");
@@ -158,33 +157,25 @@ const updateUrl = (sessionId: string) => {
 };
 
 const createAgent = async (initialState?: Partial<AgentState>) => {
-	if (agentUnsubscribe) {
-		agentUnsubscribe();
-	}
+	agent = await buildAgent(initialState);
 
-	agent = await buildAgent();
+	agent.subscribe((event: any) => {
+		const messages = agent.state.messages;
 
-	agentUnsubscribe = agent.subscribe((event: any) => {
-		if (event.type === "state-update") {
-			const messages = event.state.messages;
+		// Generate title after first successful response
+		if (!currentTitle && shouldSaveSession(messages)) {
+			currentTitle = generateTitle(messages);
+		}
 
-			// Generate title after first successful response
-			if (!currentTitle && shouldSaveSession(messages)) {
-				currentTitle = generateTitle(messages);
-			}
+		// Create session ID on first successful save
+		if (!currentSessionId && shouldSaveSession(messages)) {
+			currentSessionId = crypto.randomUUID();
+			updateUrl(currentSessionId);
+		}
 
-			// Create session ID on first successful save
-			if (!currentSessionId && shouldSaveSession(messages)) {
-				currentSessionId = crypto.randomUUID();
-				updateUrl(currentSessionId);
-			}
-
-			// Auto-save
-			if (currentSessionId) {
-				saveSession();
-			}
-
-			renderApp();
+		// Auto-save
+		if (currentSessionId) {
+			saveSession();
 		}
 	});
 
@@ -217,10 +208,10 @@ const loadSession = async (sessionId: string): Promise<boolean> => {
 		model: sessionData.model,
 		thinkingLevel: sessionData.thinkingLevel,
 		messages: sessionData.messages,
-		tools: [],
 	});
 
 	updateUrl(sessionId);
+
 	renderApp();
 	return true;
 };
@@ -320,7 +311,7 @@ const renderApp = () => {
 								>
 									${currentTitle}
 								</button>`
-							: html`<span class="text-base font-semibold text-foreground">Pi Web UI Example</span>`
+							: html`<span class="text-base font-semibold text-foreground">pAIr</span>`
 					}
 				</div>
 				<div class="flex items-center gap-1 px-2">
