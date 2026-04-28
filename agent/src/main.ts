@@ -27,6 +27,7 @@ import { Button } from "@mariozechner/mini-lit/dist/Button.js";
 import { Input } from "@mariozechner/mini-lit/dist/Input.js";
 import { createSystemNotification, customConvertToLlm, registerCustomMessageRenderers } from "./custom-messages.ts";
 import { buildAgent } from "./agent.js";
+import { readFileTool, searchTool, loadAllMarkdown } from "./tools.js";
 
 // Register custom message renderers
 registerCustomMessageRenderers();
@@ -161,7 +162,7 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
 		agentUnsubscribe();
 	}
 
-	agent = buildAgent();
+	agent = await buildAgent();
 
 	agentUnsubscribe = agent.subscribe((event: any) => {
 		if (event.type === "state-update") {
@@ -187,15 +188,14 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
 		}
 	});
 
+	await loadAllMarkdown();
+
 	await chatPanel.setAgent(agent, {
 		onApiKeyRequired: async (provider: string) => {
 			return await ApiKeyPromptDialog.prompt(provider);
 		},
 		toolsFactory: (_agent, _agentInterface, _artifactsPanel, runtimeProvidersFactory) => {
-			// Create javascript_repl tool with access to attachments + artifacts
-			const replTool = createJavaScriptReplTool();
-			replTool.runtimeProvidersFactory = runtimeProvidersFactory;
-			return [replTool];
+  			return [readFileTool, searchTool];
 		},
 	});
 };
