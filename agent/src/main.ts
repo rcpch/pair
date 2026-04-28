@@ -183,7 +183,7 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
 
 	await chatPanel.setAgent(agent, {
 		onApiKeyRequired: async (provider: string) => {
-			return await ApiKeyPromptDialog.prompt(provider);
+			return true; // passed in stream handlers to the agent
 		},
 		toolsFactory: (_agent, _agentInterface, _artifactsPanel, runtimeProvidersFactory) => {
   			return tools;
@@ -332,13 +332,6 @@ const renderApp = () => {
 						title: "Demo: Add Custom Notification",
 					})}
 					<theme-toggle></theme-toggle>
-					${Button({
-						variant: "ghost",
-						size: "sm",
-						children: icon(Settings, "sm"),
-						onClick: () => SettingsDialog.open([new ProvidersModelsTab(), new ProxyTab()]),
-						title: "Settings",
-					})}
 				</div>
 			</div>
 
@@ -374,7 +367,9 @@ async function initApp() {
 	// }
 
 	// Create ChatPanel
-	chatPanel = new ChatPanel();
+	chatPanel = new ChatPanel({
+		enableModelSelector: false
+	});
 
 	// Check for session in URL
 	const urlParams = new URLSearchParams(window.location.search);
