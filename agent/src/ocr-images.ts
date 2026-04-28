@@ -9,7 +9,7 @@ const OLLAMA_API_KEY = process.env.OLLAMA_API_KEY!;
 const OLLAMA_API = 'https://api.rcpch.ac.uk/ollama2/api/generate';
 const MODEL_NAME = 'glm-ocr';
 const SOURCE_IMAGES_DIR = path.join(__dirname, '../../source_images');
-const SOURCE_MARKDOWN_DIR = path.join(__dirname, '../../source_markdown');
+const SOURCE_MARKDOWN_DIR = path.join(__dirname, '../public/source_markdown');
 
 // Supported image extensions
 const IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
