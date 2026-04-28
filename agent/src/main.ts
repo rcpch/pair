@@ -1,6 +1,5 @@
 import "@mariozechner/mini-lit/dist/ThemeToggle.js";
 import { Agent, type AgentMessage } from "@mariozechner/pi-agent-core";
-import { getModel } from "@mariozechner/pi-ai";
 import {
 	type AgentState,
 	ApiKeyPromptDialog,
@@ -27,6 +26,7 @@ import { icon } from "@mariozechner/mini-lit";
 import { Button } from "@mariozechner/mini-lit/dist/Button.js";
 import { Input } from "@mariozechner/mini-lit/dist/Input.js";
 import { createSystemNotification, customConvertToLlm, registerCustomMessageRenderers } from "./custom-messages.ts";
+import { buildAgent } from "./agent.js";
 
 // Register custom message renderers
 registerCustomMessageRenderers();
@@ -161,23 +161,7 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
 		agentUnsubscribe();
 	}
 
-	agent = new Agent({
-		initialState: initialState || {
-			systemPrompt: `You are a helpful AI assistant with access to various tools.
-
-Available tools:
-- JavaScript REPL: Execute JavaScript code in a sandboxed browser environment (can do calculations, get time, process data, create visualizations, etc.)
-- Artifacts: Create interactive HTML, SVG, Markdown, and text artifacts
-
-Feel free to use these tools when needed to provide accurate and helpful responses.`,
-			model: getModel("anthropic", "claude-sonnet-4-5-20250929"),
-			thinkingLevel: "off",
-			messages: [],
-			tools: [],
-		},
-		// Custom transformer: convert custom messages to LLM-compatible format
-		convertToLlm: customConvertToLlm,
-	});
+	agent = buildAgent();
 
 	agentUnsubscribe = agent.subscribe((event: any) => {
 		if (event.type === "state-update") {
