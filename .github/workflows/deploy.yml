@@ -36,6 +36,9 @@ jobs:
       - name: Build
         working-directory: ./agent
         run: npm run build
+        env:
+          VITE_ENTRA_APP_CLIENT_ID: ${{ secrets.VITE_ENTRA_APP_CLIENT_ID }}
+          VITE_ENTRA_APP_TENANT_ID: ${{ secrets.VITE_ENTRA_APP_TENANT_ID }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v6
