@@ -6,7 +6,8 @@ let db: Record<string, string> = {};
 export async function loadAllMarkdown(
   onProgress?: (loaded: number, total: number) => void
 ): Promise<Record<string, string>> {
-  const index: string[] = await fetch("/source_markdown/index.json").then((r) => r.json());
+  const base = import.meta.env.BASE_URL;
+  const index: string[] = await fetch(`${base}source_markdown/index.json`).then((r) => r.json());
   const result: Record<string, string> = {};
   const BATCH_SIZE = 4;
 
@@ -14,7 +15,7 @@ export async function loadAllMarkdown(
     const batch = index.slice(i, i + BATCH_SIZE);
     const entries = await Promise.all(
       batch.map(async (filename) => {
-        const text = await fetch(`/source_markdown/${filename}`).then((r) => r.text());
+        const text = await fetch(`${base}source_markdown/${filename}`).then((r) => r.text());
         return [filename, text] as const;
       })
     );

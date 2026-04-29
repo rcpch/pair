@@ -32,5 +32,6 @@ function markdownIndexPlugin(): Plugin {
 }
 
 export default defineConfig({
+  base: '/pair/',
   plugins: [markdownIndexPlugin()],
 });
