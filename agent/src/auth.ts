@@ -10,7 +10,7 @@ const msalConfig = {
   auth: {
     clientId: VITE_ENTRA_APP_CLIENT_ID,
     authority: `https://login.microsoftonline.com/${VITE_ENTRA_APP_TENANT_ID}`,
-    redirectUri: window.location.origin + "/" + base,
+    redirectUri: window.location.origin + base,
   },
   cache: {
     cacheLocation: "sessionStorage",
