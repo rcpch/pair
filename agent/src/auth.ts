@@ -4,11 +4,13 @@ import { PublicClientApplication } from "@azure/msal-browser";
 const VITE_ENTRA_APP_CLIENT_ID = import.meta.env.VITE_ENTRA_APP_CLIENT_ID!;
 const VITE_ENTRA_APP_TENANT_ID = import.meta.env.VITE_ENTRA_APP_TENANT_ID!;
 
+const base = import.meta.env.BASE_URL;
+
 const msalConfig = {
   auth: {
     clientId: VITE_ENTRA_APP_CLIENT_ID,
     authority: `https://login.microsoftonline.com/${VITE_ENTRA_APP_TENANT_ID}`,
-    redirectUri: "http://localhost:5173",
+    redirectUri: window.location.origin + "/" + base,
   },
   cache: {
     cacheLocation: "sessionStorage",
