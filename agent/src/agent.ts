@@ -1,6 +1,7 @@
 import { streamSimple, Type, type Model } from "@mariozechner/pi-ai";
 import { Agent, type AgentState, type AgentTool } from "@mariozechner/pi-agent-core";
 import { customConvertToLlm } from "./custom-messages.js";
+import { getToken } from "./auth.js";
 
 const systemPrompt = `
   You are the AI agent assistant from the Royal College of Paediatrics and Child Health. You are designed to provide trained clinicians
@@ -9,7 +10,8 @@ const systemPrompt = `
 
   Find relevant guidance to the user's query. Summarise and return what you find.
   The user doesn't care about the mechanics of this, they just want to see how the guidance can answer their question.
-  Always provide the source of the information. This includes the file but also the section, ideally by header or numeric identifier.
+  Always provide the source of the information. This includes the file but also the section by header or numeric identifier.
+  Don't reference guidance by line number in the markdown file, users can't map that back to the source PDFs.
 `;
 
 const VITE_OLLAMA_API_KEY = import.meta.env.VITE_OLLAMA_API_KEY!;
@@ -25,12 +27,12 @@ const model: Model<'openai-completions'> = {
   cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 },
   contextWindow: 256000,
   maxTokens: 32000,
-  headers: {
-    "Ocp-Apim-Subscription-Key": VITE_OLLAMA_API_KEY
-  }
 };
 
 export async function buildAgent(initialState?: Partial<AgentState>) {
+  const token = await getToken();
+  console.log("Obtained token:", token);
+
   const agent = new Agent({
     initialState: {
       systemPrompt,
@@ -40,7 +42,7 @@ export async function buildAgent(initialState?: Partial<AgentState>) {
     streamFn: (model, context, options) => {
       return streamSimple(model, context, {
         ...options,
-        apiKey: VITE_OLLAMA_API_KEY,
+        apiKey: token!
       });
     },
     // Custom transformer: convert custom messages to LLM-compatible format

@@ -26,6 +26,7 @@
     "vite": "^8.0.8"
   },
   "dependencies": {
+    "@azure/msal-browser": "^5.9.0",
     "@mariozechner/pi-agent-core": "^0.57.1",
     "@mariozechner/pi-web-ui": "^0.67.3"
   }

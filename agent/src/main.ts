@@ -371,9 +371,7 @@ async function initApp() {
 	// }
 
 	// Create ChatPanel
-	chatPanel = new ChatPanel({
-		enableModelSelector: false
-	});
+	chatPanel = new ChatPanel();
 
 	// Check for session in URL
 	const urlParams = new URLSearchParams(window.location.search);
