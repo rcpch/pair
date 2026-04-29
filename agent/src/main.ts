@@ -189,6 +189,9 @@ const createAgent = async (initialState?: Partial<AgentState>) => {
   			return tools;
 		},
 	});
+	// ChatPanel.setAgent() always prepends an "artifacts" tool (for HTML/SVG generation)
+	// which causes the model to go off-piste building dashboards. Strip it out.
+	agent.state.tools = tools;
 	chatPanel.agentInterface!.enableModelSelector = false;
 };
 
