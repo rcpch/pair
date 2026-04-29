@@ -5,3 +5,4 @@ source_docs/*
 agent/node_modules
 source_images
 agent/public/source_markdown/index.json
+agent/dist

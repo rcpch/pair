@@ -16,6 +16,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
+    "build": "vite build",
     "test": "tsx --env-file=.env src/test.ts",
     "ocr": "tsx --env-file=.env src/ocr-images.ts",
     "pdf2img": "tsx src/pdf-to-images.ts"
