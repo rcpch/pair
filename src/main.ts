@@ -19,7 +19,7 @@ import {
 	setAppStorage,
 } from "@mariozechner/pi-web-ui";
 import { html, render } from "lit";
-import { Bell, History, Plus, Settings } from "lucide";
+import { AlertTriangle, Bell, CheckCircle, History, Plus, Settings } from "lucide";
 // TODO MRB: css?
 import "@mariozechner/pi-web-ui/app.css";
 import { icon } from "@mariozechner/mini-lit";
@@ -28,6 +28,7 @@ import { Input } from "@mariozechner/mini-lit/dist/Input.js";
 import { createSystemNotification, customConvertToLlm, registerCustomMessageRenderers } from "./custom-messages.ts";
 import { buildAgent } from "./agent.js";
 import { loadAllMarkdown, tools } from "./tools.js";
+import { Alert, AlertDescription, AlertTitle } from "@mariozechner/mini-lit/dist/Alert.js";
 
 // Register custom message renderers
 registerCustomMessageRenderers();
@@ -338,6 +339,19 @@ const renderApp = () => {
 					<theme-toggle></theme-toggle>
 				</div>
 			</div>
+
+			${Alert({
+				className: "border-yellow-500 bg-yellow-900/20",
+				children: html`
+					<div class="flex items-start gap-3">
+						${icon(AlertTriangle, "sm", "flex-shrink-0 mt-0.5 text-yellow-600")}
+						<div>
+							${AlertTitle({ children: "Warning" })}
+							${AlertDescription({ children: "Do not use this output in any clinical situation, whether directly or indirectly. This is a pre-alpha technical concept only and so responses may be highly unreliable." })}
+						</div>
+					</div>
+				`,
+			})}
 
 			<!-- Chat Panel -->
 			${chatPanel}
