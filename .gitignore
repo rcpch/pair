@@ -2,7 +2,7 @@
 .venv
 source_docs/*
 !source_docs/.gitkeep
-agent/node_modules
+node_modules
 source_images
-agent/public/source_markdown/index.json
-agent/dist
+public/source_markdown/index.json
+dist

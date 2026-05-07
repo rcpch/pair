@@ -27,14 +27,11 @@ jobs:
         with:
           node-version: '24'
           cache: 'npm'
-          cache-dependency-path: agent/package-lock.json
 
       - name: Install dependencies
-        working-directory: ./agent
         run: npm ci
 
       - name: Build
-        working-directory: ./agent
         run: npm run build
         env:
           VITE_ENTRA_APP_CLIENT_ID: ${{ secrets.VITE_ENTRA_APP_CLIENT_ID }}
@@ -46,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: ./agent/dist
+          path: ./dist
 
   deploy:
     environment:
