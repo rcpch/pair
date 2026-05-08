@@ -15,32 +15,32 @@ Local commissioners and providers of healthcare have a responsibility to enable 
 
 Commissioners and providers have a responsibility to promote an environmentally sustainable health and care system and should assess and reduce the environmental impact of implementing NICE recommendations wherever possible.## Contents
 
-Overview ... 4
+### Overview ... 4
 Who is it for? ... 4
 
-What is this guideline about and who is it for? ... 5
+### What is this guideline about and who is it for? ... 5
 Purpose of this guideline ... 5
 Audience for this guideline ... 5
 Scope of this guideline ... 6
 
-Person-centred care ... 7
+### Person-centred care ... 7
 
-Recommendations ... 8
+### Recommendations ... 8
 Terms used in this guideline ... 8
 1.1 All antimicrobials ... 9
 1.2 New antimicrobials ... 17
 
-Implementation: getting started ... 21
+### Implementation: getting started ... 21
 The challenge: changing prescribing practice for antimicrobials ... 21
 Further resources ... 24
 
-Recommendations for research ... 25
+### Recommendations for research ... 25
 1 Reducing antimicrobial resistance ... 25
 2 Decision-making ... 25
 
-Finding more information and committee details ... 26
+### Finding more information and committee details ... 26
 
-Update information ... 27Overview
+### Update information ... 27Overview
 
 This guideline covers the effective use of antimicrobials (including antibiotics) in children, young people and adults. It aims to change prescribing practice to help slow the emergence of antimicrobial resistance and ensure that antimicrobials remain an effective treatment for infection.
 
@@ -168,7 +168,7 @@ Antimicrobial stewardship programmes
 
 - patient safety incidents related to antimicrobial use, including hospital admissions for potentially avoidable life-threatening infections, infections with C. difficile or adverse drug reactions such as anaphylaxis.
 
-1.1.7 Consider developing systems and processes for identifying and reviewing whether hospital admissions are linked to previous prescribing decisions in patients with potentially avoidable infections (for example, Escherichia coli bacteriaemias, mastoiditis, pyelonephritis, empyema, quinsy or brain abscess).Antimicrobial stewardship teams
+1.1.7 Consider developing systems and processes for identifying and reviewing whether hospital admissions are linked to previous prescribing decisions in patients with potentially avoidable infections (for example, Escherichia coli bacteraemias, mastoiditis, pyelonephritis, empyema, quinsy or brain abscess).Antimicrobial stewardship teams
 
 1.1.8 Organisations establishing antimicrobial stewardship teams should ensure that the team has core members (including an antimicrobial pharmacist and a medical microbiologist) and can co-opt additional members depending on the care setting and the antimicrobial issue being considered.
 
@@ -273,6 +273,7 @@ Antimicrobial prescribing
 • whether they need any written information about their medicines and any possible outcomes.1.1.32 When an antimicrobial is a treatment option, document in the patient's records (electronically wherever possible):
 
 • the reason for prescribing, or not prescribing, an antimicrobial
+
 • the plan of care as discussed with the patient, their family member or carer (as appropriate), including the planned duration of any treatment.
 
 1.1.33 Do not issue an immediate prescription for an antimicrobial to a patient who is likely to have a self-limiting condition.
@@ -280,14 +281,19 @@ Antimicrobial prescribing
 1.1.34 If immediate antimicrobial prescribing is not the most appropriate option, discuss with the patient and/or their family members or carers (as appropriate) other options such as:
 
 • self-care with over-the-counter preparations
+
 • back-up (delayed) prescribing
+
 • other non-pharmacological interventions, for example, draining the site of infection.
 
 1.1.35 When a decision to prescribe an antimicrobial has been made, take into account the benefits and harms for an individual patient associated with the particular antimicrobial, including:
 
 • possible interactions with other medicines or any food and drink
+
 • the patient's other illnesses, for example, the need for dose adjustment in a patient with renal impairment
+
 • any drug allergies (see the NICE guideline on drug allergy; these should be documented in the patient's record)
+
 • the risk of selection for organisms causing healthcare-associated infections, for example, C. difficile.
 
 1.1.36 When prescribing is outside local (where available) or national guidelines, document in the patient's records the reasons for the decision.1.1.37 Do not issue repeat prescriptions for antimicrobials unless needed for a particular clinical condition or indication. Avoid issuing repeat prescriptions for longer than 6 months without review and ensure adequate monitoring for individual patients to reduce adverse drug reactions and to check whether continuing an antimicrobial is really needed.

@@ -62,7 +62,9 @@ Who is it for?
 • Commissioners
 • Social services
 • Voluntary and private sectors
-• Women who have, or are at risk of, mental health disorders during pregnancy and the postnatal period and their partners, families and carersRecommendations
+• Women who have, or are at risk of, mental health disorders during pregnancy and the postnatal period and their partners, families and carers
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Recommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
 
@@ -254,7 +256,7 @@ TCAs, SSRIs, (S)NRIs
 
 • the woman's previous response to these drugs
 
-• the stage of pregnancy (for example, see the MHRA's drug safety update on SSRI/SNRI antidepressant medicines: for information on a small increased risk of postpartum haemorrhage with SSRI and SNRI antidepressant medicineswhen used in the month before delivery)
+• the stage of pregnancy (for example, see the MHRA's drug safety update on SSRI/SNRI antidepressant medicines: for information on a small increased risk of postpartum haemorrhage with SSRI and SNRI antidepressant medicines)when used in the month before delivery)
 
 • what is known about the reproductive safety of these drugs (for example, the risk of fetal cardiac abnormalities and persistent pulmonary hypertension in the newborn baby)
 
@@ -398,35 +400,42 @@ If she responds positively, consider:
 
 Severe mental illness
 
-1.5.9 At a woman's first contact with services in pregnancy and the postnatal period, ask about:1.6 Assessment and care planning in pregnancy and the postnatal period
+1.5.9 At a woman's first contact with services in pregnancy and the postnatal period, ask about:• any past or present severe mental illness
+• past or present treatment by a specialist mental health service, including inpatient care
+• any severe perinatal mental illness in a first-degree relative (mother, sister or daughter). [2014]
+
+1.5.10 Refer to a secondary mental health service (preferably a specialist perinatal mental health service) for assessment and treatment, all women who:
+
+• have or are suspected to have severe mental illness
+• have any history of severe mental illness (during pregnancy or the postnatal period or at any other time).
+
+Ensure that the woman's GP knows about the referral. [2014]
+
+1.5.11 If a woman has any past or present severe mental illness or there is a family history of severe perinatal mental illness in a first-degree relative, be alert for possible symptoms of postpartum psychosis in the first 2 weeks after childbirth. [2014]
+
+1.5.12 If a woman has sudden onset of symptoms suggesting postpartum psychosis, refer her to a secondary mental health service (preferably a specialist perinatal mental health service) for immediate assessment (within 4 hours of referral). [2014]
+
+Alcohol and drug misuse
+
+1.5.13 If alcohol misuse is suspected, use the Alcohol Use Disorders Identification Test (AUDIT) as an identification tool in line with recommendation 1.2.1.4 of the NICE guideline on alcohol-use disorders. [2014]
+
+1.5.14 If drug misuse is suspected, follow the recommendations on identification and assessment in the NICE guideline on drug misuse in over 16s: psychosocial interventions. [2014]1.6 Assessment and care planning in pregnancy and the postnatal period
 
 1.6.1 Assessment and diagnosis of a suspected mental health problem in pregnancy and the postnatal period should include:
 
-• history of any mental health problem, including in pregnancy or the postnatal period
-
-• physical wellbeing (including weight, smoking, nutrition and activity level) and history of any physical health problem
-
-• alcohol and drug misuse
-
-• the woman's attitude towards the pregnancy, including denial of pregnancy
-
-• the woman's experience of pregnancy and any problems experienced by her, the fetus or the baby
-
-• the mother–baby relationship
-
-• any past or present treatment for a mental health problem, and response to any treatment
-
-• social networks and quality of interpersonal relationships
-
-• living conditions and social isolation
-
-• family history (first-degree relative) of mental health problems
-
-• domestic violence and abuse, sexual abuse, trauma or childhood maltreatment
-
-• housing, employment, economic and immigration status
-
-• responsibilities as a carer for other children and young people or other adults. [2014]
+- history of any mental health problem, including in pregnancy or the postnatal period
+- physical wellbeing (including weight, smoking, nutrition and activity level) and history of any physical health problem
+- alcohol and drug misuse
+- the woman's attitude towards the pregnancy, including denial of pregnancy
+- the woman's experience of pregnancy and any problems experienced by her, the fetus or the baby
+- the mother–baby relationship
+- any past or present treatment for a mental health problem, and response to any treatment
+- social networks and quality of interpersonal relationships
+- living conditions and social isolation
+- family history (first-degree relative) of mental health problems
+- domestic violence and abuse, sexual abuse, trauma or childhood maltreatment
+- housing, employment, economic and immigration status
+- responsibilities as a carer for other children and young people or other adults. [2014]
 
 1.6.2 When assessing or treating a mental health problem in pregnancy or the postnatal period, take account of any learning disabilities or acquired cognitive impairments, and assess the need to consult with a specialist when developingcare plans. [2014]
 
@@ -515,25 +524,17 @@ Interventions for anxiety disorders
 1.8.9 For a woman with an anxiety disorder in pregnancy or the postnatal period, offer a low-intensity psychological intervention (for example, facilitated self-help) or a high-intensity psychological intervention (for example, CBT) as initial treatment in line with the recommendations set out in the NICE guideline for the specific mental health problem and be aware that:
 
 • only high-intensity psychological interventions are recommended for post-traumatic stress disorder
-
 • high-intensity psychological interventions are recommended for the initial treatment of social anxiety disorder
-
 • progress should be closely monitored and a high-intensity psychological intervention offered within 2 weeks if symptoms have not improved. [2014]
 
 1.8.10 If a woman who is taking a TCA, SSRI or (S)NRI for an anxiety disorder becomes pregnant, discuss with her the following options:
 
 • stopping the medication gradually and switching to a high-intensity psychological intervention (for example, CBT)
-
 • continuing with medication if she understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and:
-
   — has expressed a preference for medication or
-
   — declines psychological interventions or
-
   — her symptoms have not responded to psychological interventions
-
 • changing medication if there is a drug that is effective for her with a lower risk of adverse effects
-
 • combining medication with a high-intensity psychological intervention (for example, CBT) if the woman understands the risks associated with the medication and the mental health problem in pregnancy and the postnatal period and there is no response, or a limited response, to a high-intensity psychological intervention alone. [2014]Psychological interventions for eating disorders
 
 1.8.11 For a woman with an eating disorder in pregnancy or the postnatal period:
@@ -558,24 +559,24 @@ Interventions for severe mental illness
 
 1.8.16 Consider psychological interventions for women with bipolar disorder. This includes:
 
-• CBT, IPT and behavioural couples therapy for bipolar depression
-• structured individual, group and family interventions designed for bipolar disorder to reduce the risk of relapse, particularly when medication is changed or stopped. [2014]
+- CBT, IPT and behavioural couples therapy for bipolar depression
+- structured individual, group and family interventions designed for bipolar disorder to reduce the risk of relapse, particularly when medication is changed or stopped. [2014]
 
 1.8.17 If a pregnant woman develops mania or psychosis and is not taking psychotropic medication, offer an antipsychotic. [2014]
 
 1.8.18 Consider psychological interventions (CBT or family intervention) delivered as described in the section on how to deliver psychological interventions in the NICE guideline on psychosis and schizophrenia in adults, for a woman with psychosis or schizophrenia who becomes pregnant and is at risk of relapse arising from:
 
-• stress associated with pregnancy or the postnatal period
-• a change in medication, including stopping antipsychotic medication. [2014]
+- stress associated with pregnancy or the postnatal period
+- a change in medication, including stopping antipsychotic medication. [2014]
 
 1.8.19 Offer an antipsychotic in line with recommendations 1.5.3 and 1.5.4 of the NICE guideline on bipolar disorder as prophylactic medication if a woman with bipolar disorder:
 
-• becomes pregnant and is stopping lithium, or
-• plans to breastfeed. [2014]
+- becomes pregnant and is stopping lithium, or
+- plans to breastfeed. [2014]
 
 1.8.20 If a pregnant woman with bipolar disorder develops mania while taking prophylactic medication:
 
-• check the dose of the prophylactic medication and adherence• increase the dose if the prophylactic medication is an antipsychotic
+- check the dose of the prophylactic medication and adherence• increase the dose if the prophylactic medication is an antipsychotic
 • suggest changing to an antipsychotic if she is taking another type of prophylactic medication
 • consider lithium if there is no response to an increase in dose or change of drug and the woman has severe mania
 • consider electroconvulsive therapy (ECT) if there has been no response to lithium. [2014]
@@ -845,7 +846,7 @@ The guideline draws on the best available evidence. However, there are significa
 
 Medicines
 
-No psychotropic medication has a UK marketing authorisation specifically for women who are pregnant or breastfeeding. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The woman (or those with authority to give consent on her behalf) should provide informed consent, which should be documented. See the General Medical Council's good practice in prescribing and managing medicines and devices for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'),Finding more information and committee details
+No psychotropic medication has a UK marketing authorisation specifically for women who are pregnant or breastfeeding. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The woman (or those with authority to give consent on her behalf) should provide informed consent, which should be documented. See the General Medical Council's good practice in prescribing and managing medicines and devices for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'),these medicines are marked in the recommendations.Finding more information and committee details
 
 To find NICE guidance on related topics, including guidance in development, see the NICE topic pages on pregnancy and mental health and wellbeing.
 

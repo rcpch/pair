@@ -15,11 +15,14 @@ Local commissioners and providers of healthcare have a responsibility to enable 
 
 Commissioners and providers have a responsibility to promote an environmentally sustainable health and care system and should assess and reduce the environmental impact of implementing NICE recommendations wherever possible.## Contents
 
-Overview ... 5
+### Overview ... 5
 Who is it for? ... 5
-Introduction ... 6
-Key priorities for implementation ... 8
-Recommendations ... 10
+
+### Introduction ... 6
+
+### Key priorities for implementation ... 8
+
+### Recommendations ... 10
 1.1 Principles of care ... 10
 1.2 Information for the child or young person and family ... 11
 1.3 Assessment and investigation ... 11
@@ -38,19 +41,17 @@ Recommendations ... 10
 1.16 Children under 5 years with bedwetting ... 29
 Terms used in this guideline ... 30
 
-Research recommendations ... 32
+### Research recommendations ... 32
 1 Multicomponent treatments ... 32
 2 Standard interventions ... 33
 3 Psychological functioning and quality of life ... 34
 4 Complementary therapies ... 34
 
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).5 Bedwetting in adolescents... 35
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).5 Bedwetting in adolescents 35
 
-Finding more information and committee details... 37
+Finding more information and committee details 37
 
-Update information... 38
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).This guideline is the basis of QS70.
+Update information 38This guideline is the basis of QS70.
 
 Overview
 
@@ -232,11 +233,13 @@ For the purposes of this guideline we have used the terms 'bedwetting' and 'dayt
 Table 1 Findings from the history and their possible interpretation
 
 | Findings from history | Possible interpretation |
-|---------------|-----------------------|
+| :--- | :--- |
 | Large volume of urine in the first few hours of night | Typical pattern for bedwetting only. |
 | Variable volume of urine, often more than once a night | Typical pattern for children and young people who have bedwetting and daytime symptoms with possible underlying overactive bladder. |
 | Bedwetting every night | Severe bedwetting, which is less likely to resolve spontaneously than infrequent bedwetting. |
-| Previously dry for more than 6 months | Bedwetting is defined as secondary. || Findings from history | Possible interpretation |
+| Previously dry for more than 6 months | Bedwetting is defined as secondary. |
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of conditions#notice-of-rights).| Findings from history | Possible interpretation |
 | :--- | :--- |
 | • Daytime frequency | Any of these may indicate the presence of a bladder disorder such as overactive bladder or more rarely (when symptoms are very severe and persistent) an underlying urological disease. |
 | • Daytime urgency | Any of these may indicate the presence of a bladder disorder such as overactive bladder or more rarely (when symptoms are very severe and persistent) an underlying urological disease. |
@@ -263,6 +266,7 @@ Practical issues: Easy access to a toilet at night, sharing a bedroom or bed and
 1.4.3 Explore the child or young person's views about their bedwetting, including:
 
 • what they think the main problem is
+
 • whether they think the problem needs treatment.
 
 1.4.4 Explore and assess the ability of the family to cope with using an alarm for the treatment of bedwetting.
@@ -274,6 +278,7 @@ Practical issues: Easy access to a toilet at night, sharing a bedroom or bed and
 1.5.1 Advise children and young people with bedwetting and their parents or carers that:
 
 • adequate daily fluid intake is important in the management of bedwetting
+
 • daily fluid intake varies according to ambient temperature, dietary intake and physical activity. A suggested intake of drinks is given in table 2:Table 2 Suggested daily intake of drinks for children and young people
 
 | Age | Total drinks per day |
@@ -414,7 +419,9 @@ Using an alarm
 1.10.5 Assess the response to desmopressin at 4 weeks and continue treatment for 3 months if there are signs of a response. Consider stopping if there are no signs of response. Signs of response include:
 
 • smaller wet patches
+
 • fewer wetting episodes per night
+
 • fewer wet nights.
 
 1.10.6 Do not exclude desmopressin as an option for the treatment of bedwetting in children and young people with sickle cell disease if an alarm is inappropriate or undesirable and they can comply with night-time fluid restriction. Provide advice about withdrawal of desmopressin at times of sickle cell crisis.
@@ -426,18 +433,14 @@ Using an alarm
 1.10.9 If offering desmopressin for bedwetting, inform the child or young person and their parents or carers:
 
 • that many children and young people, but not all, will experience a reduction in wetness
+
 • that many children and young people, but not all, will relapse when treatmentis withdrawn
 
 • how desmopressin works
-
 • of the importance of fluid restriction from 1 hour before until 8 hours after taking desmopressin
-
 • that it should be taken at bedtime
-
 • if appropriate, how to increase the dose if there is an inadequate response to the starting dose
-
 • to continue treatment with desmopressin for 3 months
-
 • that repeated courses of desmopressin can be used.
 
 1.10.10 Consider advising that desmopressin should be taken 1 to 2 hours before bedtime in children and young people with bedwetting that has either partially responded or not responded to desmopressin taken at bedtime. Ensure that the child or young person can comply with fluid restriction starting from 1 hour before the drug is taken.
@@ -462,7 +465,7 @@ Using an alarm
 
 1.13 Anticholinergics
 
-In October 2010, treating bedwetting in children and young people was an off-label use of some anticholinergic drugs. See NICE's information on prescribing medicines.
+In October 2010, treating bedwetting in children and young people was an off label use of some anticholinergic drugs. See NICE's information on prescribing medicines.
 
 1.13.1 Do not use an anticholinergic alone for the management of bedwetting in children and young people without daytime symptoms.
 
@@ -529,7 +532,7 @@ Children are generally expected to be dry at night by a developmental age of 5 y
 
 1.16.3 Suggest a trial of at least 2 nights in a row without nappies or pull-ups for a child with bedwetting who is under 5 years and has been toilet trained by day for longer than 6 months. Offer advice on alternative bed protection to parents and carers. Consider a longer trial in children:
 
-• who are older• who achieve a reduction in wetness
+- who are older• who achieve a reduction in wetness
 • whose family circumstances allow the trial to continue.
 
 1.16.4 Advise the parents or carers of a child under 5 years with bedwetting that if the child wakes at night, they should take him or her to the toilet.

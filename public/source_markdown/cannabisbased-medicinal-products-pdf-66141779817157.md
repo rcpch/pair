@@ -170,23 +170,16 @@ Factors to think about when prescribing
 1.5.5 When prescribing and monitoring cannabis-based medicinal products, take into account:
 
 • current and past use of cannabis (including any over-the-counter and online products)
-
 • history of substance misuse including the illicit use of cannabis
-
 • potential for dependence, diversion and misuse (in particular with THC)
-
 • mental health and medical history, in particular, liver impairment, renal impairment, cardiovascular disease
-
 • potential for interaction with other medicines, for example, central nervous system depressants and other centrally active drugs, antiepileptics and hormonal contraceptives
-
 • pregnancy and breastfeeding (breastfeeding is a contraindication for Sativex and nabilone; there is limited evidence on the safety of cannabis-based medicinal products during pregnancy and breastfeeding).
 
 1.5.6 When prescribing cannabis-based medicinal products for babies, children and young people, pay particular attention to the:
 
 • potential impact on psychological, emotional and cognitive development
-
 • potential impact of sedation
-
 • potential impact on structural and functional brain development.NICE has produced a guideline on babies, children and young people's experience of healthcare.
 
 1.5.7 When prescribing cannabis-based medicinal products, advise people to stop any non-prescribed cannabis, including over-the-counter, online and illicit products.
@@ -204,10 +197,15 @@ Supporting shared decision making
 1.5.10 Before prescribing cannabis-based medicinal products, discuss with people:
 
 • the potential benefits and harms, including any risk of dependence or interaction with other medicines
+
 • the licensing status of the medicines
+
 • how long they might take the medicine
+
 • how long it will take to work
+
 • what it has been prescribed for and how to take it
+
 • how it may affect their ability to drive (see the advice from the Department of Transport on drug driving and medicine)• the need to seek advice before travelling abroad about the legality of cannabis-based medicinal products in other countries (see the UK Government's advice on travelling with medicine containing a controlled drug).
 
 • the importance of not allowing others to use the prescribed medicine.
@@ -240,7 +238,7 @@ The guideline committee has made the following recommendations for research.
 
 Key recommendations for research
 
-1. Fibromyalgia or persistent treatment-resistant neuropathic pain in adults
+1 Fibromyalgia or persistent treatment-resistant neuropathic pain in adults
 
 For adults with fibromyalgia or persistent treatment-resistant neuropathic pain, what is the clinical and cost effectiveness of cannabidiol (CBD), containing no, or traces of, delta-9-tetrahydrocannabinol (THC), as an add-on to standard treatment?
 
@@ -248,15 +246,13 @@ For a short explanation of why the committee made the recommendation for researc
 
 Full details of the evidence and the committee's discussion are in evidence review B: chronic pain.
 
-2. Chronic pain in children and young people
+2 Chronic pain in children and young people
 
 For children and young people with intractable cancer-related pain and pain associated with specific diseases (such as epidermolysis bullosa), what is the clinical and cost effectiveness of cannabis-based medicinal products as an add-on to standard treatment to improve symptoms compared with treatment with standard care?
 
 For a short explanation of why the committee made the recommendation for research, see the rationale section on chronic pain.
 
-Full details of the evidence and the committee's discussion are in evidence review B: chronic pain.
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).3 CBD for severe treatment-resistant epilepsy
+Full details of the evidence and the committee's discussion are in evidence review B: chronic pain.3 CBD for severe treatment-resistant epilepsy
 
 What is the clinical and cost effectiveness of CBD in epileptic disorders in children, young people and adults?
 

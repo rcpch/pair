@@ -54,6 +54,7 @@ This guideline covers principles for working with people with antisocial persona
 Who is it for?
 
 • Healthcare professionals
+
 • People with antisocial personality disorder, their families and carersRecommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
@@ -97,7 +98,6 @@ People with antisocial personality disorder have tended to be excluded from serv
 1.1.1.5 When working with women with antisocial personality disorder take into accountthe higher incidences of common comorbid mental health problems and other personality disorders in such women, and:
 
 • adapt interventions in light of this (for example, extend their duration)
-
 • ensure that in inpatient and residential settings the increased vulnerability of these women is taken into account.
 
 1.1.1.6 Staff, in particular key workers, working with people with antisocial personality disorder should establish regular one-to-one meetings to review progress, even when the primary mode of treatment is group based.
@@ -113,7 +113,6 @@ People with antisocial personality disorder have tended to be excluded from serv
 1.1.3.1 Work in partnership with people with antisocial personality disorder to develop their autonomy and promote choice by:
 
 • ensuring that they remain actively involved in finding solutions to their problems, including during crises
-
 • encouraging them to consider the different treatment options and life choices available to them, and the consequences of the choices they make.1.1.4 Developing an optimistic and trusting relationship
 
 1.1.4.1 Staff working with people with antisocial personality disorder should recognise that a positive and rewarding approach is more likely to be successful than a punitive approach in engaging and retaining people in treatment. Staff should explore treatment options in an atmosphere of hope and optimism, explaining that recovery is possible and attainable.
@@ -152,9 +151,7 @@ The evidence for the treatment of antisocial personality disorder in adult life 
 1.2.2.1 Services should establish robust methods to identify children at risk of developing conduct problems, integrated when possible with the established local assessment system. These should focus on identifying vulnerable parents, where appropriate antenatally, including:
 
 • parents with other mental health problems, or with significant drug or alcohol problems.• mothers younger than 18 years, particularly those with a history of maltreatment in childhood
-
 • parents with a history of residential care
-
 • parents with significant previous or current contact with the criminal justice system.
 
 1.2.2.2 When identifying vulnerable parents, take care not to intensify any stigma associated with the intervention or increase the child's problems by labelling them as antisocial or problematic.
@@ -191,10 +188,13 @@ Primary care services
 
 1.3.2.1 Assessing risk of violence is not routine in primary care, but if such assessment is required consider:
 
-- current or previous violence, including severity, circumstances, precipitants and victims
-- the presence of comorbid mental disorders and/or substance misuse
-- current life stressors, relationships and life events
-- additional information from written records or families and carers (subject to the person's consent and right to confidentiality), because the person with antisocial personality disorder might not always be a reliable source of information.
+• current or previous violence, including severity, circumstances, precipitants and victims
+
+• the presence of comorbid mental disorders and/or substance misuse
+
+• current life stressors, relationships and life events
+
+• additional information from written records or families and carers (subject to the person's consent and right to confidentiality), because the person with antisocial personality disorder might not always be a reliable source of information.
 
 1.3.2.2 Healthcare professionals in primary care should consider contact with and/or referral to secondary or forensic services where there is current violence or threats that suggest significant risk and/or a history of serious violence, including predatory offending or targeting of children or other vulnerable people.
 
@@ -202,8 +202,9 @@ Secondary care services
 
 1.3.2.3 When assessing the risk of violence in secondary care mental health services, take a detailed history of violence and consider and record:
 
-- current or previous violence, including severity, circumstances, precipitants and victims
-- contact with the criminal justice system, including convictions and periods of imprisonment• the presence of comorbid mental disorder and/or substance misuse
+• current or previous violence, including severity, circumstances, precipitants and victims
+
+• contact with the criminal justice system, including convictions and periods of imprisonment• the presence of comorbid mental disorder and/or substance misuse
 • current life stressors, relationships and life events
 • additional information from written records or families and carers (subject to the person's consent and right to confidentiality), as the person with antisocial personality disorder might not always be a reliable source of information.
 
@@ -243,10 +244,10 @@ The evidence base for the treatment of antisocial personality disorder is limite
 
 1.4.1.2 When providing psychological or pharmacological interventions for antisocial personality disorder, offending behaviour or comorbid disorders to people with antisocial personality disorder, be aware of the potential for and possible impact of:
 
-• poor concordance
-• high attrition
-• misuse of prescribed medication
-• drug interactions (including with alcohol and illicit drugs).
+- poor concordance
+- high attrition
+- misuse of prescribed medication
+- drug interactions (including with alcohol and illicit drugs).
 
 1.4.1.3 When providing psychological interventions for comorbid disorders to people with antisocial personality disorder, consider lengthening their duration or increasing their intensity.
 
@@ -357,7 +358,31 @@ Supervision and support
 
 • comprehensive induction programmes in which the purpose of the service is made clear
 • a supportive and open environment that encourages reflective practice and honesty about individual difficulties such as the potential for therapeutic boundary violations (such as inappropriate relations with service users)
-• continuing staff support to review and explore the ethical and clinical challenges involved in working in high-intensity environments, thereby building staff capacity and resilience.systems and processes related to antisocial behaviour (for example, parental discipline, family affective relations, peer associations and school performances) for children or young people in foster care and other out-of-home placements. This includes group meetings and other support for the foster parents and family therapy with the child's biological parents.
+• continuing staff support to review and explore the ethical and clinical challenges involved in working in high-intensity environments, thereby building staff capacity and resilience.Terms used in this guideline
+
+Anger control
+
+Usually offered to children who are aggressive at school, anger control includes a number of cognitive and behavioural techniques similar to cognitive problem-solving skills training (see below). It also includes training of other skills such as relaxation and social skills.
+
+Brief strategic family therapy
+
+An intervention that is systemic in focus and is influenced by other approaches. The main elements include engaging and supporting the family, identifying maladaptive family interactions and seeking to promote new and more adaptive family interactions.
+
+Cognitive problem-solving skills training
+
+An intervention that aims to reduce children's conduct problems by teaching them different responses to interpersonal situations. Using cognitive and behavioural techniques with the child, the training has a focus on thought processes. The training includes:
+
+• teaching a step-by-step approach to solving interpersonal problems
+• structured tasks such as games and stories to aid the development of skills
+• combining a variety of approaches including modelling and practice, role-playing and reinforcement.
+
+Functional family therapy
+
+A family-based intervention that is behavioural in focus. The main elements include engagement and motivation of the family in treatment, problem-solving and behaviour change through parent-training and communication-training, and seeking to generalise change from specific behaviours to positively influence interactions both within the family and with community agencies such as schools.
+
+Multidimensional treatment foster care
+
+Using strategies from family therapy and behaviour therapy to intervene directly insystems and processes related to antisocial behaviour (for example, parental discipline, family affective relations, peer associations and school performances) for children or young people in foster care and other out-of-home placements. This includes group meetings and other support for the foster parents and family therapy with the child's biological parents.
 
 Multisystemic therapy
 
@@ -376,6 +401,7 @@ Social problem skills training
 A specialist form of cognitive problem-solving training that aims to:
 
 • modify and expand the child's interpersonal appraisal processes through developing a more sophisticated understanding of beliefs and desires in others
+
 • improve the child's capacity to regulate his or her own emotional responses.Recommendations for research
 
 The guideline development group has made the following recommendations for research, based on its review of evidence, to improve NICE guidance and patient care in the future. The relatively large number of recommendations made reflects the paucity of research in this area.
@@ -406,7 +432,7 @@ Do specially designed parent-training programmes focused on sensitivity enhancem
 
 Why this is important
 
-There is limited evidence from non-UK studies that interventions focused on developing better parent–child attachment can have benefits for infants at risk of developing conduct disorder. Determining the criteria and then identifying children at high risk (usually via parental risk factors) is difficult and challenging. Even when these factors are agreed, engaging parents in treatment can be difficult. It is important that a range of effective interventions is developed to increase the treatment choice and opportunities for high-risk groups. Several interventions, such as Nurse–Family Practitioners, are being developedand trialled in the UK. It is important for this group of children to have an alternative, effective intervention.
+There is limited evidence from non-UK studies that interventions focused on developing better parent–child attachment can have benefits for infants at risk of developing conduct disorder. Determining the criteria and then identifying children at high risk (usually via parental risk factors) is difficult and challenging. Even when these factors are agreed, engaging parents in treatment can be difficult. It is important that a range of effective interventions is developed to increase the treatment choice and opportunities for high-risk groups. Several interventions, such as Nurse–Family Practitioners, are being developed.and trialled in the UK. It is important for this group of children to have an alternative, effective intervention.
 
 5 Treatment of comorbid anxiety disorders in antisocial personality disorder
 

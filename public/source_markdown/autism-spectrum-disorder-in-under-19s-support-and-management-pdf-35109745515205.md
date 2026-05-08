@@ -66,9 +66,7 @@ Recommendations for research ... 31
 
 4 Teacher-, parent- and peer-mediated psychosocial interventions in pre-school autistic children ... 33
 
-Finding more information and committee details ... 35
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Autism spectrum disorder in under 19s: support and management (CG170)
+Finding more information and committee details ... 35Autism spectrum disorder in under 19s: support and management (CG170)
 
 Update information ... 36Introduction
 
@@ -142,10 +140,10 @@ Psychosocial interventions
 
 • Consider a specific social-communication intervention for the core features of autismin children and young people that includes play-based strategies with parents, carers and teachers to increase joint attention, engagement and reciprocal communication in the child or young person. Strategies should:
 
-- be adjusted to the child or young person's developmental level
-- aim to increase the parents', carers', teachers' or peers' understanding of, and sensitivity and responsiveness to, the child or young person's patterns of communication and interaction
-- include techniques of therapist modelling and video-interaction feedback
-- include techniques to expand the child or young person's communication, interactive play and social routines.
+— be adjusted to the child or young person's developmental level
+— aim to increase the parents', carers', teachers' or peers' understanding of, and sensitivity and responsiveness to, the child or young person's patterns of communication and interaction
+— include techniques of therapist modelling and video-interaction feedback
+— include techniques to expand the child or young person's communication, interactive play and social routines.
 
 The intervention should be delivered by a trained professional. For pre-school children consider parent, carer or teacher mediation. For school-aged children consider peer mediation.
 
@@ -153,13 +151,15 @@ Anticipating and preventing behaviour that challenges
 
 • Assess factors that may increase the risk of behaviour that challenges in routine assessment and care planning in autistic children and young people, including:
 
-  - impairments in communication that may result in difficulty understanding situations or in expressing needs and wishes
-  - coexisting physical disorders, such as pain or gastrointestinal disorders
-  - coexisting mental health problems such as anxiety or depression and other neurodevelopmental conditions such as ADHD
-  - the physical environment, such as lighting and noise levels
-  - the social environment, including home, school and leisure activities
-  - changes to routines or personal circumstances
-  - developmental change, including pubertyexploitation or abuse by others
+— impairments in communication that may result in difficulty understanding situations or in expressing needs and wishes
+— coexisting physical disorders, such as pain or gastrointestinal disorders
+— coexisting mental health problems such as anxiety or depression and other neurodevelopmental conditions such as ADHD
+— the physical environment, such as lighting and noise levels
+— the social environment, including home, school and leisure activities
+— changes to routines or personal circumstances
+— developmental change, including puberty
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of conditions#notice-of-rights).exploitation or abuse by others
 inadvertent reinforcement of behaviour that challenges
 the absence of predictability and structure.
 

@@ -36,7 +36,9 @@ Context ... 35
 
 Finding more information and committee details ... 38
 
-Update information ... 39This guideline is the basis of QS11.
+Update information ... 39
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).This guideline is the basis of QS11.
 
 This guideline should be read in conjunction with PH24.
 
@@ -49,7 +51,9 @@ NICE has also produced guidelines on alcohol-use disorders: prevention (public h
 Who is it for?
 
 • Healthcare professionals
-• People with alcohol-use disorders, their families and carersRecommendations
+• People with alcohol-use disorders, their families and carers
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Recommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
 
@@ -148,10 +152,13 @@ Brief triage assessment
 
 1.2.2.5 All adults who misuse alcohol who are referred to specialist alcohol services should have a brief triage assessment to assess:
 
-- the pattern and severity of the alcohol misuse (using AUDIT) and severity of dependence (using SADQ)
-- the need for urgent treatment including assisted withdrawal
-- any associated risks to self or others
-- the presence of any comorbidities or other factors that may need further specialist assessment or intervention.
+• the pattern and severity of the alcohol misuse (using AUDIT) and severity of dependence (using SADQ)
+
+• the need for urgent treatment including assisted withdrawal
+
+• any associated risks to self or others
+
+• the presence of any comorbidities or other factors that may need further specialist assessment or intervention.
 
 Agree the initial treatment plan, taking into account the service user's preferences and outcomes of any previous treatment.Comprehensive assessment
 
@@ -161,11 +168,16 @@ Agree the initial treatment plan, taking into account the service user's prefere
   — consumption: historical and recent patterns of drinking (using, for example, a retrospective drinking diary), and if possible, additional information (for example, from a family member or carer)
   — dependence (using, for example, SADQ or LDQ)
   — alcohol-related problems (using, for example, APQ)
-  • other drug misuse, including over-the-counter medication
-  • physical health problems
-  • psychological and social problems
-  • cognitive function (using, for example, the Mini-Mental State Examination [MMSE])
-  • readiness and belief in ability to change.
+
+• other drug misuse, including over-the-counter medication
+
+• physical health problems
+
+• psychological and social problems
+
+• cognitive function (using, for example, the Mini-Mental State Examination [MMSE])
+
+• readiness and belief in ability to change.
 
 1.2.2.7 Assess comorbid mental health problems as part of any comprehensive assessment, and throughout care for the alcohol misuse, because many comorbid problems (though not all) will improve with treatment for alcohol misuse. Use the assessment of comorbid mental health problems to inform the development of the overall care plan.
 
@@ -267,9 +279,8 @@ See section 1.3.7 for assessment for assisted withdrawal in children and young p
 
 1.3.4.1 For service users who typically drink over 15 units of alcohol per day and/or who score 20 or more on the AUDIT, consider offering:
 
-• an assessment for and delivery of a community-based assisted withdrawal or
-
-• assessment and management in specialist alcohol services if there are safety concerns (see recommendation 1.3.4.5) about a community-based assisted withdrawal.1.3.4.2 Service users who need assisted withdrawal should usually be offered a community-based programme, which should vary in intensity according to the severity of the dependence, available social support and the presence of comorbidities.
+- an assessment for and delivery of a community-based assisted withdrawal or
+- assessment and management in specialist alcohol services if there are safety concerns (see recommendation 1.3.4.5) about a community-based assisted withdrawal.1.3.4.2 Service users who need assisted withdrawal should usually be offered a community-based programme, which should vary in intensity according to the severity of the dependence, available social support and the presence of comorbidities.
 
 • For people with mild to moderate dependence, offer an outpatient-based assisted withdrawal programme in which contact between staff and the service user averages 2 to 4 meetings per week over the first week.
 
@@ -395,7 +406,23 @@ In February 2011, this was an off-label use of benzodiazepines. See NICE's infor
 
 Drugs not to be routinely used for the treatment of alcohol misuse
 
-1.3.6.13 Do not use antidepressants (including selective serotonin reuptake inhibitorsSeverity Index [T-ASI]), and cover the following areas:
+1.3.6.13 Do not use antidepressants (including selective serotonin reuptake inhibitors1.3.7 Special considerations for children and young people who misuse alcohol
+
+Assessment and referral of children and young people
+
+1.3.7.1 If alcohol misuse is identified as a potential problem, with potential physical, psychological, educational or social consequences, in children and young people aged 10 to 17 years, conduct an initial brief assessment to assess:
+
+• the duration and severity of the alcohol misuse (the standard adult threshold on the AUDIT for referral and intervention should be lowered for young people aged 10 to 16 years because of the more harmful effects of a given level of alcohol consumption in this population)
+
+• any associated health and social problems
+
+• the potential need for assisted withdrawal.
+
+1.3.7.2 Refer all children and young people aged 10 to 15 years to a specialist child and adolescent mental health service (CAMHS) for a comprehensive assessment of their needs, if their alcohol misuse is associated with physical, psychological, educational and social problems and/or comorbid drug misuse.
+
+1.3.7.3 When considering referral to CAMHS for young people aged 16 to 17 years who misuse alcohol, use the same referral criteria as for adults (see section 1.2.2).
+
+1.3.7.4 A comprehensive assessment for children and young people (supported if possible by additional information from a parent or carer) should assess multiple areas of need, be structured around a clinical interview using a validated clinical tool (such as the Adolescent Diagnostic Interview [ADI] or the Teen AddictionSeverity Index [T-ASI]), and cover the following areas:
 
 • consumption, dependence features and patterns of drinking
 • comorbid substance misuse (consumption and dependence features) and associated problems

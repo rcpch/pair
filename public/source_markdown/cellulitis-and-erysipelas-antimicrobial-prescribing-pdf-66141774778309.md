@@ -15,17 +15,17 @@ Local commissioners and providers of healthcare have a responsibility to enable 
 
 Commissioners and providers have a responsibility to promote an environmentally sustainable health and care system and should assess and reduce the environmental impact of implementing NICE recommendations wherever possible.## Contents
 
-### Overview ... 4
+Overview ... 4
 Who is it for? ... 4
 
-### Recommendations ... 5
+Recommendations ... 5
 1.1 Managing cellulitis and erysipelas ... 5
 1.2 Choice of antibiotic ... 8
 1.3 Preventing recurrent cellulitis or erysipelas ... 19
 1.4 Choice of antibiotic prophylaxis ... 20
 Terms used in the guideline ... 21
 
-### Summary of the evidence ... 22
+Summary of the evidence ... 22
 Managing cellulitis and erysipelas ... 22
 Choice of antibiotics ... 25
 Antibiotic dose frequency ... 34
@@ -33,13 +33,13 @@ Antibiotic course length ... 34
 Antibiotic route of administration ... 34
 Antibiotic prophylaxis for the prevention of recurrent cellulitis and erysipelas ... 37
 
-### Other considerations ... 40
+Other considerations ... 40
 Medicines adherence ... 40
 Resource implications ... 40
 
-### Finding more information and committee details ... 41
+Finding more information and committee details ... 41
 
-### Update information ... 42Overview
+Update information ... 42Overview
 
 This guideline sets out an antimicrobial prescribing strategy for adults, young people, children and babies aged 72 hours and over with cellulitis and erysipelas. It aims to optimise antibiotic use and reduce antibiotic resistance.
 
@@ -123,10 +123,15 @@ Advice
 1.1.14 Consider referring people with cellulitis or erysipelas to hospital, or seek specialist advice, if they:
 
 • are severely unwell or
+
 • have infection near the eyes or nose (including periorbital cellulitis) or
+
 • could have uncommon pathogens, for example, after a penetrating injury, exposure to water-borne organisms, or an infection acquired outside the UK or
+
 • have spreading infection that is not responding to oral antibiotics or
+
 • lymphangitis or
+
 • cannot take oral antibiotics (exploring locally available options for giving intravenous antibiotics at home or in the community, rather than in hospital, where appropriate).
 
 For a short explanation of why the committee made these recommendations, see the summary of the evidence on managing cellulitis and erysipelas.
@@ -136,6 +141,7 @@ For a short explanation of why the committee made these recommendations, see the
 1.2.1 When prescribing an antibiotic for cellulitis or erysipelas, follow:
 
 • table 1 for adults aged 18 years and over
+
 • table 2 for children and young people under 18 years.Table 1 Antibiotics for adults aged 18 years and over
 
 | Treatment | Antibiotic, dosage and course length |
@@ -285,22 +291,21 @@ under 8 kg, 7.5 mg/kg twice a day orally
 
 2 months to 17 years, 7.5 mg/kg three times a day intravenously (maximum per dose 500 mg)Treatment Antibiotic, dosage and course length
 
-**Co-amoxiclav** (7 days):
+Co-amoxiclav (7 days):
 1 month to 11 months, 0.25 ml/kg of 125/31 suspension three times a day orally (dose can be doubled)
 1 year to 5 years, 0.25 ml/kg or 5 ml of 125/31 suspension three times a day orally (dose can be doubled)
 6 years to 11 years, 0.15 ml/kg or 5 ml of 250/62 suspension three times a day orally (dose can be doubled)
 12 years to 17 years, 250/125 mg or 500/125 mg three times a day orally
-**or** 1 month to 2 months, 30 mg/kg twice a day intravenously
+or 1 month to 2 months, 30 mg/kg twice a day intravenously
 3 months to 17 years, 30 mg/kg three times a day intravenously (maximum 1.2 g three times a day)
 
-**Cefuroxime** (7 days):
+Cefuroxime (7 days):
 1 month to 17 years, 20 mg/kg three times a day intravenously (maximum 750 mg per dose), can be increased to 50 mg/kg to 60 mg/kg three or four times a day intravenously (maximum 1.5 g per dose)
 
-**Clindamycin** (7 days):
+Clindamycin (7 days):
 1 month to 17 years, 3 mg/kg to 6 mg/kg four times a day orally (maximum per dose 450 mg)
-**or** 1 month to 17 years, 3.75 mg/kg to 6.25 mg/kg four times a day intravenously, increased if necessary, in life-threatening infection to 10 mg/kg four times a day intravenously (maximum per dose 1.2 g); total daily dose may alternatively be given in three divided doses (maximum per dose 1.2 g)
 
-**Alternative choice antibiotics for severe infection** (other antibiotics may be appropriate based on microbiological results and specialist advice)Treatment Antibiotic, dosage and course length
+or 1 month to 17 years, 3.75 mg/kg to 6.25 mg/kg four times a day intravenously, increased if necessary, in life-threatening infection to 10 mg/kg four times a day intravenously (maximum per dose 1.2 g); total daily dose may alternatively be given in three divided doses (maximum per dose 1.2 g)Treatment Antibiotic, dosage and course length
 
 Vancomycin:
 1 month to 11 years, 10 mg/kg to 15 mg/kg four times a day intravenously, adjusted according to serum vancomycin concentration
@@ -379,12 +384,10 @@ Table 3 Antibiotic prophylaxis for adults 18 years and over
 | Prophylaxis | Antibiotic and dosage |
 | :--- | :--- |
 | **First choice** | **Phenoxymethylpenicillin:** 250 mg orally twice a day |Prophylaxis
-
 Alternative first choice for penicillin allergy
 Choose antibiotics according to recent microbiological results when possible, and avoid using the same antibiotic for treatment and prophylaxis
 
 Antibiotic and dosage
-
 Erythromycin:
 250 mg orally twice a day
 
@@ -519,15 +522,21 @@ Based on 2 systematic reviews (Bowen et al. 2017 and Kilburn et al. 2010) and 2 
 • There were no differences in the adverse events of the following antibiotic comparisons in adults or children with cellulitis or erysipelas:
 
   – oral cefazolin compared with IV ceftriaxone (Kilburn et al. 2010)
+
   – oral cefalexin plus oral co-trimoxazole compared with oral cefalexin alone (Bowen et al. 2017)
+
   – oral cefalexin or oral clindamycin compared with IV cefazolin or IV clindamycin (Aboltins et al. 2015)
+
   – oral levofloxacin for 5 days compared with 10 days (Kilburn et al. 2010)
+
   – IV ceftriaxone compared with IV flucloxacillin (Kilburn et al. 2010)
+
   – IV daptomycin compared with IV vancomycin (Pertel et al. 2009).
 
 • Some differences were seen for some adverse event outcomes for the following antibiotic comparisons in adults or children with cellulitis or erysipelas:
 
   – flucloxacillin plus clindamycin was significantly worse for adverse events (most commonly diarrhoea) compared with flucloxacillin alone (Brindle et al. 2017)
+
   – IV penicillin was significantly worse for adverse events (no details provided) compared with intramuscular penicillin (Kilburn et al. 2010).
 
 Based on 2 systematic reviews (Bowen et al. 2017 and Kilburn et al. 2010) and 3 RCTs(Brindle et al. 2017, Pertel et al. 2009 and Aboltins et al. 2015).Committee discussion on choice of antibiotics
@@ -544,9 +553,9 @@ Based on 2 systematic reviews (Bowen et al. 2017 and Kilburn et al. 2010) and 3 
 
 • The committee agreed based on the evidence, their experience and resistance data that the first-choice **oral antibiotic** should be **flucloxacillin** (a relativelynarrow-spectrum penicillin). The committee discussed that flucloxacillin has activity against *Staphylococcus aureus* (because it is not inactivated by penicillinases produced by staphylococci) and *Streptococcus pyogenes*. They also agreed that this would be the first-choice antibiotic for people with recurrent infection, because the risk of resistance to flucloxacillin is very low. The only exception would be people with a suspected or confirmed meticillin-resistant *Staphylococcus aureus* (MRSA) infection, but the committee discussed that the likelihood of such a cellulitis or erysipelas infection with MRSA is very low. The committee agreed that flucloxacillin has poor oral bioavailability and in people with cellulitis or erysipelas who could have impaired circulation (such as people with diabetes or venous insufficiency), a higher (off label) dose of up to 1 g four times a day may be needed to adequately treat the infection. The committee were aware that a narrow-spectrum penicillin with a specific antistreptococcal penicillin is sometimes prescribed for cases of cellulitis or erysipelas, because these infections can involve either streptococci or staphylococci, but there is no evidence that dual therapy is more effective than, for example, flucloxacillin alone. Additionally, the committee considered that dual therapy may increase the risk of antimicrobial resistance and adverse effects.
 
-• The committee agreed that oral macrolides, **clarithromycin** or **erythromycin** (in pregnancy), are suitable alternatives to flucloxacillin in people who have penicillin allergy or where flucloxacillin is not a suitable option. Oral macrolide antibiotics were shown to be at least as effective as an oral penicillin in studies and have a similar spectrum of activity to that of a penicillin. There was limited, very low quality, evidence that oral macrolides or oral streptogramins were more effective than a penicillin (oral or IV). However, the committee considered this evidence was limited because oral macrolides and oral streptogramins were analysed together, not as separate classes. Additionally, the oral streptogramin (pristinamycin) and the only oral penicillin (cloxacillin) used in the studies are not licensed in the UK. There was no head-to-head comparison of either oral macrolides or oral streptogramins with flucloxacillin.
+• The committee agreed that oral macrolides, *clarithromycin* or *erythromycin* (in pregnancy), are suitable alternatives to flucloxacillin in people who have penicillin allergy or where flucloxacillin is not a suitable option. Oral macrolide antibiotics were shown to be at least as effective as an oral penicillin in studies and have a similar spectrum of activity to that of a penicillin. There was limited, very low quality, evidence that oral macrolides or oral streptogramins were more effective than a penicillin (oral or IV). However, the committee considered this evidence was limited because oral macrolides and oral streptogramins were analysed together, not as separate classes. Additionally, the oral streptogramin (pristinamycin) and the only oral penicillin (cloxacillin) used in the studies are not licensed in the UK. There was no head-to-head comparison of either oral macrolides or oral streptogramins with flucloxacillin.
 
-• The committee discussed the **MHRA Public Assessment Report on the safety of macrolide antibiotics in pregnancy**. This found that the available evidence is insufficient to confirm with certainty whether there is a small increased risk of birth defects or miscarriage when macrolides are taken in early pregnancy. Theyagreed with the UK Teratology Information Service monograph on the use of macrolides in pregnancy. They decided that there should be an informed discussion of the potential benefits and harms of treatment. Then, after such a discussion, macrolides can be used if there is a compelling clinical need and there are no suitable alternatives with adequate pregnancy safety data. Erythromycin is the preferred choice if a macrolide is needed during pregnancy, for example, if there is true penicillin allergy and the benefits of antibiotic treatment outweigh the harms. This is because there is more documented experience of its use than for other macrolides.
+• The committee discussed the MHRA Public Assessment Report on the safety of macrolide antibiotics in pregnancy. This found that the available evidence is insufficient to confirm with certainty whether there is a small increased risk of birth defects or miscarriage when macrolides are taken in early pregnancy. Theyagreed with the UK Teratology Information Service monograph on the use of macrolides in pregnancy. They decided that there should be an informed discussion of the potential benefits and harms of treatment. Then, after such a discussion, macrolides can be used if there is a compelling clinical need and there are no suitable alternatives with adequate pregnancy safety data. Erythromycin is the preferred choice if a macrolide is needed during pregnancy, for example, if there is true penicillin allergy and the benefits of antibiotic treatment outweigh the harms. This is because there is more documented experience of its use than for other macrolides.
 
 • The committee also discussed and agreed that doxycycline (an oral tetracycline) may be useful for people over 12 years who have penicillin allergy or if flucloxacillin is unsuitable. Despite a lack of evidence found for its use, doxycycline is commonly used as an alternative to flucloxacillin for cellulitis and erysipelas in UK practice.
 

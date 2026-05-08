@@ -70,17 +70,17 @@ Making decisions using NICE guidelines explains how we use words to show the str
 
 1.1.1.1 Take clinical and drug histories of children with atopic eczema, including questions about:
 
-- time of onset, pattern and severity of the atopic eczema
-- response to previous and current treatments
-- possible trigger factors (irritant and allergic)
-- the impact of the atopic eczema on the child and their parents or carers
-- dietary history, including any dietary manipulation
-- growth and development
-- personal and family history of atopic conditions. [2007]
+• time of onset, pattern and severity of the atopic eczema
+• response to previous and current treatments
+• possible trigger factors (irritant and allergic)
+• the impact of the atopic eczema on the child and their parents or carers
+• dietary history, including any dietary manipulation
+• growth and development
+• personal and family history of atopic conditions. [2007]
 
 1.1.1.2 Diagnose atopic eczema when a child has an itchy skin condition plus 3 or more of the following:
 
-- visible flexural dermatitis involving the skin creases, such as the bends of the elbows or behind the knees (or visible dermatitis on the cheeks and/or extensor areas in children aged 18 months or under)• previous flexural dermatitis (or dermatitis on the cheeks and/or extensor areas in children aged 18 months or under)
+• visible flexural dermatitis involving the skin creases, such as the bends of the elbows or behind the knees (or visible dermatitis on the cheeks and/or extensor areas in children aged 18 months or under)• previous flexural dermatitis (or dermatitis on the cheeks and/or extensor areas in children aged 18 months or under)
 
 • dry skin in the last 12 months
 
@@ -180,6 +180,7 @@ Table 1 Holistic assessment
 1.4.1.12 Explain to children with atopic eczema and their parents or carers that:
 
 • it is unclear what role factors such as stress, humidity or extremes of temperature have in causing flares of atopic eczema, and
+
 • they should avoid these factors when possible. [2007]
 
 1.5 Treatment
@@ -195,7 +196,7 @@ Stepped approach to management
 Table 2 Stepped treatment options
 
 | Mild atopic eczema |
-|-----------------------|
+| :--- |
 | • emollients |
 | • mild-potency topical corticosteroids. |1.5.1.2 Offer children with atopic eczema and their parents or carers information on how to recognise flares of atopic eczema (increased dryness, itching, redness, swelling and general irritability). Give clear instructions on how to manage flares according to the stepped-care plan, and prescribe treatments that allow children and their parents or carers to follow this plan. [2007]
 
@@ -319,13 +320,13 @@ See also the section on managing secondary bacterial infections of eczema in the
 
 1.5.1.36 Offer children with atopic eczema and their parents or carers information on how to recognise the symptoms and signs of bacterial infection with staphylococcus and/or streptococcus:
 
-• weeping
-• pustules
-• crusts
-• eczema failing to respond to therapy
-• rapidly worsening eczema
-• fever
-• malaise.Provide clear information on how to access treatment for infected atopic eczema. [2007]
+- weeping
+- pustules
+- crusts
+- eczema failing to respond to therapy
+- rapidly worsening eczema
+- fever
+- malaise.Provide clear information on how to access treatment for infected atopic eczema. [2007]
 
 1.5.1.37 Explain to children with atopic eczema and their parents or carers that they should obtain new supplies of their topical atopic eczema medications after treatment for infected atopic eczema. This is because their medications can become contaminated and act as a source of infection. [2007]
 
@@ -377,8 +378,11 @@ Complementary therapies, washing and clothing
 1.6.1.1 Provide education to children with atopic eczema and their parents or carers about atopic eczema and its treatment. Provide verbal and written information (such as information from Eczema Care Online), with practical demonstrations, and cover:
 
 • how much of the treatments to use
+
 • how often to apply treatments
+
 • when and how to step treatment up or down
+
 • how to treat infected atopic eczema.
 
 Reinforce this at every consultation, addressing factors that affect adherence. [2007]

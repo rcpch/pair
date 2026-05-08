@@ -224,10 +224,10 @@ Monitoring and preventing deterioration in people with or at high risk of acute 
 
 1.2.12 When acquiring any new CDSS or systems for electronic prescribing, ensure that any systems considered:
 
-- can interact with laboratory systems
-- can recommend drug dosing and frequency
-- can store and update data on patient history and characteristics, including age, weight and renal replacement therapy
-- can include alerts that are mandatory for the healthcare professional to acknowledge and review. [2013]
+• can interact with laboratory systems
+• can recommend drug dosing and frequency
+• can store and update data on patient history and characteristics, including age, weight and renal replacement therapy
+• can include alerts that are mandatory for the healthcare professional to acknowledge and review. [2013]
 
 1.2.13 Seek advice from a pharmacist about optimising medicines and drug dosing in adults, children and young people with or at risk of acute kidney injury. [2013]
 
@@ -315,9 +315,8 @@ Referring to nephrology
 
 1.5.15 Discuss the management of acute kidney injury with a nephrologist or paediatric nephrologist as soon as possible and within 24 hours of detection when one or more of the following is present:
 
-• a possible diagnosis that may need specialist treatment (for example, vasculitis, glomerulonephritis, tubulointerstitial nephritis or myeloma)
-
-• acute kidney injury with no clear cause• inadequate response to treatment
+- a possible diagnosis that may need specialist treatment (for example, vasculitis, glomerulonephritis, tubulointerstitial nephritis or myeloma)
+- acute kidney injury with no clear cause• inadequate response to treatment
 • complications associated with acute kidney injury
 • stage 3 acute kidney injury (according to (p)RIFLE, AKIN or KDIGO criteria)
 • a renal transplant

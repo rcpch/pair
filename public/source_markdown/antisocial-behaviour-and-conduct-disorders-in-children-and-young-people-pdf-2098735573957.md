@@ -252,13 +252,9 @@ The standard components of a comprehensive assessment of conduct disorders shoul
 • core conduct disorders symptoms, including:
   — patterns of negativistic, hostile or defiant behaviour in children aged under 11 years
   — aggression to people and animals, destruction of property, deceitfulness or theft and serious violations of rules in children aged over 11 years
-
 • current functioning at home, at school or college and with peers
-
 • parenting style
-
 • history of any past or current mental or physical health problems
-
 • the presence or risk of physical, sexual and emotional abuse in line with local protocols for the assessment and management of these problems.
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of conditions#notice-of-rights).The assessment should take into account and address possible coexisting conditions such as:
@@ -287,10 +283,13 @@ Significant complicating factors
 
 Significant complicating factors assessed as part of the initial assessment of children and young people with a possible conduct disorder include:
 
-- a coexisting mental health problem (for example, depression, post-traumatic stress disorder)
-- a neurodevelopmental condition (in particular ADHD and autism)
-- a learning disability or difficulty
-- substance misuse in young people.
+• a coexisting mental health problem (for example, depression, post-traumatic stress disorder)
+
+• a neurodevelopmental condition (in particular ADHD and autism)
+
+• a learning disability or difficulty
+
+• substance misuse in young people.
 
 [NICE's guideline on antisocial behaviour and conduct disorders in children and young people, recommendation 1.3.5]
 
@@ -305,7 +304,9 @@ Practitioners should support access to services and the uptake of interventions 
 The workforce across agencies should, as far as possible, reflect the local community.Practitioners should have training to ensure that they have a good understanding of the culture of families with whom they are working. Interpreters should be provided if no practitioner is available who speaks a language in which the family members can converse fluently. Consideration should be given to the specific needs of:
 
 • girls and young women with conduct disorders
-• looked-after and adopted children and young people.Quality statement 3: Improving access to services
+• looked-after and adopted children and young people.
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of conditions#notice-of-rights).Quality statement 3: Improving access to services
 
 Quality statement
 

@@ -63,12 +63,12 @@ What the quality statement means for different audiences ... 15
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Blood transfusion (QS138)
 
-Source guidance ... 16
-Definitions of terms used in this quality statement ... 16
-Equality and diversity considerations ... 16
+Source guidance... 16
+Definitions of terms used in this quality statement... 16
+Equality and diversity considerations... 16
 Update information ... 18
 About this quality standard ... 19
-Diversity, equality and language ... 19
+Diversity, equality and language... 19
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).This standard is based on NG24.
 
@@ -360,8 +360,6 @@ Supporting organisations
 
 Many organisations share NICE's commitment to quality improvement using evidence-based guidance. The following supporting organisations have recognised the benefit of the quality standard in improving care for patients, carers, service users and members of the public. They have agreed to work with NICE to ensure that those commissioning or providing services are made aware of and encouraged to use the quality standard.
 
-• NHS Blood and Transplant
-• Royal College of Physicians (RCP)
-• UK Transfusion Laboratory Collaborative
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of conditions#notice-of-rights).
+- NHS Blood and Transplant
+- Royal College of Physicians (RCP)
+- UK Transfusion Laboratory Collaborative

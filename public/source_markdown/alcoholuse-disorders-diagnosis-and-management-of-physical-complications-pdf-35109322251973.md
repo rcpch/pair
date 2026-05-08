@@ -120,23 +120,18 @@ In April 2017, this was an off-label use of lorazepam. See NICE's information on
 1.2.1.2 Offer prophylactic oral thiamine to harmful or dependent drinkers:
 
 • if they are malnourished or at risk of malnourishment or
-
 • if they have decompensated liver disease or
-
 • if they are in acute withdrawal or
-
 • before and during a planned medically assisted alcohol withdrawal. [2010]
 
 1.2.1.3 Offer prophylactic parenteral thiamine followed by oral thiamine to harmful or dependent drinkers:
 
 • if they are malnourished or at risk of malnourishment or
-
 • if they have decompensated liver disease
 
 and in addition
 
 • they attend an emergency department or
-
 • are admitted to hospital with an acute illness or injury. [2010]
 
 1.2.1.4 Offer parenteral thiamine to people with suspected Wernicke's encephalopathy. Maintain a high level of suspicion for the possibility of Wernicke's encephalopathy, particularly if the person is intoxicated. Parenteral treatment should be given for a minimum of 5 days, unless Wernicke's encephalopathy is excluded. Oral thiamine treatment should follow parenteral therapy. [2010]1.3 Alcohol-related liver disease

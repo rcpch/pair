@@ -16,9 +16,11 @@ Local commissioners and providers of healthcare have a responsibility to enable 
 Commissioners and providers have a responsibility to promote an environmentally sustainable health and care system and should assess and reduce the environmental impact of implementing NICE recommendations wherever possible.## Contents
 
 ### Overview ... 5
+
 Who is it for? ... 6
 
 ### Recommendations ... 7
+
 1.1 Initial clinical assessment ... 9
 1.2 Objective tests for diagnosing asthma in adults, young people and children aged 5 to 16 with a history suggestive of asthma ... 10
 1.3 Diagnosing asthma in children under 5 ... 14
@@ -38,10 +40,12 @@ Who is it for? ... 6
 Terms used in this guideline ... 32
 
 ### Recommendations for research ... 37
+
 Key recommendations for research ... 37
 Other recommendations for research ... 41
 
 ### Rationale and impact ... 42
+
 Objective tests for diagnosing asthma in adults, young people and children aged 5 to 16 with a history suggestive of asthma ... 42
 Monitoring asthma control ... 47
 
@@ -50,9 +54,9 @@ Monitoring asthma control ... 47
 
 Principles of pharmacological treatment ... 50
 Digital inhalers ... 50
-Medicines for the initial management of newly diagnosed asthma in people aged 12 and over.. 51
+Medicines for the initial management of newly diagnosed asthma in people aged 12 and over... 51
 Medicine combination and sequencing in people aged 12 and over ... 52
-Transferring people aged 12 and over from other treatment pathways ... 55
+Transferring people aged 12 and over from other treatment pathways... 55
 Medicines for initial management in children aged 5 to 11 ... 55
 Medicine combination and sequencing in children aged 5 to 11 ... 56
 Pharmacological management in children under 5 ... 58
@@ -60,9 +64,7 @@ Self-management ... 59
 Risk-stratified care ... 60
 Context ... 62
 Finding more information and committee details ... 63
-Update information ... 64
-
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).This guideline replaces NG80.
+Update information ... 64This guideline replaces NG80.
 
 This guideline is the basis of QS181 and QS25.
 
@@ -144,7 +146,7 @@ Adults
 
 See also algorithm A for a summary of objective tests for diagnosing asthma in adults and young people (aged over 16 years) with a history suggesting asthma.1.2.1 Measure the blood eosinophil count or fractional exhaled nitric oxide (FeNO) level in adults with a history suggestive of asthma. Diagnose asthma if the eosinophil count is above the laboratory reference range or the FeNO level is 50 ppb or more. [BTS/NICE/SIGN 2024]
 
-1.2.2 If asthma is not confirmed by eosinophil count or FeNO level, measure bronchodilator reversibility (BDR) with spirometry. Diagnose asthma if the FEV$_1$ increase is 12% or more and 200 ml or more from the pre-bronchodilator measurement (or if the FEV$_1$ increase is 10% or more of the predicted normal FEV$_1$). [BTS/NICE/SIGN 2024]
+1.2.2 If asthma is not confirmed by eosinophil count or FeNO level, measure bronchodilator reversibility (BDR) with spirometry. Diagnose asthma if the FEV₁ increase is 12% or more and 200 ml or more from the pre-bronchodilator measurement (or if the FEV₁ increase is 10% or more of the predicted normal FEV₁). [BTS/NICE/SIGN 2024]
 
 1.2.3 If spirometry is not available or it is delayed, measure peak expiratory flow (PEF) twice daily for 2 weeks. Diagnose asthma if PEF variability (expressed as amplitude percentage mean) is 20% or more. [BTS/NICE/SIGN 2024]
 
@@ -156,7 +158,7 @@ See also algorithm B for a summary of objective tests for diagnosing asthma in c
 
 1.2.5 Measure the FeNO level in children with a history suggestive of asthma. Diagnose asthma if the FeNO level is 35 ppb or more. [BTS/NICE/SIGN 2024]
 
-1.2.6 If the FeNO level is not raised, or if FeNO testing is not available, measure BDR with spirometry. Diagnose asthma if the FEV$_1$ increase is 12% or more from baseline (or if the FEV$_1$ increase is 10% or more of the predicted normal FEV$_1$). [BTS/NICE/SIGN 2024]
+1.2.6 If the FeNO level is not raised, or if FeNO testing is not available, measure BDR with spirometry. Diagnose asthma if the FEV₁ increase is 12% or more from baseline (or if the FEV₁ increase is 10% or more of the predicted normal FEV₁). [BTS/NICE/SIGN 2024]
 
 1.2.7 If spirometry is not available or it is delayed, measure PEF twice daily for 2 weeks. Diagnose asthma if PEF variability (expressed as amplitude percentage mean) is 20% or more. [BTS/NICE/SIGN 2024]1.2.8 If asthma is not confirmed by FeNO, BDR or PEF variability but still suspected on clinical grounds, either perform skin prick testing to house dust mite or measure total IgE level and blood eosinophil count.
 
@@ -256,7 +258,7 @@ Licensed indications for asthma inhalers vary between different medicines, diffe
 
 1.6.2 If possible, check the fractional exhaled nitric oxide (FeNO) level when asthma is uncontrolled. If it is raised this may indicate poor adherence to treatment or the need for an increased dose of inhaled corticosteroid (ICS). [BTS/NICE/SIGN 2024]
 
-1.6.3 Do not prescribe short-acting beta₂ agonists to people of any age with asthma without a concomitant prescription of an ICS. [BTS/NICE/SIGN 2024]
+1.6.3 Do not prescribe short-acting beta$_2$ agonists to people of any age with asthma without a concomitant prescription of an ICS. [BTS/NICE/SIGN 2024]
 
 1.6.4 After starting or adjusting medicines for asthma, review the response to treatment in 8 to 12 weeks (see the recommendations on monitoring asthma control). [NICE 2017, amended BTS/NICE/SIGN 2024]
 
@@ -373,7 +375,7 @@ See also algorithm D for a summary of the pharmacological management of asthma i
 
 Initial management in children aged 5 to 11
 
-1.8.1 Offer a twice-daily paediatric low-dose inhaled corticosteroid (ICS), with a short-acting beta$_2$ agonist (SABA) as needed, as initial treatment for children aged 5 to 11 years with newly diagnosed asthma. [BTS/NICE/SIGN 2024]
+1.8.1 Offer a twice-daily paediatric low-dose inhaled corticosteroid (ICS), with a short-acting beta₂ agonist (SABA) as needed, as initial treatment for children aged 5 to 11 years with newly diagnosed asthma. [BTS/NICE/SIGN 2024]
 
 For a short explanation of why the committee made this recommendation and how it might affect practice, see the rationale and impact section on medicines for initial management in children aged 5 to 11.
 
@@ -497,7 +499,7 @@ For guidance on transitioning to adult services, see the NICE guideline on trans
 
 • Explain that there are things that can trigger asthma symptoms and exacerbations, including indoor and outdoor pollution. Include in the personalised action plan approaches for minimising exposure to air pollution and any other personal triggers. For more guidance on how to minimise exposure and the effect of air pollution on health, see the recommendations on:
 
-— vulnerable groups in the NICE guideline on air pollution: outdoor air quality and healthpeople with asthma, other respiratory conditions or cardiovascular conditions in the NICE guideline on indoor air quality at home, and
+  — vulnerable groups in the NICE guideline on air pollution: outdoor air quality and healthpeople with asthma, other respiratory conditions or cardiovascular conditions in the NICE guideline on indoor air quality at home, and
 
 • smoking in the NICE guideline on tobacco. [NICE 2017, amended 2021; BTS/SIGN 2019, amended BTS/NICE/SIGN 2024]
 
@@ -561,7 +563,7 @@ Anti-inflammatory reliever (AIR) therapy is treatment with a reliever inhaler th
 
 Asthma control
 
-Complete control of asthma is defined as no daytime symptoms, no night-time awakening due to asthma, no asthma attacks, no need for rescue medication, no limitations on activity including exercise, normal lung function (in practical terms forced expiratory volume in 1 second [FEV₁] and/or peak expiratory flow [PEF] more than 80% predicted or best), and minimal side effects from treatment.
+Complete control of asthma is defined as no daytime symptoms, no night-time awakening due to asthma, no asthma attacks, no need for rescue medication, no limitations on activity including exercise, normal lung function (in practical terms forced expiratory volume in 1 second $[FEV_1]$ and/or peak expiratory flow $[PEF]$ more than 80% predicted or best), and minimal side effects from treatment.
 
 Atopic disorder
 
@@ -569,7 +571,7 @@ Atopic disorders are allergic conditions including allergic rhinitis (hay fever)
 
 Bronchial challenge test
 
-A test to measure airway responsiveness (bronchial responsiveness). It is performed by giving small increments of a bronchoconstrictor (most commonly methacholine) and measuring the FEV₁ after each dose until it falls by a predetermined amount (usually 20% from baseline).
+A test to measure airway responsiveness (bronchial responsiveness). It is performed by giving small increments of a bronchoconstrictor (most commonly methacholine) and measuring the $FEV_1$ after each dose until it falls by a predetermined amount (usually 20% from baseline).
 
 Bronchial hyperresponsiveness
 
@@ -658,18 +660,26 @@ What is the cost-effectiveness and feasibility of the proposed BTS/NICE/SIGN dia
 Full details of the evidence and the committee's discussion are in:
 
 • evidence review A: diagnostic test accuracy of spirometry in people suspected of asthma
-• evidence review B: diagnostic test accuracy for bronchodilator reversibility in people suspected of asthma
-• evidence review C: diagnostic test accuracy of peak expiratory flow variability for the diagnosis of asthma
-• evidence review D: accuracy of skin prick test in children for the diagnosis of asthma
-• evidence review E: diagnostic test accuracy of IgE in children
-• evidence review F: diagnostic accuracy of fractional exhaled nitric oxide (FeNO) measures
-• evidence review G: diagnostic accuracy of eosinophil blood count measures in the diagnosis of asthma
-• evidence review H: bronchial challenge with histamine and methacholine for the diagnosis of asthma
-• evidence review I: bronchial challenge test with mannitol
-• evidence review J: bronchial challenge testing in response to exercise for the diagnosis of asthma
-• evidence review K: diagnostic accuracy of combination of tests.
 
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of conditions#notice-of-rights).4 Inhalers
+• evidence review B: diagnostic test accuracy for bronchodilator reversibility in people suspected of asthma
+
+• evidence review C: diagnostic test accuracy of peak expiratory flow variability for the diagnosis of asthma
+
+• evidence review D: accuracy of skin prick test in children for the diagnosis of asthma
+
+• evidence review E: diagnostic test accuracy of IgE in children
+
+• evidence review F: diagnostic accuracy of fractional exhaled nitric oxide (FeNO) measures
+
+• evidence review G: diagnostic accuracy of eosinophil blood count measures in the diagnosis of asthma
+
+• evidence review H: bronchial challenge with histamine and methacholine for the diagnosis of asthma
+
+• evidence review I: bronchial challenge test with mannitol
+
+• evidence review J: bronchial challenge testing in response to exercise for the diagnosis of asthma
+
+• evidence review K: diagnostic accuracy of combination of tests.4 Inhalers
 
 Can digital inhaler monitors cost-effectively improve adherence to preventer inhalers for people with asthma? Does this improve asthma control and who would benefit most from this intervention? [BTS/NICE/SIGN 2024]
 
@@ -723,7 +733,7 @@ The committee also considered the cost of the available tests. However, no healt
 
 The committee discussed what cut-off values should be recommended for the tests. For some of the tests it was agreed that it was inappropriate to state a numerical value for an abnormal result. For example, normal ranges for blood tests may vary slightly between laboratories. Therefore, for eosinophil counts and IgE levels, a raised measurement (suggesting asthma) should be regarded as one above the upper end of the local reference range. There are also several standardised methods of performing bronchial challenge tests, and the definition of bronchial hyperresponsiveness will be dependent on the method used.
 
-Spirometry should always be performed using an international standard protocol but the method of expressing reversibility after bronchodilator varies. Ideally this would be based on change in z-scores, but these are not measured by all spirometry equipment. Change in absolute values of FEV$_{1}$ is arguably best given as the percentage change compared with the person's predicted FEV$_{1}$, and using this parameter a change of 10% or more is abnormal. Using the more traditional means of expressing the change as a percentage of the baseline FEV$_{1}$, increased reversibility would be 12% or more in adults and children. In adults, the change should also be 200 ml or more. The committee agreed to include both ways of measuring reversibility in its recommendations.
+Spirometry should always be performed using an international standard protocol but the method of expressing reversibility after bronchodilator varies. Ideally this would be based on change in z-scores, but these are not measured by all spirometry equipment. Change in absolute values of FEV$_1$ is arguably best given as the percentage change compared with the person's predicted FEV$_1$, and using this parameter a change of 10% or more is abnormal. Using the more traditional means of expressing the change as a percentage of the baseline FEV$_1$, increased reversibility would be 12% or more in adults and children. In adults, the change should also be 200 ml or more. The committee agreed to include both ways of measuring reversibility in its recommendations.
 
 An optimal cut-off value is also difficult to give for FeNO (fractional exhaled nitric oxide). There is good evidence that FeNO levels increase with age and with height, and ideally normal ranges would be available which correct for these factors. However, there are currently no standard charts and FeNO equipment does not give an age/height corrected output. Although not ideal, the committee agreed that they need to suggest a simple cut-off value. And because FeNO is the first, and possibly the only, test in the recommended sequences in both adults and children they agreed that the value should be reasonably high so that it would be specific, acknowledging that this sacrifices a degree of sensitivity.Cut-offs of 50 ppb in adults and 35 ppb in children were agreed.
 
@@ -815,7 +825,7 @@ Recommendations 1.6.2 and 1.6.3
 
 Why the committee made the recommendations
 
-The evidence review showed that clinical outcomes were poorest in all age groups with asthma when using SABA (short-acting beta2 agonist) alone. The committee also took into account other evidence from several sources, including national reviews of asthma deaths in both adults and children, which highlighted the dangers of using SABA without ICS in people with asthma. They therefore recommended that SABA alone should not be used in people with a diagnosis of asthma.
+The evidence review showed that clinical outcomes were poorest in all age groups with asthma when using SABA (short-acting beta$_2$ agonist) alone. The committee also took into account other evidence from several sources, including national reviews of asthma deaths in both adults and children, which highlighted the dangers of using SABA without ICS in people with asthma. They therefore recommended that SABA alone should not be used in people with a diagnosis of asthma.
 
 The previous NICE and BTS/SIGN guidelines had recommended a number of actions which should be taken before increasing treatment, and the committee agreed by consensus that a FeNO check should also be done as long as the equipment is available to do this.
 
@@ -847,7 +857,7 @@ Recommendations 1.7.1 and 1.7.2
 
 Why the committee made the recommendations
 
-The committee looked at evidence comparing 3 treatment options in people aged 12 and over with a new diagnosis of asthma. These were SABA as needed with no ICS; regular low-dose ICS plus SABA as needed; and a combination inhaler of an ICS (budesonide) plus formoterol, a fast onset long-acting beta$_2$ agonist (LABA), used as needed (as-needed AIR).
+The committee looked at evidence comparing 3 treatment options in people aged 12 and over with a new diagnosis of asthma. These were SABA as needed with no ICS; regular low-dose ICS plus SABA as needed; and a combination inhaler of an ICS (budesonide) plus formoterol, a fast onset long-acting beta2 agonist (LABA), used as needed (as-needed AIR).
 
 The most important difference between the groups was a reduction in severe exacerbations of asthma in the group using as-needed AIR therapy, and this applied to thecomparisons with both of the other treatment options. There were also fewer exacerbations with ICS plus SABA than with SABA alone. Apart from the difference in exacerbations, there were only small differences between outcomes when comparing ICS plus SABA as needed with as-needed AIR, and the committee did not assess these as clinically important. However, the evidence showed that use of ICS (either as-needed AIR or regular low-dose ICS plus SABA as needed) produced consistently better outcomes than SABA alone.
 

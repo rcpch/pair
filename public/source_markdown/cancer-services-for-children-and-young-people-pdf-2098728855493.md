@@ -164,7 +164,8 @@ Young people with cancer (aged 16 to 24 years) have their diagnosis, treatment a
 
 Source guidance
 
-Improving outcomes in children and young people with cancer. NICE guideline CSG7 (2005), Multidisciplinary teams: page 93, paragraph 1; page 94, paragraphs 1 and 4; and Principal treatment centres: page 104, paragraph 2
+Improving outcomes in children and young people with cancer. NICE guideline CSG7
+(2005), Multidisciplinary teams: page 93, paragraph 1; page 94, paragraphs 1 and 4; and Principal treatment centres: page 104, paragraph 2
 
 Definitions of terms used in this quality statement
 
@@ -178,11 +179,7 @@ A dedicated multidisciplinary team with expertise in cancer-related issues for t
 • psychologist or level 3 psychology support
 • young people's social worker
 • youth worker or activity coordinator
-• teenage and young adult key worker.Cancer services for children and young people (QS55)
-
-[Adapted from NICE's guideline on improving outcomes in children and young people with cancer, Multidisciplinary teams: page 92, table 4]
-
-Cancer-site-specific multidisciplinary team
+• teenage and young adult key worker.Cancer-site-specific multidisciplinary team
 
 A dedicated multidisciplinary team with specialist expertise in treating cancer in specific sites. [Adapted from NICE's guideline on improving outcomes in children and young people with cancer, Multidisciplinary teams, page 94, paragraph 1]Quality statement 2: Access to clinical trials
 
@@ -234,8 +231,7 @@ What the quality statement means for different audiences
 
 Source guidance
 
-Improving outcomes in children and young people with cancer. NICE guideline CSG7
-(2005), Research: page 124, paragraph 2
+Improving outcomes in children and young people with cancer. NICE guideline CSG7 (2005), Research: page 124, paragraph 2
 
 Equality and diversity considerations
 
@@ -380,7 +376,9 @@ Psychological and social support
 Psychological and social support is the supportive care received by a child or young person and their family or carers during active cancer therapy and long-term follow-up, and it may include respite care, palliative care and bereavement counselling for families and carers. Psychological or social support may help with:
 
 • how the child or young person perceives the challenge of the disease, its symptoms and the side effects of treatment
-• problems experienced by the child or young person with body image, relationships with peers and potential partners, difficulties with schooling and other education, or difficulties with employment• the disruption of the normal transition for young people from dependence on their family to independence
+• problems experienced by the child or young person with body image, relationships with peers and potential partners, difficulties with schooling and other education, or difficulties with employment
+
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of conditions#notice-of-rights).• the disruption of the normal transition for young people from dependence on their family to independence
 
 • the shock and grief a family experiences when a member of the family has a life-threatening illness.
 

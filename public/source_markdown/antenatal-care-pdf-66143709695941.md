@@ -50,11 +50,11 @@ Nausea and vomiting ... 54
 
 Heartburn... 57
 Symptomatic vaginal discharge... 57
-Pelvic girdle pain... 59
+Pelvic girdle pain ... 59
 Unexplained vaginal bleeding after 13 weeks... 60
 Context... 61
 Finding more information and committee details... 62
-Update information... 63
+Update information ... 63
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).This guideline replaces CG62 and ES20.
 
@@ -99,6 +99,7 @@ Starting antenatal care
 • enable healthcare professionals to identify women with:
 
   — specific health and social care needs
+
   — risk factors, including those that can potentially be addressed before the booking appointment, for example, smoking
 
 • include contact details about the woman's GP.
@@ -223,7 +224,6 @@ Taking and recording the woman's history
 • provide a safe environment and opportunities for the woman to discuss topics such as concerns at home, domestic abuse, concerns about the birth (for example, if she previously had a traumatic birth) or mental healthconcerns
 
 • review and reassess the plan of care for the pregnancy
-
 • identify women who need additional care.
 
 For guidance on organising, planning and providing care and support for pregnant women who are approaching end of life and their carers, see the NICE guideline on end of life care for adults: service delivery.
@@ -239,15 +239,12 @@ Examinations and investigations
 1.2.12 At the first face-to-face antenatal appointment:
 
 • offer to measure the woman's height and weight and calculate body mass index
-
 • offer a blood test to check full blood count, blood group and rhesus D status.
 
 1.2.13 At the first antenatal (booking) appointment, discuss and share information about, and then offer, the following screening programmes:
 
 • NHS infectious diseases in pregnancy screening programme (HIV, syphilis and hepatitis B)
-
 • NHS sickle cell and thalassaemia screening programme
-
 • NHS fetal anomaly screening programme.Inform the woman that she can accept or decline any part of any of the screening programmes offered.
 
 1.2.14 Offer pregnant women an ultrasound scan to take place between 11+2 weeks and 14+1 weeks to:
@@ -284,7 +281,23 @@ Full details of the evidence and the committee's discussion are in evidence revi
 
 Gestational diabetes
 
-1.2.21 At the first antenatal (booking) appointment, assess the woman's risk factors for1.2.27 Urgently refer women with severe hypertension (blood pressure of 160/110 mmHg or higher) to secondary care to be seen on the same day. The urgency of the referral should be determined by an overall clinical assessment.
+1.2.21 At the first antenatal (booking) appointment, assess the woman's risk factors forgestational diabetes in line with the recommendations on gestational diabetes risk assessment in the NICE guideline on diabetes in pregnancy.
+
+1.2.22 If a woman is at risk of gestational diabetes, offer referral for an oral glucose tolerance test to take place between 24+0 weeks and 28+0 weeks in line with the recommendations on gestational diabetes risk assessment and the recommendations on gestational diabetes testing in the NICE guideline on diabetes in pregnancy.
+
+For a short explanation of why the committee made the recommendations and how they might affect practice, see the rationale and impact section on gestational diabetes.
+
+Full details of the evidence and the committee's discussion are in evidence review G: content of antenatal appointments.
+
+Pre-eclampsia and hypertension in pregnancy
+
+1.2.23 At the first antenatal (booking) appointment and again in the second trimester, assess the woman's risk factors for pre-eclampsia, and advise those at risk to take aspirin in line with the section on antiplatelet agents in the NICE guideline on hypertension in pregnancy.
+
+1.2.24 Measure and record the woman's blood pressure at every routine face-to-face antenatal appointment using a device validated for use in pregnancy, and following the recommendations on measuring blood pressure in the NICE guideline on hypertension in adults.
+
+1.2.25 For women under 20+0 weeks with hypertension, follow the recommendations on the management of chronic hypertension in pregnancy in the NICE guideline on hypertension in pregnancy.
+
+1.2.26 Refer women over 20+0 weeks with a first episode of hypertension (blood pressure of 140/90 mmHg or higher) to secondary care to be seen within 24 hours. See the recommendations on diagnosing hypertension in the NICE guideline on hypertension in adults.1.2.27 Urgently refer women with severe hypertension (blood pressure of 160/110 mmHg or higher) to secondary care to be seen on the same day. The urgency of the referral should be determined by an overall clinical assessment.
 
 1.2.28 Offer a urine dipstick test for proteinuria at every routine face-to-face antenatal appointment.
 
@@ -331,9 +344,9 @@ Breech presentation
 1.2.38 For women with an uncomplicated singleton pregnancy with breech presentation confirmed after 36+0 weeks:
 
 • discuss the different options available and their benefits, risks and implications, including:
-  – external cephalic version (to turn the baby from bottom to head down)
-  – breech vaginal birth
-  – elective caesarean birth
+  — external cephalic version (to turn the baby from bottom to head down)
+  — breech vaginal birth
+  — elective caesarean birth
 
 • for women who prefer cephalic (head-down) vaginal birth, offer external cephalic version.
 
@@ -426,14 +439,22 @@ Information about antenatal care
 1.3.15 After 28 weeks, discuss and give information on:
 
 • preparing for labour and birth, including information about coping in labour and creating a birth plan
+
 • recognising active labour
+
 • the postnatal period, including:
-  — care of the new baby
-  — the baby's feeding
-  — vitamin K prophylaxis
-  — newborn screening
-  — postnatal self-care, including pelvic floor exercises
-  — awareness of mood changes and postnatal mental health.
+
+  – care of the new baby
+
+  – the baby's feeding
+
+  – vitamin K prophylaxis
+
+  – newborn screening
+
+  – postnatal self-care, including pelvic floor exercises
+
+  – awareness of mood changes and postnatal mental health.
 
 Also see the NICE guideline on postnatal care.
 
@@ -514,6 +535,7 @@ Nausea and vomiting
 1.4.6 For pregnant women with moderate-to-severe nausea and vomiting:
 
 • consider intravenous fluids, ideally on an outpatient basis
+
 • consider acupressure as an adjunct treatment.
 
 1.4.7 Consider inpatient care if vomiting is severe and not responding to primary care or outpatient management. This will include women with hyperemesis gravidarum. For more information on managing hyperemesis gravidarum, see the Royal College of Obstetricians and Gynaecologists' guideline on the management of nausea and vomiting of pregnancy and hyperemesis gravidarum. Also see the section on venous thromboembolism.
@@ -777,7 +799,7 @@ Recommendations 1.2.18 to 1.2.20
 
 Why the committee made the recommendations
 
-The committee based the recommendations on the evidence on independent risk factors for venous thromboembolism in pregnancy, their knowledge and experience, and the NICE guideline on venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein thrombosis or pulmonary embolism. The evidence on independent risk factors for venous thromboembolism during pregnancy did not assess the accuracy of tools used to measure the risk, so the committee recommended that tools should meet certain quality criteria. They agreed that an example of a tool that might be used is the risk assessmenttool in the Royal College of Obstetricians and Gynaecologists' green-top guideline on reducing the risk of venous thromboembolism during pregnancy (2015), which is commonly used in practice.
+The committee based the recommendations on the evidence on independent risk factors for venous thromboembolism in pregnancy, their knowledge and experience, and the NICE guideline on venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein thrombosis or pulmonary embolism. The evidence on independent risk factors for venous thromboembolism during pregnancy did not assess the accuracy of tools used to measure the risk, so the committee recommended that tools should meet certain quality criteria. They agreed that an example of a tool that might be used is the risk assessment.tool in the Royal College of Obstetricians and Gynaecologists' green-top guideline on reducing the risk of venous thromboembolism during pregnancy (2015), which is commonly used in practice.
 
 The committee highlighted some risk factors in the evidence review (blood type A or B, miscarriage after 10 weeks in the current pregnancy and history of previous blood transfusion) that are not always incorporated into commonly used venous thromboembolism tools. However, they agreed not to include them specifically in the recommendations because it could give a false impression that these factors were more important than others or lead to overtreatment.
 
@@ -801,9 +823,7 @@ How the recommendation might affect practice
 
 The recommendation reflects current practice and no change in practice is expected.
 
-Return to recommendations
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of conditions#notice-of-rights).Pre-eclampsia and hypertension in pregnancy
+Return to recommendationsPre-eclampsia and hypertension in pregnancy
 
 Recommendations 1.2.23 to 1.2.28
 

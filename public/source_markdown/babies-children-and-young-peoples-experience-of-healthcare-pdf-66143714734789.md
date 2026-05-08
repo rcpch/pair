@@ -192,13 +192,9 @@ See also the section on support from healthcare staff.
 1.2.10 When communicating with children and young people, always check they have taken the information in and understood it (for example, by asking children or young people to explain back to you in their own words).
 
 1.2.11 If a child or young person is uncomfortable or having difficulty communicating, try alternatives that may help. This may include:• trying again at a different time
-
 • trying again in a different, quieter or more private setting (see recommendations 1.4.8 and 1.4.9)
-
 • seeing them without their parents or carers
-
 • involving a different person (for example, another healthcare professional or an adult trusted by the child or young person)
-
 • using a different means of communication.
 
 1.2.12 Respect times when children and young people do not wish to communicate, and be aware that their wish to communicate may vary at different times.
@@ -208,7 +204,6 @@ See also the section on support from healthcare staff.
 1.2.14 Be aware that babies, children and young people may not communicate pain, distress or anxiety verbally so you may need to:
 
 • ask parents or carers what is usual behaviour for their child or young person
-
 • be alert to physical cues (for example, lack of or abnormal movements to reduce pain) or behavioural cues (for example, crying, refusing to speak or pushing away, or behaviour that appears aggressive such as anger, defiance or biting).
 
 1.2.15 All staff involved in providing healthcare services to babies, children and young people should have skills and competencies in relevant communication skills.
@@ -480,12 +475,15 @@ Support from healthcare staff
 • discuss with them how you will act on what they have said.
 
 1.5.11 Help children and young people to speak up about things that matter to them, and their views and preferences by:• advocating for them and upholding their preferences if they are unable or unwilling to do this themselves
+
 • acting as a trusted person for them to talk to when they feel their concerns are not being listened to.
 
 1.5.12 Encourage children and young people to ask for the support they need to help with their healthcare experiences or encourage them to use coping techniques they have already developed. These could include:
 
 • their parent or carer to be with them or someone's hand to hold
+
 • music to listen to, a soft toy to cuddle, playing a game on a phone or tablet, a support animal or pet to stroke
+
 • individual coping techniques.
 
 Ask them if these techniques help or if they would like to try other techniques.
@@ -501,7 +499,9 @@ Self-advocacy
 1.5.14 Facilitate self-advocacy in children and young people. This may include:
 
 • allowing enough time in consultations and appointments
+
 • providing confidential and private spaces
+
 • providing information on their rights to advocate for themselves• establishing and using the child or young person's preferred method of communication, paying particular attention to those who do not communicate verbally (see recommendation 1.2.6 and recommendation 1.4.13).
 
 1.5.15 Assume that all children and young people have views and opinions about their own healthcare, and actively encourage them to express what matters to them. In particular:
@@ -588,8 +588,8 @@ Pain-related anxiety
 
 1.6.4 Ensure children and young people, and parents or carers of babies and young children can easily identify members of staff. This could include:
 
-• visible name badges with easy to understand job roles or titles
-• recognisable uniforms, particularly if they help differentiate between professions.
+- visible name badges with easy to understand job roles or titles
+- recognisable uniforms, particularly if they help differentiate between professions.
 
 1.6.5 Be aware that healthcare clothing (for example gowns, masks or visors) can be frightening for babies, children and young people and they may be unable to recognise staff or see their facial expressions or smiles. This is particularly important for children who rely on lip reading or facial cues for communication.
 
@@ -603,8 +603,8 @@ Design of healthcare services
 
 1.7.1 When designing services that will be used by babies, children and young people:
 
-• involve children and young people and obtain their views, or for babies and young children, involve their parents or carers
-• actively seek out children and young people (or the parents or carers of babies and young children) from under-represented groups (for example, black, Asian and minority ethnic groups, people with physical, sensory or learning disabilities, people from a disadvantaged background, LGBT+ people, people who have not been able to, or have chosen not to, use the services before, looked-after children).1.7.2 Assume that all children and young people have relevant opinions on services they use and their care, and will give them if asked in a suitable way.
+- involve children and young people and obtain their views, or for babies and young children, involve their parents or carers
+- actively seek out children and young people (or the parents or carers of babies and young children) from under-represented groups (for example, black, Asian and minority ethnic groups, people with physical, sensory or learning disabilities, people from a disadvantaged background, LGBT+ people, people who have not been able to, or have chosen not to, use the services before, looked-after children).1.7.2 Assume that all children and young people have relevant opinions on services they use and their care, and will give them if asked in a suitable way.
 
 1.7.3 Make it as simple as possible for children and young people to contribute to service design by:
 
@@ -766,12 +766,15 @@ Continuity and coordination of care
 1.10.13 Ensure clear and timely exchange of relevant patient information:
 
 • between healthcare professionals and children and young people or the parents or carers of babies and young children
+
 • between healthcare professionals
+
 • between healthcare, education and social care professionals.
 
 1.10.14 Pay particular attention to communication between healthcare professionals and services and the coordination of ongoing care:
 
 • at key points in care (for example, on transfer from one healthcare setting to another, or when being referred to a different healthcare team)
+
 • for children and young people who might need additional support (for example, children with learning disabilities, looked-after children, care leavers, young people who are homeless).
 
 For advice on transition to adult services, see the NICE guideline on transition from children's to adults' services.1.10.15 Ensure systems are in place so that children and young people and the parents or carers of babies and young children do not need to unnecessarily repeat their healthcare history when being seen by different healthcare professionals (for example, by using health passports or digital health records).

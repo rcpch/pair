@@ -59,9 +59,7 @@ Equality and diversity considerations ... 14
 
 Quality statement 4: Access to treatment ... 15
 
-Quality statement ... 15
-
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Bedwetting in children and young people (QS70)
+Quality statement ... 15Bedwetting in children and young people (QS70)
 
 Rationale ... 15
 Quality measures ... 15

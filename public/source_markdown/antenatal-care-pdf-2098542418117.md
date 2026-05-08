@@ -188,9 +188,7 @@ Equality and diversity considerations
 To encourage uptake of antenatal care services by women in vulnerable groups and who have additional protected characteristics healthcare professionals should:
 
 • offer age-appropriate services in the community
-
 • use a variety of means to communicate (for example, text messages) to remind women of upcoming and missed antenatal appointments
-
 • provide information about help with transportation to and from appointments.
 
 Service providers should ensure that digital access to antenatal care does not prevent women who do not have IT literacy or access to IT equipment from accessing antenatal care and that additional support is available if needed. They should ensure that a choice ofa digital or face-to-face appointment is offered, taking into account the woman's clinical needs and preferences, including those arising from disability or sensory loss. The physical environment of the clinic room may need to be adjusted to take account of additional needs (for example, lighting). [Adapted from NICE's guideline on pregnancy and complex social factors], recommendations 1.2.8, 1.2.11, 1.3.1 and 1.4.1 and expert opinion]Quality statement 2: Risk assessment
@@ -383,19 +381,19 @@ Denominator – the number of pregnant women eligible for a COVID-19 vaccine.
 
 a) Rates of hospitalisation and intensive care unit admission in pregnant women becauseof flu.
 
-**Data source:** Rates of hospital admissions (per 100,000 in England) are collected from submissions from NHS acute trusts through the *Severe Acute Respiratory Infection (SARI) Watch surveillance system*, which forms part of the UK Health Security Agency's surveillance of influenza and other seasonal respiratory viruses (and from the 2020 to 2021 season, COVID-19). Data disaggregated by age ranges and region are available.
+Data source: Rates of hospital admissions (per 100,000 in England) are collected from submissions from NHS acute trusts through the Severe Acute Respiratory Infection (SARI) Watch surveillance system, which forms part of the UK Health Security Agency's surveillance of influenza and other seasonal respiratory viruses (and from the 2020 to 2021 season, COVID-19). Data disaggregated by age ranges and region are available.
 
 b) Incidence of pertussis.
 
-**Data source:** The UK Health Security Agency provides quarterly and annual statistics on national incidence based on laboratory-confirmed cases (per 100,000 of the population in England) including within different age groups (including incidence in infants and children of various ages).
+Data source: The UK Health Security Agency provides quarterly and annual statistics on national incidence based on laboratory-confirmed cases (per 100,000 of the population in England) including within different age groups (including incidence in infants and children of various ages).
 
 c) Rates of hospital admission in pregnant women because of COVID-19.
 
-**Data source:** Rates of hospital admissions (per 100,000 in England) are collected from submissions from NHS acute trusts through the *SARI Watch surveillance system*, which forms part of the UK Health Security Agency's surveillance of influenza and other seasonal respiratory viruses (and from the 2020 to 2021 season, COVID-19). Data disaggregated by age ranges, sex, ethnicity and region are available. Experimental statistics on the incidence of COVID-19 hospital admissions (per 100,000 infections) by pregnancy and vaccination status are available from the Office for National Statistics.
+Data source: Rates of hospital admissions (per 100,000 in England) are collected from submissions from NHS acute trusts through the SARI Watch surveillance system, which forms part of the UK Health Security Agency's surveillance of influenza and other seasonal respiratory viruses (and from the 2020 to 2021 season, COVID-19). Data disaggregated by age ranges, sex, ethnicity and region are available. Experimental statistics on the incidence of COVID-19 hospital admissions (per 100,000 infections) by pregnancy and vaccination status are available from the Office for National Statistics.
 
 What the quality statement means for different audiences
 
-**Service providers** (maternity services) ensure that systems are in place to train healthcare professionals to check a pregnant woman's eligibility for vaccinations and administer vaccines during the booking appointment and other routine antenatal appointments. This is in line with Public Health England's national minimum standards and core curriculum for immunisation training for registered healthcare practitioners. They ensure that appointments have enough time for discussion, so healthcare professionals can identify and address any concerns, gain informed consent, administer the vaccine and complete documentation. Providers have protocols to ensure that if staff cannot give the vaccination during the appointment, they signpost women to vaccination services, drop-in clinics ortheir GP practice.
+Service providers (maternity services) ensure that systems are in place to train healthcare professionals to check a pregnant woman's eligibility for vaccinations and administer vaccines during the booking appointment and other routine antenatal appointments. This is in line with Public Health England's national minimum standards and core curriculum for immunisation training for registered healthcare practitioners. They ensure that appointments have enough time for discussion, so healthcare professionals can identify and address any concerns, gain informed consent, administer the vaccine and complete documentation. Providers have protocols to ensure that if staff cannot give the vaccination during the appointment, they signpost women to vaccination services, drop-in clinics ortheir GP practice.
 
 Healthcare professionals (such as midwives) check the pregnant woman's eligibility for vaccinations and provide evidence-based, consistent information about vaccinations. Healthcare professionals identify and discuss any concerns the pregnant woman has, using information and websites to guide discussion, and obtain informed consent. They ensure that they offer flu, pertussis and COVID-19 vaccinations to eligible pregnant women at the appropriate routine antenatal appointment. They complete documentation after giving vaccination. If they cannot give the vaccination during the appointment, they signpost pregnant women to vaccination services, drop-in clinics or their GP practice.
 
@@ -491,7 +489,7 @@ a) The proportion of women who were current smokers at delivery.
 
 Numerator – the number in the denominator who were current smokers at delivery.Denominator – the number of women who gave birth.
 
-Data source: NHS Digital's Maternity Services Data Set includes smoking status at delivery, and also collects demographic data including index of multiple deprivation. The NHS Digital Maternity Services dashboard can be used to monitor performance and compare services.
+**Data source:** NHS Digital's Maternity Services Data Set includes smoking status at delivery, and also collects demographic data including index of multiple deprivation. The NHS Digital Maternity Services dashboard can be used to monitor performance and compare services.
 
 b) The proportion of pregnant women with a partner who was a current smoker at delivery.
 
@@ -499,15 +497,15 @@ Numerator – the number in the denominator whose partner was a current smoker a
 
 Denominator – the number of pregnant women who gave birth who have a partner.
 
-Data source: No routinely collected national data has been identified for this measure. Data can be collected from information recorded locally, for example, antenatal care records.
+**Data source:** No routinely collected national data has been identified for this measure. Data can be collected from information recorded locally, for example, antenatal care records.
 
-What the quality statement means for different audiences
+**What the quality statement means for different audiences**
 
-Service providers (maternity services) ensure that equipment is available to monitor CO levels in pregnant women. They provide training to midwives on assessing the smoking status of pregnant women and partners. They ensure that local pathways are in place to refer pregnant women and partners who smoke for stop-smoking support and treatment.
+**Service providers** (maternity services) ensure that equipment is available to monitor CO levels in pregnant women. They provide training to midwives on assessing the smoking status of pregnant women and partners. They ensure that local pathways are in place to refer pregnant women and partners who smoke for stop-smoking support and treatment.
 
-Healthcare professionals (midwives) assess the smoking status of pregnant women and partners. At routine antenatal appointments, they provide information about the hazards of smoking when pregnant and of exposure to second-hand smoke for both the pregnant woman and her baby. They provide pregnant women who smoke with an opt-out referral for stop-smoking support and treatment and offer a referral to partners who smoke. They monitor CO levels in pregnant women at the booking and other routine antenatal appointments.
+**Healthcare professionals** (midwives) assess the smoking status of pregnant women and partners. At routine antenatal appointments, they provide information about the hazards of smoking when pregnant and of exposure to second-hand smoke for both the pregnant woman and her baby. They provide pregnant women who smoke with an opt-out referral for stop-smoking support and treatment and offer a referral to partners who smoke. They monitor CO levels in pregnant women at the booking and other routine antenatal appointments.
 
-Commissioners ensure that they commission maternity services that provide pregnant women who smoke with opt-out referrals for stop-smoking support and treatment and offer partners who smoke a referral for stop-smoking support and treatment. They monitorrates of referrals, quit rates and smoking at delivery. They commission services which monitor CO levels in pregnant women at the booking and other routine antenatal appointments.
+**Commissioners** ensure that they commission maternity services that provide pregnant women who smoke with opt-out referrals for stop-smoking support and treatment and offer partners who smoke a referral for stop-smoking support and treatment. They monitorrates of referrals, quit rates and smoking at delivery. They commission services which monitor CO levels in pregnant women at the booking and other routine antenatal appointments.
 
 Pregnant women who smoke are given an automatic referral (which can be declined) for stop-smoking support and treatment at their antenatal appointments so that they can have support to reduce or stop smoking. If they have a partner who smokes, they are also offered a referral for stop-smoking support and treatment.
 
@@ -529,11 +527,11 @@ All pregnant women who:
 
 • have previously been provided with an opt-out referral but have not yet engaged with stop-smoking support and treatment.
 
-[NICE's guideline on tobacco: preventing uptake, promoting quitting and treating dependence], recommendation 1.18.2
+[NICE's guideline on tobacco: preventing uptake, promoting quitting and treating dependence, recommendation 1.18.2]
 
 Partner
 
-The pregnant woman's chosen supporter. This could be the baby's father, the woman's partner, a family member or friend, or anyone who they feel supported by or wish to involve. [Adapted from NICE's guideline on antenatal care], terms used in this guideline].Partners who smoke
+The pregnant woman's chosen supporter. This could be the baby's father, the woman's partner, a family member or friend, or anyone who they feel supported by or wish to involve. [Adapted from NICE's guideline on antenatal care, terms used in this guideline].Partners who smoke
 
 Partners of pregnant women who say they smoke or have stopped smoking in the past 2 weeks. [NICE's guideline on antenatal care, recommendation 1.2.4]
 
@@ -649,10 +647,10 @@ Resource impact
 
 NICE quality standards should be achievable by local services. The potential resource impact is considered by the quality standards advisory committee, drawing on resourceimpact work for the source guidance. Organisations are encouraged to use the resource impact products for the source guidance to help estimate local costs:
 
-- resource impact summary report for NICE's guideline on vaccine uptake in the general population
-- resource impact products for NICE's guideline on tobacco
-- resource impact statement for NICE's guideline on antenatal care.
-- resource impact summary report and template for NICE's guideline on maternal and child nutrition.
+• resource impact summary report for NICE's guideline on vaccine uptake in the general population
+• resource impact products for NICE's guideline on tobacco
+• resource impact statement for NICE's guideline on antenatal care.
+• resource impact summary report and template for NICE's guideline on maternal and child nutrition.
 
 Diversity, equality and language
 

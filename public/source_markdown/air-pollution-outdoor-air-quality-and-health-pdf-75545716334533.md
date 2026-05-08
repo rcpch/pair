@@ -119,19 +119,19 @@ e) Evidence that local authorities identify key actions to address air pollution
 
 a) Proportion of journeys made by local residents that are by walking, cycling, public transport or zero- or low-emission vehicles.Air pollution: outdoor air quality and health (QS181)
 
-**Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, surveys of residents. Data for local authorities from the Department for Transport's National Travel Survey are available under special licence.
+Data source: Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, surveys of residents. Data for local authorities from the Department for Transport's National Travel Survey are available under special licence.
 
 b) Annual and hourly mean concentrations for nitrogen dioxide (NO₂).
 
-**Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
+Data source: Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
 
 c) Annual and daily mean concentrations for particulate matter of 10 micrometres or less in diameter (PM₁₀).
 
-**Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
+Data source: Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
 
 d) Annual mean concentration for fine particulate matter of 2.5 micrometres or less in diameter (PM₂.₅).
 
-**Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.What the quality statement means for different audiences
+Data source: Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.What the quality statement means for different audiences
 
 Local authorities work with partners to ensure the Local Plan, local transport plan, and other key strategies identify the approach to addressing air pollution, including enabling zero- and low-emission travel and developing buildings and spaces to reduce exposure to air pollution. Local authorities work together to prevent migration of traffic and emissions to other communities, which may result in areas of poor air quality.
 
@@ -223,11 +223,11 @@ b) Annual and hourly mean concentrations for nitrogen dioxide (NO₂).
 
 Data source: Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
 
-c) Annual and daily mean concentrations for particulate matter of 10 micrometres or less indiameter (PM$_{10}$).
+c) Annual and daily mean concentrations for particulate matter of 10 micrometres or less indiameter ($PM_{10}$).
 
 **Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
 
-d) Annual mean concentration for fine particulate matter of 2.5 micrometres or less in diameter (PM$_{2.5}$).
+d) Annual mean concentration for fine particulate matter of 2.5 micrometres or less in diameter ($PM_{2.5}$).
 
 **Data source:** Data can be collected from information recorded locally by healthcare professionals and provider organisations, for example, local results recorded in the Department for Environment, Food and Rural Affairs' Local Air Quality Management annual status report template. Modelled data from the Automatic Urban and Rural Network are available from the Department of Environment Food and Rural Affairs' UK Air Information Resource.
 
@@ -446,14 +446,14 @@ Supporting organisations
 
 Many organisations share NICE's commitment to quality improvement using evidence-based guidance. The following supporting organisations have recognised the benefit of the quality standard in improving care for patients, carers, service users and members of the public. They have agreed to work with NICE to ensure that those commissioning or providing services are made aware of and encouraged to use the quality standard.
 
-• Public Health England
-• Royal College of Physicians (RCP)
-• Royal College of General Practitioners (RCGP)
-• Royal College of Paediatrics and Child Health
-• Living Streets
-• Royal Town Planning Institute
-• Transport Planning Society
-• Town and Country Planning Association
-• Asthma and Lung UK
+- Public Health England
+- Royal College of Physicians (RCP)
+- Royal College of General Practitioners (RCGP)
+- Royal College of Paediatrics and Child Health
+- Living Streets
+- Royal Town Planning Institute
+- Transport Planning Society
+- Town and Country Planning Association
+- Asthma and Lung UK
 
 © NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of conditions#notice-of-rights).

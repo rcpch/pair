@@ -49,7 +49,9 @@ Who is it for?
 
 • Health and social care professionals
 • Commissioners and providers
-• Children and young people aged under 19 who have or are at risk of antisocial behaviour or conduct disorders, and their families and carersRecommendations
+• Children and young people aged under 19 who have or are at risk of antisocial behaviour or conduct disorders, and their families and carers
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Recommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
 
@@ -180,9 +182,7 @@ Comprehensive assessment
 1.3.8 A comprehensive assessment of a child or young person with a suspectedconduct disorder should be undertaken by a health or social care professional who is competent to undertake the assessment and should:
 
 • offer the child or young person the opportunity to meet the professional on their own
-
 • involve a parent, carer or other third party known to the child or young person who can provide information about current and past behaviour
-
 • if necessary, involve more than 1 health or social care professional to ensure a comprehensive assessment is undertaken. [2013]
 
 1.3.9 Before starting a comprehensive assessment, explain to the child or young person how the outcome of the assessment will be communicated to them. Involve a parent, carer or advocate to help explain the outcome. [2013]
@@ -190,25 +190,17 @@ Comprehensive assessment
 1.3.10 The standard components of a comprehensive assessment of conduct disorders should include asking about and assessing the following:
 
 • core conduct disorders symptoms including:
-
   — patterns of negativistic, hostile, or defiant behaviour in children aged under 11 years
-
   — aggression to people and animals, destruction of property, deceitfulness or theft and serious violations of rules in children aged over 11 years
-
 • current functioning at home, at school or college and with peers
-
 • parenting quality
-
 • history of any past or current mental or physical health problems. [2013]
 
 1.3.11 Take into account and address possible coexisting conditions such as:
 
 • learning difficulties or disabilities
-
 • neurodevelopmental conditions such as ADHD and autism
-
 • neurological disorders including epilepsy and motor impairments
-
 • other mental health problems (for example, depression, post-traumatic stressdisorder and bipolar disorder)
 
 • substance misuse
@@ -284,20 +276,27 @@ The interventions in recommendations 1.5.1 to 1.5.12 are suitable for children a
 1.5.1 Offer a group parent training programme to the parents of children and young people aged between 3 and 11 years who:
 
 • have been identified as being at high risk of developing oppositional defiant disorder or conduct disorder or
+
 • have oppositional defiant disorder or conduct disorder or
+
 • are in contact with the criminal justice system because of antisocial behaviour. [2013]
 
 1.5.2 Group parent training programmes should involve both parents if this is possible and in the best interests of the child or young person, and should:
 
 • typically have between 10 and 12 parents in a group
+
 • be based on a social learning model, using modelling, rehearsal and feedback to improve parenting skills
+
 • typically consist of 10 to 16 meetings of 90 to 120 minutes' duration
+
 • adhere to a developer's manual and employ all of the necessary materials to ensure consistent implementation of the programme (the manual should have been positively evaluated in a randomised controlled trial). [2013]
 
 1.5.3 Offer an individual parent training programme to the parents of children and young people aged between 3 and 11 years who are not able to participate in a group parent training programme and whose child:
 
 • has been identified as being at high risk of developing oppositional defiant disorder or conduct disorder or
+
 • has oppositional defiant disorder or conduct disorder or
+
 • is in contact with the criminal justice system because of antisocial behaviour. [2013]
 
 1.5.4 Individual parent training programmes should involve both parents if this is possible and in the best interests of the child or young person, and should:• be based on a social learning model using modelling, rehearsal and feedback to improve parenting skills
@@ -575,7 +574,15 @@ Conduct disorders are characterised by repetitive and persistent patterns of ant
 
 The prevalence of conduct disorders increases throughout childhood and they are more common in boys than girls. For example, 7% of boys and 3% of girls aged 5 to 10 years have conduct disorders; in children aged 11 to 16 years the proportion rises to 8% of boys and 5% of girls.
 
-Conduct disorders commonly coexist with other mental health problems: 46% of boys and 36% of girls have at least 1 coexisting mental health problem. The coexistence of conduct disorders with attention deficit hyperactivity disorder (ADHD) is particularly prevalent and in some groups more than 40% of children and young people with a diagnosis of conduct disorder also have a diagnosis of ADHD. Conduct disorders in childhood are also associated with a significantly increased rate of mental health problems in adult life, including antisocial personality disorder – up to 50% of children and young people with a conduct disorder go on to develop antisocial personality disorder. The prevalence ofUptake of these interventions and the outcomes achieved vary across England and Wales. Parenting programmes are the best established; implementation of multisystemic approaches and early intervention programmes is more variable. In addition to the programmes developed specifically for children with a conduct disorder, a number of children (and their parents or carers) are treated by both specialist CAMHS teams and general community-based services such as Sure Start.
+Conduct disorders commonly coexist with other mental health problems: 46% of boys and 36% of girls have at least 1 coexisting mental health problem. The coexistence of conduct disorders with attention deficit hyperactivity disorder (ADHD) is particularly prevalent and in some groups more than 40% of children and young people with a diagnosis of conduct disorder also have a diagnosis of ADHD. Conduct disorders in childhood are also associated with a significantly increased rate of mental health problems in adult life, including antisocial personality disorder – up to 50% of children and young people with a conduct disorder go on to develop antisocial personality disorder. The prevalence ofconduct disorders in the UK varies across ethnic groups; for example, their prevalence is lower than average in children and young people of south Asian family origin and higher than average in children and young people of African-Caribbean family origin.
+
+A diagnosis of a conduct disorder is strongly associated with poor educational performance, social isolation and, in adolescence, substance misuse and increased contact with the criminal justice system. This association continues into adult life with poorer educational and occupational outcomes, involvement with the criminal justice system (as high as 50% in some groups) and a high level of mental health problems (at some point in their lives 90% of people with antisocial personality disorder will have another mental health problem).
+
+Conduct disorders are the most common reason for referral of young children to child and adolescent mental health services (CAMHS). Children with conduct disorders also comprise a considerable proportion of the work of the health and social care system. For example, 30% of a typical GP's child consultations are for behavioural problems, 45% of community child health referrals are for behaviour disturbances and psychiatric disorders are a factor in 28% of all paediatric outpatient referrals. In addition, social care services have significant involvement with children and young people with conduct disorders, with more vulnerable or disturbed children often being placed with a foster family or, less commonly, in residential care. The demands on the educational system are also considerable and include the provision of special-needs education. The criminal justice system also has significant involvement with older children with conduct disorders.
+
+Multiple agencies may be involved in the care and treatment of children with conduct disorders, which presents a major challenge for services in the effective coordination of care across agencies.
+
+Several interventions have been developed for children with conduct disorder and related problems, such as parenting programmes typically focused on younger children and multisystemic approaches usually focused on older children. Other interventions focused on prevention, such as the Nurse Family Partnership (known as the Family Nurse Partnership in the UK), have recently been implemented in the UK and are currently being evaluated. Three themes are common to these interventions: a strong focus on working with parents and families, recognition of the importance of the wider social system in enabling effective interventions and a focus on preventing or reducing the escalation of existing problems.Uptake of these interventions and the outcomes achieved vary across England and Wales. Parenting programmes are the best established; implementation of multisystemic approaches and early intervention programmes is more variable. In addition to the programmes developed specifically for children with a conduct disorder, a number of children (and their parents or carers) are treated by both specialist CAMHS teams and general community-based services such as Sure Start.
 
 Identifying which interventions and agencies are the most appropriate is challenging, especially for non-specialist health, social care and educational services. Further challenges arise when considering the use of preventive and early intervention programmes and identifying which vulnerable groups stand to gain from such interventions. Factors that may be associated with a higher risk of developing conduct disorders include parental factors such as harsh and inconsistent parenting style and parental mental health problems (for example depression, antisocial personality disorder and substance misuse), environmental factors such as poverty and being looked after, and individual factors such as low educational attainment and the presence of other mental health problems.
 

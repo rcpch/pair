@@ -26,11 +26,11 @@ Who is it for? ... 4
 1.5 Organisation and planning of services ... 20
 
 ### Recommendations for research ... 23
-1. Development of an agreed set of outcomes measures ... 23
-2. Psychological therapy programmes for people with borderline personality disorder ... 23
-3. Outpatient psychosocial interventions ... 24
-4. Mood stabilisers ... 25
-5. Developing a care pathway ... 25
+1 Development of an agreed set of outcomes measures ... 23
+2 Psychological therapy programmes for people with borderline personality disorder ... 23
+3 Outpatient psychosocial interventions ... 24
+4 Mood stabilisers ... 25
+5 Developing a care pathway ... 25
 
 ### Context ... 27
 
@@ -343,7 +343,7 @@ For guidance on safe prescribing of Z-drugs (such as zolpidem and zopiclone) and
 
 1.4.1.3 When considering inpatient care for a person with borderline personality disorder, actively involve them in the decision and:
 
-• ensure the decision is based on an explicit, joint understanding of the potential benefits and likely harm that may result from admission.• agree the length and purpose of the admission in advance
+• ensure the decision is based on an explicit, joint understanding of the potential benefits and likely harm that may result from admission• agree the length and purpose of the admission in advance
 • ensure that when, in extreme circumstances, compulsory treatment is used, management on a voluntary basis is resumed at the earliest opportunity.
 
 1.4.1.4 Arrange a formal CPA review for people with borderline personality disorder who have been admitted twice or more in the previous 6 months.

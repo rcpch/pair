@@ -48,15 +48,16 @@ Pregnancy care ... 50
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Adrenal insufficiency: identification and management (NG243)
 
-Pharmacological management during psychological stress ... 52
-Non-pharmacological management during psychological stress ... 53
-When to suspect adrenal crisis ... 54
-Emergency management of adrenal crisis ... 55
-Ongoing care and monitoring ... 56
-Managing glucocorticoid withdrawal to prevent adrenal insufficiency ... 58
-Context ... 61
-Finding more information and committee details ... 62
-Update information ... 63
+Pharmacological management during psychological stress ..... 52
+Non-pharmacological management during psychological stress ..... 53
+When to suspect adrenal crisis ..... 54
+Emergency management of adrenal crisis ..... 55
+Ongoing care and monitoring ..... 56
+Managing glucocorticoid withdrawal to prevent adrenal insufficiency ..... 58
+
+Context ..... 61
+Finding more information and committee details ..... 62
+Update information ..... 63
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Overview
 
@@ -225,7 +226,7 @@ Corticosteroid replacement
 Table 2 Corticosteroid replacement for adrenal insufficiency in people aged 16 years and over
 
 | Treatment | Primary adrenal insufficiency | Congenital adrenal hyperplasia (CAH) | Secondary and tertiary adrenal insufficiency |
-| :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: |
 | First-choice glucocorticoid | Hydrocortisone total daily dose 15 mg to 25 mg orally in 2 to 4 divided doses. | Hydrocortisone total daily dose 15 mg to 25 mg orally in 2 to 4 divided doses. Consider higher doses with specialist advice if needed for control of CAH. | Hydrocortisone total daily dose 15 mg to 25 mg orally in 2 to 3 divided doses. |
 | Alternative glucocorticoid (for example, if multiple daily doses are not appropriate) | Prednisolone (if they have stopped growing) total daily dose 3 mg to 5 mg orally. | Prednisolone (if they have stopped growing) total daily dose 3 mg to 5 mg orally. Consider higher doses with specialist advice if needed for control of CAH. | Prednisolone (if they have stopped growing) total daily dose 3 mg to 5 mg orally. |<table><thead><tr><th>Treatment</th><th>Primary adrenal insufficiency</th><th>Congenital adrenal hyperplasia (CAH)</th><th>Secondary and tertiary adrenal insufficiency</th></tr></thead><tbody><tr><td>Alternative glucocorticoid (for example, if multiple daily doses are not appropriate)</td><td>Modified-release hydrocortisone tablets orally. In August 2024, modified-release hydrocortisone tablets were off-label for under 18s. See NICE's information on prescribing medicines.</td><td>Modified-release hydrocortisonecapsules orally. Or dexamethasone (under specialist advice only) total daily dose 300 micrograms to 500 micrograms orally.</td><td>Modified-release hydrocortisone tablets orally. In August 2024, modified-release hydrocortisone tablets were off-label for under 18s. See NICE's information on prescribing medicines.</td></tr><tr><td>Mineralocorticoid if needed (to normalise serum electrolytes and plasma renin, and reduce postural symptoms and salt craving)</td><td>Fludrocortisone total daily dose initially 50 micrograms and adjusted according to response up to 300 micrograms orally. Consider a higher daily dose orally for young and physically active people. In August 2024, doses of fludrocortisone above 300 micrograms daily were off-label. See NICE's information on prescribing medicines.</td><td>Fludrocortisone total daily dose initially 50 micrograms and adjusted according to response up to 300 micrograms orally. Consider a higher daily dose orally for young and physically active people. In August 2024, doses of fludrocortisone above 300 micrograms daily were off-label. See NICE's information on prescribing medicines.</td><td>Do not offer a mineralocorticoid.</td></tr></tbody></table>morning and the smaller in the evening, mimicking the normal daytime rhythm of cortisol secretion. The optimum daily dose is determined on the basis of clinical response.
 
@@ -277,7 +278,8 @@ Emergency management kits
 1.3.10 Each emergency kit should contain:
 
 • an intramuscular hydrocortisone injection
-  — premixed hydrocortisone sodium phosphate 100 mg/1 ml (1 vial), orhydrocortisone sodium succinate 100 mg powder and 5 ml or 10 ml water for injection (1 vial)
+
+— premixed hydrocortisone sodium phosphate 100 mg/1 ml (1 vial), orhydrocortisone sodium succinate 100 mg powder and 5 ml or 10 ml water for injection (1 vial)
 
 • two blue needles
 • two 2 ml syringes

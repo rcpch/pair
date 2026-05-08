@@ -15,10 +15,10 @@ Local commissioners and providers of healthcare have a responsibility to enable 
 
 Commissioners and providers have a responsibility to promote an environmentally sustainable health and care system and should assess and reduce the environmental impact of implementing NICE recommendations wherever possible.## Contents
 
-Overview ... 5
+### Overview ... 5
 Who is it for? ... 5
 
-Recommendations ... 6
+### Recommendations ... 6
 1.1 Planning ... 6
 1.2 Development management ... 7
 1.3 Clean air zones ... 8
@@ -28,9 +28,9 @@ Recommendations ... 6
 1.7 Awareness raising ... 12
 Terms used in this guideline ... 14
 
-Context ... 16
+### Context ... 16
 
-Committee discussion ... 18
+### Committee discussion ... 18
 Overview ... 18
 Planning ... 22
 Development management ... 28
@@ -42,11 +42,11 @@ Awareness raising ... 52
 Evidence statements not used to make recommendations ... 56
 Gaps in the evidence ... 57
 
-Recommendations for research ... 59
+### Recommendations for research ... 59
 Key recommendations for research ... 59
 Other recommendations for research ... 62
 
-Glossary ... 63
+### Glossary ... 63
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Air pollution: outdoor air quality and health (NG70)
 
@@ -66,15 +66,10 @@ This guideline covers road-traffic-related air pollution and its links to ill he
 Who is it for?
 
 • Local authority staff working in: planning, local air quality management and public health, including environmental health
-
 • Staff working in transport and highways authorities
-
 • Local government elected members
-
 • Employers
-
 • Healthcare professionals, people working in the voluntary sector, non-governmental organisations and education
-
 • Members of the public
 
 NICE worked with Public Health England to develop this guidance.Recommendations
@@ -216,7 +211,31 @@ See how the committee made recommendations 1.4.1 to 1.4.6.
 
 • signs that display a driver's current speed to reduce unnecessary accelerations.
 
-See also recommendations 1.4.1 and 1.4.2.• behaviour change (individual approaches)
+See also recommendations 1.4.1 and 1.4.2.1.5.2 Where physical speed reduction measures are used to reduce road danger and injuries (20 mph zones – see NICE's guideline on unintentional injuries on the road), consider using them to encourage drivers to maintain a reduced, steady pace along the whole stretch of road, rather than road humps that may increase acceleration- and braking-related emissions.
+
+See how the committee made recommendations 1.5.1 to 1.5.2.
+
+1.6 Walking and cycling
+
+1.6.1 Provide support for active travel (see NICE's guidelines on physical activity: walking and cycling and physical activity and the environment).
+
+1.6.2 Provide a choice of cycle routes, including routes that avoid highly polluted roads. Ideally use quiet streets or segregated routes.
+
+1.6.3 Where busy roads are used consider:
+
+• Providing as much space as possible between the cyclist and motorised vehicles.
+
+• Using dense foliage to screen cyclists from motor vehicles, without stopping air pollution from dispersing or reducing the visibility or safety of cyclists near junctions. Also take into account concerns about personal safety.
+
+• Reducing the time cyclists spend at highly polluted sites, including some junctions, where this can be done without increasing the time that other groups spend exposed to poor air quality.
+
+See how the committee made recommendations 1.6.1 to 1.6.3.
+
+1.7 Awareness raising
+
+1.7.1 Base actions to raise awareness of road-traffic-related air pollution (and so change people's behaviour) on NICE's guidelines on:
+
+• behaviour change (general approaches)• behaviour change (individual approaches)
 
 • community engagement (in particular, the section on a local approach to making community engagement an integral part of health and wellbeing initiatives).
 
@@ -381,9 +400,7 @@ The evidence
 The committee looked at evidence in:
 
 • expert paper 1 (EP1): expert testimony on key issues in the epidemiology of air pollution and health
-
 • expert paper 2 (EP2): expert testimony on national and local frameworks for action
-
 • expert paper 3 (EP3): expert testimony on the use of Euro Standards to control vehicle emissions.
 
 Planning
@@ -502,9 +519,7 @@ The committee noted that there was a concern that some local authorities might a
 The committee looked at evidence in:
 
 • evidence review 1: environmental change and development planning: ES4.1a, ES4.1b, ES4.4
-
 • expert paper 1 (EP1): expert testimony on key issues in the epidemiology of air pollution and health
-
 • expert paper 6 (EP6): expert testimony on the role of the local authority planning regime in delivering improvements to ambient air quality and in reducing public exposure to pollution.
 
 Development management
@@ -542,6 +557,7 @@ The outcomes that matter most
 The committee agreed that the most important outcomes are health outcomes (for instance, mortality or exacerbations of respiratory conditions). But these are not usually measured directly in studies of air pollution, which rely instead on measuring air pollutant levels. The most important of these are:
 
 • ambient levels of particles, in particular PM$_{2.5}$
+
 • ambient levels of NO$_{2}$.
 
 Other outcomes relating to the need to travel and choice of vehicles are also likely to be relevant.The quality of the evidence
@@ -554,7 +570,7 @@ The committee also considered a qualitative study from the UK on factors influen
 
 The committee considered the evidence of effectiveness of natural and artificial barriers (see the discussion of recommendations 1.1.1 and 1.1.2 above) and the management of trees and vegetation.
 
-• Five studies (4 from the USA, 1 from the UK) looked at barriers alongside major roads. All were rated as poor quality and so at high risk of bias [ES4.1a, ES4.1b].
+- Five studies (4 from the USA, 1 from the UK) looked at barriers alongside major roads. All were rated as poor quality and so at high risk of bias [ES4.1a, ES4.1b].
 
 Members agreed that factors such as siting, pruning and species were important in determining the outcome [ES4.4]. So it was appropriate to recommend considering these factors to avoid creating a canopy that traps air pollutants, ensuring air pollution is reduced and ensuring we gain the other benefits from sensitive use of trees and vegetation.
 
@@ -562,7 +578,7 @@ Benefits and harms of including air pollution in development management
 
 Benefits include:
 
-• New developments that do not exacerbate poor air quality or expose people to high levels of air pollution and that encourage zero- and low-emission travel (includingactive travel).
+- New developments that do not exacerbate poor air quality or expose people to high levels of air pollution and that encourage zero- and low-emission travel (includingactive travel).
 
 • Reduced risk of inadvertent exposure of people to poor air quality from the redistribution of air pollutants.
 
@@ -589,8 +605,11 @@ The committee agreed that parking plans (including park and ride plans) are an i
 The committee looked at evidence in:
 
 • evidence review 1: environmental change and development planning: ES4.1a, ES4.1b, ES4.4
+
 • evidence review 3: travel planning and other initiatives providing information, advice, education and skill development: ES9.1a, ES9.1b, ES10.1
+
 • expert paper 1 (EP1): expert testimony on key issues in the epidemiology of air pollution and health
+
 • expert paper 6 (EP6): expert testimony on the role of the local authority planning regime in delivering improvements to ambient air quality and in reducing public exposure to pollution.
 
 Clean air zones
@@ -629,7 +648,7 @@ Some evidence suggested potential benefits could be gained from using zero- and 
 
 Because the evidence for all these actions was uncertain, the committee recommended these as actions to consider.
 
-**Recommendation 1.3.5**
+Recommendation 1.3.5
 
 There was some evidence on addressing driving style and traffic flow and this supported the committee's knowledge of how air pollution is produced. They agreed that training to reduce idling and to encourage people to change their driving style is unlikely to have any negative effects.
 
@@ -637,11 +656,11 @@ No direct evidence was found on local deliveries or private hire vehicles. Howev
 
 They agreed that air pollution from congestion related to deliveries might be addressed by thinking about delivery schedules and by training and accreditation of fleets using a fleet recognition scheme. In addition, it may help reduce fuel use resulting in reduced emissions. Because the evidence was uncertain, they recommended this as an action to consider.
 
-**Recommendation 1.3.6**
+Recommendation 1.3.6
 
 Some evidence, together with the committee's experience, suggested that congestion charging could contribute to a package of measures and incentives to address air pollution where congestion was identified as a significant cause. Because the evidence was uncertain, the committee recommended this as an action to consider.
 
-**Recommendation 1.3.7**
+Recommendation 1.3.7
 
 Members agreed that it was important to monitor outside the zone to identify whether traffic is moving elsewhere and resulting in poor air quality in those areas. They also agreed that adjustments should be made in such cases. Because the evidence was uncertain (committee consensus), the committee recommended this as an action to consider.Recommendation 1.3.8
 
@@ -704,7 +723,29 @@ The committee considered the evidence of effectiveness of charging zones on air 
 
 • Three studies (2 from the UK, 1 from Italy) looked at charging schemes [ES6.1]. All were rated as poor quality. The studies from the UK failed to find clear evidence of reductions in air pollution. This may in part be because of the failure of Euro standards to produce the modelled benefits. The study from Italy suggested that there were some reductions in particulate air pollution most heavily linked to vehicle use. However, it is possible that there are differences in the vehicle fleet between Italy and the UK, meaning that this is only partially applicable. The committee agreed that this evidence supported the recommendations.
 
-• Two cost-effectiveness studies (1 from Sweden rated as moderate quality and 1 from Italy rated as moderate quality) looked at the costs and benefits of congestionEvidence in the economic modelling suggested an annual cost of around £2 per head for the Amsterdam low-emission zone. Although a clean air zone involving a range of interventions might be more expensive, the committee felt this was likely to have an additive positive effect.
+• Two cost-effectiveness studies (1 from Sweden rated as moderate quality and 1 from Italy rated as moderate quality) looked at the costs and benefits of congestioncharging schemes [ES6.2]. Both were at some risk of bias. Both suggested greater benefits than costs. However, the main benefits came from changes to traffic flow, travel time savings and reductions in road injuries, rather than from air pollution savings. Local factors (such as the limited number of access points to the islands of Stockholm and differences in the vehicle fleet) mean that the evidence is partially applicable. The committee agreed that this evidence supported the recommendations.
+
+Benefits and harms of clean air zones
+
+Benefits include:
+
+• Discouraging use of the most polluting vehicles, by restricting their access to some areas or by encouraging zero- or low-emission travel, will improve local air quality.
+
+• Increased levels of physical activity from encouraging 'active' travel.
+
+• A reduction in health inequalities by reducing vulnerable groups' exposure to poor air quality.
+
+Potential harms arise from:
+
+• Approaches covering only limited classes of vehicles or geographical areas not reducing emissions sufficiently, or moving the pollution elsewhere.
+
+• People who depend on highly polluting vehicles or older vehicles that do not meet current emission standards not being able to afford to replace them.
+
+Cost effectiveness and resource use
+
+Large-scale schemes such as city-wide clean air zones (that can include low-emission zones) can be expensive to set up – but they can deliver substantial benefits. They also target a large population, meaning that the cost per head of population is likely to be relatively low.
+
+Much of the cost relates to setting up. Running costs are likely to be substantially lower (and potentially covered by charges or fines). Ongoing income can then be used for other activities to reduce air pollution. Demonstrating a link between income raised and funding activities to reduce air pollution is likely to encourage public support for the actions.Evidence in the economic modelling suggested an annual cost of around £2 per head for the Amsterdam low-emission zone. Although a clean air zone involving a range of interventions might be more expensive, the committee felt this was likely to have an additive positive effect.
 
 There are no data for clean air zones so the economic model considered 1 component – low-emission zones. It estimated a cost per quality-adjusted life year (QALY) of around £2,240. The committee noted this is likely to decrease as vehicle fleets progressively improve because of regulation, unless restrictions evolve to take into account improving vehicle standards. Nevertheless, because they have a benefit–cost ratio of around 29 (that is, £29 of benefit for every £1 spent) the committee considered the impact of these zones is unlikely to stop representing good value for money.
 
@@ -953,7 +994,7 @@ Ambient levels of air pollutants, in particular NO₂ and PM₂.₅.
 
 The quality of the evidence
 
-The committee considered the evidence of the impact of cycle route design on exposure to air pollution [ES3.1]. This included 6 studies that examined the siting and design of cycle routes: 3 from the US, 1 each from the Netherlands, Canada and the UK. All were rated as poor quality:All 6 found exposure to PM$_{2.5}$ was lower in low traffic routes and air pollution levels were reduced by increasing separation.
+The committee considered the evidence of the impact of cycle route design on exposure to air pollution [ES3.1]. This included 6 studies that examined the siting and design of cycle routes: 3 from the US, 1 each from the Netherlands, Canada and the UK. All were rated as poor quality:All 6 found exposure to PM₂.₅ was lower in low traffic routes and air pollution levels were reduced by increasing separation.
 
 Shelter provided by vegetation reduced levels of exposure to air pollutants; conversely, peak levels of exposure were seen in conjunction with junctions and waiting at signals.
 
@@ -1135,11 +1176,11 @@ There is limited evidence on how vegetation and trees influence urban air qualit
 
 Research is needed on a range of factors including:
 
-- impact of different species of vegetation and tree types
-- impact of trees depending on where they are sited and how they are maintained
-- impacts across the course of a year
-- impact on health inequalities
-- other potential health benefits.
+• impact of different species of vegetation and tree types
+• impact of trees depending on where they are sited and how they are maintained
+• impacts across the course of a year
+• impact on health inequalities
+• other potential health benefits.
 
 2 Promoting a shift to zero- and low-emission travel
 
@@ -1186,12 +1227,15 @@ Activities to raise awareness of air pollution, including air pollution alerts (
 Research is needed on the impact of, for example, air pollution alerts on:
 
 • different groups (such as those vulnerable to air pollution and the general population)
+
 • behaviours related to the production of pollution (such as changes in mode of transport)
+
 • acute and chronic health.
 
 Studies are also needed on:
 
 • the risk of adverse effects (such as making people worry unnecessarily, or increasing the level of motor vehicle travel after an alert)
+
 • the ability of health services to respond to concerns raised by issuing alerts.Other recommendations for research
 
 6 Exposure to air pollution using different modes of transport

@@ -46,7 +46,6 @@ Finding more information and committee details ... 31
 Update information ... 32
 
 Appendix: Features suggesting possible autism ... 33
-
 Using boxes 2 to 4 ... 33
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Autism spectrum disorder in under 19s: recognition, referral and diagnosis (CG128)
@@ -63,9 +62,7 @@ Who is it for?
 
 • Healthcare professionals
 
-• Autistic children and young people, children and young people who may be autistic, and their families and carers
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Recommendations
+• Autistic children and young people, children and young people who may be autistic, and their families and carersRecommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in NICE's information on making decisions about your care.
 
@@ -181,17 +178,17 @@ Making decisions using NICE guidelines explains how we use words to show the str
 
 1.3.2 Refer first to a paediatrician or paediatric neurologist (who can refer to the autism team if necessary) children and young people:
 
-- older than 3 years with regression in language
-- of any age with regression in motor skills. [2011]
+• older than 3 years with regression in language
+• of any age with regression in motor skills. [2011]
 
 1.3.3 Consider referring children and young people to the autism team if you are concerned about possible autism on the basis of reported or observed features suggesting possible autism (see boxes 2 to 4 in the appendix). Take account of:
 
-- the severity and duration of the features suggesting possible autism
-- the extent to which the features suggesting possible autism are present across different settings (for example, home and school)
-- the impact of the features suggesting possible autism on the child or young person and on their family
-- the level of parental or carer concern and, if appropriate, the concerns of the child or young person
-- factors associated with an increased prevalence of autism (see box 1)
-- the likelihood of an alternative diagnosis. [2011]
+• the severity and duration of the features suggesting possible autism
+• the extent to which the features suggesting possible autism are present across different settings (for example, home and school)
+• the impact of the features suggesting possible autism on the child or young person and on their family
+• the level of parental or carer concern and, if appropriate, the concerns of the child or young person
+• factors associated with an increased prevalence of autism (see box 1)
+• the likelihood of an alternative diagnosis. [2011]
 
 Box 1 Factors associated with an increased prevalence of autism [2017]Autism spectrum disorder in under 19s: recognition, referral and diagnosis (CG128)
 
@@ -218,19 +215,25 @@ Box 1 Factors associated with an increased prevalence of autism [2017]Autism spe
 1.3.5 Be aware that tools to identify children and young people with an increased likelihood of autism may be useful in gathering information about featuressuggesting possible autism in a structured way but are not essential and should not be used to make or rule out a diagnosis of autism. Also be aware that:
 
 • a positive score on tools to identify an increased likelihood of autism may support a decision to refer but can also be for reasons other than autism
+
 • a negative score does not rule out autism. [2011]
 
 1.3.6 When referring children and young people to the autism team, include in the referral letter the following information:
 
 • reported information from parents, carers and professionals about signs and/or symptoms of concern
+
 • your own observations of the signs and/or symptoms. [2011]
 
 1.3.7 When referring children and young people to the autism team, include in the referral letter the following information, if available:
 
 • antenatal and perinatal history
+
 • developmental milestones
+
 • factors associated with an increased prevalence of autism (see box 1 in recommendation 1.3.3)
+
 • relevant medical history and investigations
+
 • information from previous assessments. [2011]
 
 1.3.8 Explain to parents or carers and, if appropriate, the child or young person, what will happen on referral to the autism team or another service. [2011]
@@ -248,7 +251,6 @@ Full details of the evidence and the committee's discussion are in evidence revi
 1.4.1 When a child or young person is referred to the autism team, at least one member of the autism team should consider whether to carry out:
 
 • an autism diagnostic assessment and/or
-
 • an alternative assessment. [2011]
 
 1.4.2 Carry out an autism diagnostic assessment if there is regression in language or social skills in a child younger than 3 years. [2011]
@@ -256,7 +258,6 @@ Full details of the evidence and the committee's discussion are in evidence revi
 1.4.3 Refer first to a paediatrician or paediatric neurologist (if this has not already happened) children or young people:
 
 • older than 3 years with regression in language
-
 • of any age with regression in motor skills.
 
 The paediatrician or paediatric neurologist can refer back to the autism team if necessary. [2011]
@@ -403,9 +404,7 @@ The paediatrician or paediatric neurologist can refer back to the autism team if
 • Neurodevelopmental problems and disorders:
   — global delay or a learning (intellectual) disability
   — motor coordination problems or DCD
-  — academic learning problems, for example in literacy or numeracy
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of conditions#notice-of-rights).Autism spectrum disorder in under 19s: recognition, referral and diagnosis (CG128)
+  — academic learning problems, for example in literacy or numeracyAutism spectrum disorder in under 19s: recognition, referral and diagnosis (CG128)
 
 – speech and language disorder.
 
@@ -474,17 +473,17 @@ The paediatrician or paediatric neurologist can refer back to the autism team if
 1.9.1 Provide individual information on support available locally for parents, carers, and autistic children and young people, according to the family's needs. This may include:
 
 • contact details for:
-  — local and national support organisations (who may provide, for example, an opportunity to meet other families with experience of autism, or information about specific courses for parents and carers and/or young people)
-  — organisations that can provide advice on welfare benefits
-  — organisations that can provide information on educational support and social care
+  – local and national support organisations (who may provide, for example, an opportunity to meet other families with experience of autism, or information about specific courses for parents and carers and/or young people)
+  – organisations that can provide advice on welfare benefits
+  – organisations that can provide information on educational support and social care
 
 • information to help prepare for the future, for example transition to adult services. [2011]Recommendations for research
 
-The guideline committee has made the following recommendations for research:
+The guideline committee has made the following recommendations for research
 
 1 Training professionals
 
-Does training professionals to recognise features suggesting possible autism lead to earlier assessment of needs and earlier diagnosis (and by implication reduce morbidity/improve health outcomes) among children and young people compared with no training?
+Does training professionals to recognise features suggesting possible autism lead to earlier assessment of needs and earlier diagnosis (and by implication reduce morbidity/ improve health outcomes) among children and young people compared with no training?
 
 Why this is important
 
@@ -679,19 +678,14 @@ Spoken language
 Responding to others
 
 • Reduced or absent response to other people's facial expression or feelings.
-
 • Reduced or delayed response to name being called, despite normal hearing.
-
 • Subtle difficulties in understanding other's intentions; may take things literally and misunderstand sarcasm or metaphor.
-
 • Unusually negative response to the requests of others (demand avoidant behaviour).
 
 Interacting with others
 
 • Reduced or absent awareness of personal space, or unusually intolerant of people entering their personal space.
-
 • Reduced or absent social interest in people, including children of his/her own age – may reject others; if interested in others, may approach others inappropriately, seeming to be aggressive or disruptive.
-
 • Reduced or absent greeting and farewell behaviours.• Reduced or absent awareness of socially expected behaviour.
 
 • Reduced or absent ability to share in the social play or ideas of others, plays alone.
@@ -751,7 +745,6 @@ Box 4 Features suggesting possible autism in secondary school children (older th
 Spoken language
 
 • Spoken language may be unusual in several ways:
-
   — very limited use
   — monotonous tone
   — repetitive speech, frequent use of stereotyped (learnt) phrases, content dominated by excessive information on topics of own interest

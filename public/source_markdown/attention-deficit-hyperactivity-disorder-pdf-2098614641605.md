@@ -60,7 +60,9 @@ Equality and diversity considerations ... 15
 
 Quality statement 4: Parent training programmes ... 16
 
-Quality statement ... 16Attention deficit hyperactivity disorder (QS39)
+Quality statement ... 16
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Attention deficit hyperactivity disorder (QS39)
 
 Rationale ... 16
 Quality measures ... 16
@@ -175,7 +177,7 @@ A diagnosis of ADHD must be made on the basis of:
 
 • observer reports and assessment of the person's mental state.
 
-As an option, use QbTest to help diagnose ADHD in people aged 6 to 17 years as recommended in NICE's diagnostics guidance on digital technologies for assessing ADHD. [NICE's guideline on attention deficit hyperactivity disorder, recommendation 1.3.1]
+As an option, use QbTest to help diagnose ADHD in people aged 6 to 17 years as recommended in [NICE's diagnostics guidance on digital technologies for assessing ADHD. [NICE's guideline on attention deficit hyperactivity disorder, recommendation 1.3.1]
 
 Symptoms of ADHD
 
@@ -241,7 +243,7 @@ Definitions of terms used in this quality statement
 
 ADHD specialist
 
-A specialist psychiatrist, paediatrician or other appropriately qualified healthcare professional with training and expertise in diagnosing ADHD. [NICE's guideline on attention deficit hyperactivity disorder], recommendation 1.3.1]
+A specialist psychiatrist, paediatrician or other appropriately qualified healthcare professional with training and expertise in diagnosing ADHD. [NICE's guideline on attention deficit hyperactivity disorder], recommendation 1.3.1
 
 Symptoms of ADHD for adult referral
 

@@ -57,9 +57,7 @@ Quality statement 4: Personal folders for children and young people with cerebra
 
 Quality statement ... 17
 
-Rationale ... 17
-
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Cerebral palsy in children and young people (QS162)
+Rationale ... 17Cerebral palsy in children and young people (QS162)
 
 Quality measures... 17
 What the quality statement means for different audiences... 18
@@ -68,7 +66,7 @@ Definition of terms used in this quality statement... 19
 Equality and diversity considerations... 20
 
 About this quality standard ... 21
-Improving outcomes ... 22
+Improving outcomes... 22
 Resource impact... 22
 Diversity, equality and language... 22
 
@@ -432,5 +430,3 @@ Many organisations share NICE's commitment to quality improvement using evidence
 • Royal College of Nursing (RCN)
 • Association of Paediatric Chartered Physiotherapists
 • Royal College of Paediatrics and Child Health
-
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of conditions#notice-of-rights).

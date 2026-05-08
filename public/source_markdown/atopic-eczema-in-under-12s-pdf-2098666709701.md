@@ -10,92 +10,68 @@ www.nice.org.uk/guidance/qs44
 Quality statements ... 5
 
 Quality statement 1: Assessment at diagnosis ... 6
-
-Quality statement ... 6
-
-Rationale ... 6
-
-Quality measures ... 6
-
-What the quality statement means for different audiences ... 7
-
-Source guidance ... 8
-
-Definitions of terms used in this quality statement ... 8
+  Quality statement ... 6
+  Rationale ... 6
+  Quality measures ... 6
+  What the quality statement means for different audiences ... 7
+  Source guidance ... 8
+  Definitions of terms used in this quality statement ... 8
 
 Quality statement 2: Stepped approach to management ... 9
-
-Quality statement ... 9
-
-Rationale ... 9
-
-Quality measures ... 9
-
-What the quality statement means for different audiences ... 10
-
-Source guidance ... 11
-
-Definitions of terms used in this quality statement ... 11
-
-Equality and diversity considerations ... 13
+  Quality statement ... 9
+  Rationale ... 9
+  Quality measures ... 9
+  What the quality statement means for different audiences ... 10
+  Source guidance ... 11
+  Definitions of terms used in this quality statement ... 11
+  Equality and diversity considerations ... 13
 
 Quality statement 3: Psychological wellbeing and quality of life ... 14
-
-Quality statement ... 14
-
-Rationale ... 14
-
-Quality measures ... 14
-
-What the quality statement means for different audiences ... 15
-
-Source guidance ... 15
-
-Definitions of terms used in this quality statement ... 16
+  Quality statement ... 14
+  Rationale ... 14
+  Quality measures ... 14
+  What the quality statement means for different audiences ... 15
+  Source guidance ... 15
+  Definitions of terms used in this quality statement ... 16
 
 Quality statement 4: Provision of emollients ... 17
+  Quality statement ... 17
+  Rationale ... 17
+  Quality measures ... 17
 
-Quality statement ... 17
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).What the quality statement means for different audiences ... 18
+Source guidance ... 18
+Definitions of terms used in this quality statement ... 19
+Equality and diversity considerations ... 19
 
-Rationale ... 17
+Quality statement 5: Referral for specialist dermatological advice ... 20
+Quality statement ... 20
+Rationale ... 20
+Quality measures ... 20
+What the quality statement means for different audiences ... 21
+Source guidance ... 22
+Definitions of terms used in this quality statement ... 22
+Equality and diversity considerations ... 22
 
-Quality measures ... 17
+Quality statement 6: Specialist allergy investigation ... 23
+Quality statement ... 23
+Rationale ... 23
+Quality measures ... 23
+What the quality statement means for different audiences ... 24
+Source guidance ... 25
+Definitions of terms used in this quality statement ... 25
 
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).What the quality statement means for different audiences ..... 18
-Source guidance ..... 18
-Definitions of terms used in this quality statement ..... 19
-Equality and diversity considerations ..... 19
+Quality statement 7: Treatment of eczema herpeticum ... 27
+Quality statement ... 27
+Rationale ... 27
+Quality measures ... 27
+What the quality statement means for different audiences ... 28
+Source guidance ... 29
+Definitions of terms used in this quality statement ... 29
 
-Quality statement 5: Referral for specialist dermatological advice ..... 20
-Quality statement ..... 20
-Rationale ..... 20
-Quality measures ..... 20
-What the quality statement means for different audiences ..... 21
-Source guidance ..... 22
-Definitions of terms used in this quality statement ..... 22
-Equality and diversity considerations ..... 22
+Update information ... 31
 
-Quality statement 6: Specialist allergy investigation ..... 23
-Quality statement ..... 23
-Rationale ..... 23
-Quality measures ..... 23
-What the quality statement means for different audiences ..... 24
-Source guidance ..... 25
-Definitions of terms used in this quality statement ..... 25
-
-Quality statement 7: Treatment of eczema herpeticum ..... 27
-Quality statement ..... 27
-Rationale ..... 27
-Quality measures ..... 27
-What the quality statement means for different audiences ..... 28
-Source guidance ..... 29
-Definitions of terms used in this quality statement ..... 29
-
-Update information ..... 31
-
-About this quality standard ..... 32
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Diversity, equality and language... 32
+About this quality standard ... 32Diversity, equality and language... 32
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Quality statements
 
@@ -223,7 +199,9 @@ Definitions of terms used in this quality statement
 
 Eczema severity
 
-An assessment of the physical severity of atopic eczema and the impact of atopic eczema on quality of life and social wellbeing is recommended at each eczema consultation. Physical severity of atopic eczema is defined as follows:
+An assessment of the physical severity of atopic eczema and the impact of atopic eczema on quality of life and social wellbeing is recommended at each eczema consultation.
+
+Physical severity of atopic eczema is defined as follows:
 
 • Clear: normal skin, no evidence of active atopic eczema.
 
@@ -576,9 +554,7 @@ Minor changes since publication
 
 May 2025: Changes have been made to align this quality standard with the updated NICE's guideline on atopic eczema in under 12s: diagnosis and management. Source guidance references and definitions have been updated throughout.
 
-June 2023: Changes have been made to align this quality standard with the updated NICE's guideline on atopic eczema in under 12s: diagnosis and management. Source guidance references and definitions have been updated throughout.
-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of conditions#notice-of-rights).About this quality standard
+June 2023: Changes have been made to align this quality standard with the updated NICE's guideline on atopic eczema in under 12s: diagnosis and management. Source guidance references and definitions have been updated throughout.About this quality standard
 
 NICE quality standards describe high-priority areas for quality improvement in a defined care or service area. Each standard consists of a prioritised set of specific, concise and measurable statements. NICE quality standards draw on existing NICE or NICE-accredited guidance that provides an underpinning, comprehensive set of recommendations, and are designed to support the measurement of improvement.
 

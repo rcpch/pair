@@ -19,33 +19,35 @@ Commissioners and providers have a responsibility to promote an environmentally 
 Who is it for? ... 4
 
 ### Recommendations ... 5
-- Blood transfusion algorithm ... 5
-- 1.1 Alternatives to blood transfusion for patients having surgery ... 5
-- 1.2 Red blood cells ... 7
-- 1.3 Platelets ... 8
-- 1.4 Fresh frozen plasma ... 10
-- 1.5 Cryoprecipitate ... 11
-- 1.6 Prothrombin complex concentrate ... 12
-- 1.7 Patient safety ... 12
-- 1.8 Patient information ... 13
-- 1.9 Blood transfusions for patients with acute upper gastrointestinal bleeding ... 14
-- Terms used in this guideline ... 14
+Blood transfusion algorithm ... 5
+1.1 Alternatives to blood transfusion for patients having surgery ... 5
+1.2 Red blood cells ... 7
+1.3 Platelets ... 8
+1.4 Fresh frozen plasma ... 10
+1.5 Cryoprecipitate ... 11
+1.6 Prothrombin complex concentrate ... 12
+1.7 Patient safety ... 12
+1.8 Patient information ... 13
+1.9 Blood transfusions for patients with acute upper gastrointestinal bleeding ... 14
+Terms used in this guideline ... 14
 
 ### Recommendations for research ... 17
-- 1 Red blood cell transfusion thresholds for patients with chronic cardiovascular disease ... 17
-- 2 Electronic Decision Support ... 17
-- 3 Post-operative cell salvage for patients having cardiac surgery with a significant risk of post-operative blood loss ... 18
-- 4 Fresh frozen plasma for patients with abnormal haemostasis who are having invasive procedures or surgery ... 18
+1 Red blood cell transfusion thresholds for patients with chronic cardiovascular disease ... 17
+2 Electronic Decision Support ... 17
+3 Post-operative cell salvage for patients having cardiac surgery with a significant risk of post-operative blood loss ... 18
+4 Fresh frozen plasma for patients with abnormal haemostasis who are having invasive procedures or surgery ... 18
 
 ### Implementation: getting started ... 20
-- The challenge: Using tranexamic acid as an alternative to transfusion ... 20
-- The challenge: using electronic patient identification systems ... 21
+The challenge: Using tranexamic acid as an alternative to transfusion ... 20
+The challenge: using electronic patient identification systems ... 21
 
 ### Context ... 23
 
 ### Finding more information and committee details ... 26
 
-### Update information ... 27Overview
+### Update information ... 27
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Overview
 
 This guideline covers the assessment for and management of blood transfusions in adults, young people and children over 1 year old. It covers the general principles of blood transfusion, but does not make recommendations relating to specific conditions.
 
@@ -134,7 +136,6 @@ Patients with thrombocytopenia who are bleeding
 1.3.2 Use higher platelet thresholds (up to a maximum of $100 \times 10^9$ per litre) for patients with thrombocytopenia and either of the following:
 
 • severe bleeding (WHO grades 3 and 4)
-
 • bleeding in critical sites, such as the central nervous system (including eyes).
 
 Patients who are not bleeding or having invasive procedures or surgery
@@ -142,11 +143,8 @@ Patients who are not bleeding or having invasive procedures or surgery
 1.3.3 Offer prophylactic platelet transfusions to patients with a platelet count below $10 \times 10^9$ per litre who are not bleeding or having invasive procedures or surgery, and who do not have any of the following conditions:
 
 • chronic bone marrow failure
-
 • autoimmune thrombocytopenia
-
 • heparin-induced thrombocytopenia
-
 • thrombotic thrombocytopenic purpura.Patients who are having invasive procedures or surgery
 
 1.3.4 Consider prophylactic platelet transfusions to raise the platelet count above 50×10⁹ per litre in patients who are having invasive procedures or surgery.
@@ -219,8 +217,8 @@ Doses
 
 1.6.1 Offer immediate prothrombin complex concentrate transfusions for the emergency reversal of warfarin anticoagulation in patients with either:
 
-- severe bleeding or
-- head injury with suspected intracerebral haemorrhage.
+• severe bleeding or
+• head injury with suspected intracerebral haemorrhage.
 
 1.6.2 For guidance on reversing anticoagulation treatment in people who have a stroke and a primary intracerebral haemorrhage, see the section on reversal of anticoagulation treatment in people with haemorrhagic stroke in the NICE guideline on stroke and transient ischaemic attack in over 16s.
 
@@ -297,17 +295,18 @@ This was used to assess bleeding in trials of platelet transfusions. Examples of
 
 WHO bleeding scale
 
-World Health Organization Bleeding Grade | Examples
-------- | -------
-1 | 
-  • Oropharyngeal bleeding, with the total duration of all episodes no more than 30 minutes in the last 24 hours.
-  • Epistaxis, with the total duration of all episodes no more than 30 minutes in the last 24 hours.
-  • Petechiae of oral mucosa or skin.
-  • Purpura up to 2.5 cm (1 inch) in diameter.
-  • Spontaneous haematoma in soft tissue or muscle.
-  • Positive stool occult blood test.
-  • Microscopic haematuria or haemoglobinuria.
-  • Abnormal vaginal bleeding (spotting).<table><thead><tr><th>World Health Organization Bleeding Grade</th><th>Examples</th></tr></thead><tbody><tr><td>2</td><td>• Epistaxis, with the total duration of all episodes over 30 minutes in 24 hours.
+| World Health Organization Bleeding Grade | Examples |
+| :--- | :--- |
+| 1 | • Oropharyngeal bleeding, with the total duration of all episodes no more than 30 minutes in the last 24 hours. |
+| | • Epistaxis, with the total duration of all episodes no more than 30 minutes in the last 24 hours. |
+| | • Petechiae of oral mucosa or skin. |
+| | • Purpura up to 2.5 cm (1 inch) in diameter. |
+| | • Spontaneous haematoma in soft tissue or muscle. |
+| | • Positive stool occult blood test. |
+| | • Microscopic haematuria or haemoglobinuria. |
+| | • Abnormal vaginal bleeding (spotting). |
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of conditions#notice-of-rights).<table><thead><tr><th>World Health Organization Bleeding Grade</th><th>Examples</th></tr></thead><tbody><tr><td>2</td><td>• Epistaxis, with the total duration of all episodes over 30 minutes in 24 hours.
 • Purpura over 2.5 cm (1 inch) in diameter.
 • Joint bleeding.
 • Melanotic stool.

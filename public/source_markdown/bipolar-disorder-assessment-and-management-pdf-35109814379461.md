@@ -332,6 +332,7 @@ In September 2014, these were off-label uses of olanzapine, risperidone, haloper
 1.6.6 If the maximum tolerated dose, or the top of the therapeutic range for valproate, has been reached and there is a limited response, add either of the following options, depending on the person's preference and previous response to treatment:
 
 • fluoxetine combined with olanzapine or
+
 • quetiapine.
 
 Follow the recommendations on using valproate and antipsychotics in the section on how to use medication.
@@ -341,7 +342,9 @@ In September 2014, these were off-label uses of olanzapine, quetiapine and valpr
 1.6.7 If the person does not wish to try adding fluoxetine combined with olanzapine or adding quetiapine, consider:
 
 • adding olanzapine (without fluoxetine) or
+
 • adding lamotrigine or
+
 • changing from valproate to an alternative treatment.Follow the recommendations on using valproate, antipsychotics and lamotrigine in the section on how to use medication.
 
 In September 2014, these were off-label uses of olanzapine, quetiapine, lamotrigine and valproate for children and young people. See NICE's information on prescribing medicines. [2014, amended 2023]
@@ -349,6 +352,7 @@ In September 2014, these were off-label uses of olanzapine, quetiapine, lamotrig
 1.6.8 If there is no response to adding fluoxetine combined with olanzapine or adding quetiapine, consider stopping the additional medications and:
 
 • adding lamotrigine to valproate or
+
 • changing from valproate to an alternative treatment.
 
 Follow the recommendations on using valproate, antipsychotics and lamotrigine in the section on how to use medication.
@@ -598,12 +602,12 @@ Starting lithium
 
 1.10.20 After the first year, measure plasma lithium levels every 6 months, or every 3 months for people in any of the following groups:
 
-• older people
-• people taking drugs that interact with lithium
-• people who are at risk of impaired renal or thyroid function, raised calcium levels or other complications
-• people who have poor symptom control
-• people with poor adherence
-• people whose last plasma lithium level was 0.8 mmol per litre or higher. [2014]
+- older people
+- people taking drugs that interact with lithium
+- people who are at risk of impaired renal or thyroid function, raised calcium levels or other complications
+- people who have poor symptom control
+- people with poor adherence
+- people whose last plasma lithium level was 0.8 mmol per litre or higher. [2014]
 
 1.10.21 Measure the person's weight or BMI and arrange tests for urea and electrolytes including calcium, estimated glomerular filtration rate (eGFR) and thyroid function every 6 months, and more often if there is evidence of impaired renal or thyroid function, raised calcium levels or an increase in mood symptoms that might be related to impaired thyroid function. [2014]
 
@@ -723,7 +727,7 @@ Bipolar depression
 
 1.11.15 After the multidisciplinary review, if there are coexisting factors such as comorbid conditions, persisting psychosocial risk factors such as family discord, or parental mental ill-health, consider:
 
-• an alternative psychological intervention for bipolar depression for the young person, their parents or other family member
+• an alternative psychological intervention for bipolar depression for the young person, their parents or other family member or
 
 • an additional psychological intervention for any coexisting mental health problems in line with relevant NICE guidance for the young person, their parents or other family member. [2014]1.11.16 If the young person's bipolar depression is moderate to severe, consider a pharmacological intervention in addition to a psychological intervention. Take into account the recommendations for adults in the section on managing bipolar depression in adults in secondary care. Do not routinely continue antipsychotic treatment for longer than 12 weeks. At 12 weeks, carry out a full multidisciplinary review of mental and physical health, and consider further management of depression or long-term management.
 

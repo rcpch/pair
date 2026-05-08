@@ -49,9 +49,9 @@ Recommendations for research ... 29
 
 © NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Behaviour change: digital and mobile health interventions (NG183)
 
-Context 31
+Context... 31
 
-Finding more information and committee details 32Behaviour change: digital and mobile health interventions (NG183)
+Finding more information and committee details... 32Behaviour change: digital and mobile health interventions (NG183)
 
 This guideline is the basis of QS167.
 
@@ -153,23 +153,35 @@ These recommendations support adopting healthy behaviours in the health and life
 
 1.3.2 When discussing the use of a digital or mobile health intervention with the person, take into account:
 
-- their preferences and behaviour change goals, and interventions that allow tailoring towards these
-- their capability, opportunity and motivation for change
-- their digital, health and reading literacy
-- the digital platforms available
-- the aim of the intervention
-- how frequently and intensely they are willing to use interventions
-- that some interventions may not have evidence of effectiveness
-- how it would fit into their current care pathway.
+• their preferences and behaviour change goals, and interventions that allow tailoring towards these
+
+• their capability, opportunity and motivation for change
+
+• their digital, health and reading literacy
+
+• the digital platforms available
+
+• the aim of the intervention
+
+• how frequently and intensely they are willing to use interventions
+
+• that some interventions may not have evidence of effectiveness
+
+• how it would fit into their current care pathway.
 
 1.3.3 Advise people who may use a digital and mobile health intervention to:
 
-- use one from an expert source if available (such as the NHS apps library) because it is likely to have been assessed for safety, effectiveness and data security
-- check and set preferences for how their personal information and data may be used
-- be aware of any possible extra costs
-- check they are willing and able to pay any associated costs
-- be aware that the intervention may use mobile data after it is downloaded
-- seek advice from a healthcare professional if they have health concerns whileusing the intervention
+• use one from an expert source if available (such as the NHS apps library) because it is likely to have been assessed for safety, effectiveness and data security
+
+• check and set preferences for how their personal information and data may be used
+
+• be aware of any possible extra costs
+
+• check they are willing and able to pay any associated costs
+
+• be aware that the intervention may use mobile data after it is downloaded
+
+• seek advice from a healthcare professional if they have health concerns whileusing the intervention
 
 • read the terms and conditions.
 

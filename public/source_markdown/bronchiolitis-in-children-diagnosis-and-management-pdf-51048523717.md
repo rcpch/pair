@@ -44,7 +44,9 @@ When to discharge ... 22
 
 ### Finding more information and committee details ... 25
 
-### Update information ... 26Overview
+### Update information ... 26
+
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Overview
 
 This guideline covers diagnosing and managing bronchiolitis in babies and children. It aims to help healthcare professionals diagnose bronchiolitis and identify if babies and children should be cared for at home or in hospital. It describes treatments and interventions that can be used to help with the symptoms of bronchiolitis.
 
@@ -64,7 +66,7 @@ Making decisions using NICE guidelines explains how we use words to show the str
 
 1.1.2 When diagnosing bronchiolitis, take into account that symptoms usually peak between 3 and 5 days, and that cough resolves in 90% of infants within 3 weeks. [2015]
 
-1.1.3 Diagnose bronchiolitis if the baby or child has a coryzal prodrome lasting 1 to 3 days, followed by:
+1.1.3 Diagnose bronchiolitis if the baby or child has a coryzaal prodrome lasting 1 to 3 days, followed by:
 
 • persistent cough and
 • either tachypnoea or chest recession (or both) and
@@ -128,19 +130,19 @@ Be aware that some pulse oximeters can underestimate or overestimate oxygen satu
 
 1.2.3 When deciding whether to refer a baby or child with bronchiolitis to secondary care, take account of any known risk factors for more severe bronchiolitis such as:
 
-• chronic lung disease (including bronchopulmonary dysplasia)
-• haemodynamically significant congenital heart disease
-• age in young infants (under 3 months)
-• premature birth, particularly under 32 weeks
-• neuromuscular disorders
-• immunodeficiency. [2015]
+- chronic lung disease (including bronchopulmonary dysplasia)
+- haemodynamically significant congenital heart disease
+- age in young infants (under 3 months)
+- premature birth, particularly under 32 weeks
+- neuromuscular disorders
+- immunodeficiency. [2015]
 
 1.2.4 When deciding whether to refer a baby or child to secondary care, take into account factors that might affect a carer's ability to look after a child with bronchiolitis, for example:
 
-• social circumstances
-• the skill and confidence of the carer in looking after a child with bronchiolitis at home
-• confidence in being able to spot red flag symptoms (see recommendation 1.6.1)
-• distance to healthcare in case of deterioration. [2015]
+- social circumstances
+- the skill and confidence of the carer in looking after a child with bronchiolitis at home
+- confidence in being able to spot red flag symptoms (see recommendation 1.6.1)
+- distance to healthcare in case of deterioration. [2015]
 
 For a short explanation of why the committee made the 2021 recommendation and how it might affect practice, see the rationale and impact section on when to refer.
 
@@ -167,12 +169,28 @@ Be aware that some pulse oximeters can underestimate or overestimate oxygen satu
 1.3.3 When deciding whether to admit a baby or child with bronchiolitis, take account of any known risk factors for more severe bronchiolitis, such as:
 
 • chronic lung disease (including bronchopulmonary dysplasia)
-
 • haemodynamically significant congenital heart disease
-
 • age in young infants (under 3 months)
+• premature birth, particularly under 32 weeks1.3.4 When deciding whether to admit a baby or child, take into account factors that might affect a carer's ability to look after a child with bronchiolitis, for example:
 
-• premature birth, particularly under 32 weeks1.4 Management of bronchiolitis
+• social circumstances
+• the skill and confidence of the carer in looking after a child with bronchiolitis at home
+• confidence in being able to spot red flag symptoms (see recommendation 1.6.1)
+• distance to healthcare in case of deterioration. [2015]
+
+1.3.5 Clinically assess the hydration status of babies and children with bronchiolitis. [2015]
+
+1.3.6 Do not routinely perform blood tests in the assessment of a baby or child with bronchiolitis. [2015]
+
+1.3.7 Do not routinely perform a chest X-ray in babies or children with bronchiolitis, because changes on X-ray may mimic pneumonia and should not be used to determine the need for antibiotics. [2015]
+
+1.3.8 Consider performing a chest X-ray if intensive care is being proposed for a baby or child. [2015]
+
+1.3.9 Provide parents or carers with key safety information (see recommendation 1.6.1) if the baby or child is not admitted. [2015]
+
+For a short explanation of why the committee made the 2021 recommendation and how it might affect practice, see the rationale and impact section on when to admit.
+
+Full details of the evidence and the committee's discussion are in evidence review A: criteria for referral, admission, oxygen supplementation and discharge.1.4 Management of bronchiolitis
 
 1.4.1 Do not perform chest physiotherapy on babies and children with bronchiolitis who do not have relevant comorbidities (for example spinal muscular atrophy, severe tracheomalacia). [2015]
 
@@ -180,19 +198,19 @@ Be aware that some pulse oximeters can underestimate or overestimate oxygen satu
 
 1.4.3 Do not use any of the following to treat bronchiolitis in babies or children:
 
-- antibiotics
-- hypertonic saline
-- adrenaline (nebulised)
-- salbutamol
-- montelukast
-- ipratropium bromide
-- systemic or inhaled corticosteroids
-- a combination of systemic corticosteroids and nebulised adrenaline. [2015]
+• antibiotics
+• hypertonic saline
+• adrenaline (nebulised)
+• salbutamol
+• montelukast
+• ipratropium bromide
+• systemic or inhaled corticosteroids
+• a combination of systemic corticosteroids and nebulised adrenaline. [2015]
 
 1.4.4 Give oxygen supplementation to babies and children with bronchiolitis if their oxygen saturation is:
 
-- persistently less than 90%, for children aged 6 weeks and over
-- persistently less than 92%, for babies under 6 weeks or children of any age with underlying health conditions. [2021]
+• persistently less than 90%, for children aged 6 weeks and over
+• persistently less than 92%, for babies under 6 weeks or children of any age with underlying health conditions. [2021]
 
 December 2018: Follow the NHS England Patient Safety Alert on the risk of harm from inappropriate placement of pulse oximeter probes.1.4.5 Consider continuous positive airway pressure (CPAP) in babies and children with bronchiolitis who have impending respiratory failure (see recommendation 1.1.10). [2015]
 

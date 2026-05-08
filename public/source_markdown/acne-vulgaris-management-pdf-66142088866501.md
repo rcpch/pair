@@ -129,23 +129,18 @@ Full details of the evidence and the committee's discussion are in evidence revi
 • they have acne conglobata
 • they have nodulo-cystic acne.1.4.3 Consider referring people to a consultant dermatologist-led team or a nationally accredited GPwER working within a consultant dermatologist-agreed pathway if they have:
 
-• mild to moderate acne that has not responded to 2 completed courses of treatment (see table 1)
-
-• moderate to severe acne which has not responded to previous treatment that contains an oral antibiotic (see table 1)
-
-• acne that is leading to scarring
-
-• acne with persistent pigmentary changes.
+- mild to moderate acne that has not responded to 2 completed courses of treatment (see table 1)
+- moderate to severe acne which has not responded to previous treatment that contains an oral antibiotic (see table 1)
+- acne that is leading to scarring
+- acne with persistent pigmentary changes.
 
 1.4.4 Consider referring people to a consultant dermatologist-led team or a nationally accredited GPwER working within a consultant dermatologist-agreed pathway if their acne of any severity is causing or contributing to persistent psychological distress or a mental health disorder.
 
 1.4.5 Consider referral to mental health services if a person with acne experiences significant psychological distress or a mental health disorder, including those with a current or past history of:
 
-• suicidal ideation or self-harm
-
-• a severe depressive or anxiety disorder
-
-• body dysmorphic disorder.
+- suicidal ideation or self-harm
+- a severe depressive or anxiety disorder
+- body dysmorphic disorder.
 
 When considering referral, take into account the person's potential treatment options (for example, oral isotretinoin). Also see the NICE guidelines on depression in children and young people for advice on recognition, depression in adults for advice on recognition and assessment, and self-harm for advice on self-harm.
 
@@ -176,10 +171,10 @@ First-line treatment options
 © NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of conditions#notice-of-rights).| Acne severity | Treatment | Advantages | Disadvantages |
 | :--- | :--- | :--- | :--- |
 | Moderate to severe | Fixed combination of topical adapalene with topical benzoyl peroxide, applied once daily in the evening, plus either oral lymecycline or oral doxycycline taken once daily | • Oral component may be effective in treating affected areas that are difficult to reach with topical treatment (such as the back) |
-| | • Treatment with adequate courses of standard therapy with systemic antibiotics and topical therapy is a Medicines and Healthcare products Regulatory Agency (MHRA) requirement for subsequent oral isotretinoin, which is only recommended for severe acne (see recommendation 1.5.10 and the MHRA guidance on new safety measures for isotretinoin) | • Not for use in pregnancy, during breastfeeding (see recommendation 1.5.8), or under the age of 12 |
-| | | • Topical adapalene and topical benzoyl peroxide can cause skin irritation (see recommendation 1.5.7), photosensitivity, and bleaching of hair and fabrics |
-| | | • Oral antibiotics may cause systemic side effects and antimicrobial resistance |
-| | | • Oral tetracyclines can cause photosensitivity |
+| | | • Treatment with adequate courses of standard therapy with systemic antibiotics and topical therapy is a Medicines and Healthcare products Regulatory Agency (MHRA) requirement for subsequent oral isotretinoin, which is only recommended for severe acne (see recommendation 1.5.10 and the MHRA guidance on new safety measures for isotretinoin) | • Not for use in pregnancy, during breastfeeding (see recommendation 1.5.8), or under the age of 12 |
+| | | | • Topical adapalene and topical benzoyl peroxide can cause skin irritation (see recommendation 1.5.7), photosensitivity, and bleaching of hair and fabrics |
+| | | | • Oral antibiotics may cause systemic side effects and antimicrobial resistance |
+| | | | • Oral tetracyclines can cause photosensitivity |
 
 © NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of conditions#notice-of-rights).Acne vulgaris: management (NG198)
 
@@ -201,11 +196,8 @@ First-line treatment options
 Full details of the evidence and the committee's discussion are in:
 
 • evidence review E1: management options for mild to moderate acne – network meta-analyses
-
 • evidence review F1: management options for moderate to severe acne – network meta-analyses
-
 • evidence review E2: management options for mild to moderate acne – pairwise comparisons
-
 • evidence review F2: management options for moderate to severe acne – pairwise comparisons.
 
 Factors to take into account during consultations
@@ -430,16 +422,16 @@ Full details of the evidence and the committee's discussion are in evidence revi
 
 1.8.1 If a person has acne-related scarring, discuss their concerns and provide information in a way that suits their needs. Topics to cover include:
 
-• possible reasons for their scars
-• treatment of ongoing acne to help prevent further scarring (see recommendations 1.5.1 to 1.5.3 and recommendation 1.5.18)
-• possible treatment options for acne-related scarring
-• the way their acne scars may change over time
-• psychological distress.
+- possible reasons for their scars
+- treatment of ongoing acne to help prevent further scarring (see recommendations 1.5.1 to 1.5.3 and recommendation 1.5.18)
+- possible treatment options for acne-related scarring
+- the way their acne scars may change over time
+- psychological distress.
 
 1.8.2 If a person's acne-related scarring is severe and persists a year after their acne has cleared:
 
-• refer the person to a consultant dermatologist-led team with expertise in scarring management
-• in a consultant dermatologist-led team setting, consider CO₂ laser treatment (alone or after a session of punch elevation) or glycolic acid peel.
+- refer the person to a consultant dermatologist-led team with expertise in scarring management
+- in a consultant dermatologist-led team setting, consider CO₂ laser treatment (alone or after a session of punch elevation) or glycolic acid peel.
 
 For a short explanation of why the committee made these recommendations and how they might affect practice, see the rationale and impact section on managing acne-related scarring.
 
@@ -784,13 +776,9 @@ The advice related to antibiotics may lead to a significant change in clinical p
 Full details of the evidence and the committee's discussion are in:
 
 • evidence review E1: management options for mild to moderate acne – network meta-analyses
-
 • evidence review F1: management options for moderate to severe acne – network meta-analyses
-
 • evidence review E2: management options for mild to moderate acne – pairwise comparisons
-
 • evidence review F2: management options for moderate to severe acne – pairwise comparisons
-
 • evidence review L: risk factors for scarring due to acne vulgaris.
 
 Return to recommendations

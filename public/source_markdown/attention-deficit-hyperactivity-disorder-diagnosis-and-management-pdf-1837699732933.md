@@ -72,7 +72,9 @@ Who is it for?
 
 • Healthcare professionals
 • Commissioners and providers
-• People with ADHD, and their families and carersRecommendations
+• People with ADHD, and their families and carers
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Recommendations
 
 People have the right to be involved in discussions and make informed decisions about their care, as described in making decisions about your care
 
@@ -261,7 +263,7 @@ Supporting families and carers
 
 1.4.9 Offer advice to parents and carers of children and young people with ADHD about the importance of:
 
-• positive parent– and carer–child contact
+• positive parent–and carer–child contact
 
 • clear and appropriate rules about behaviour and consistent management
 
@@ -360,11 +362,8 @@ These recommendations, covering children aged 5 years and over and young people,
 1.5.10 Give information about ADHD (see recommendation 1.4.3) and offer additional support to parents and carers of all children aged 5 years and over and young people with ADHD. The support should be ADHD focused, can be group based and as few as 1 or 2 sessions. It should include:
 
 • education and information on the causes and impact of ADHD
-
 • advice on parenting strategies
-
 • with consent, liaison with school, college or university (see recommendation 1.4.12)
-
 • both parents and carers if feasible. [2018]
 
 1.5.11 If a child aged 5 years or over or young person has ADHD and symptoms of oppositional defiant disorder or conduct disorder, offer parents and carers a parent-training programme in line with recommendations 1.5.1 to 1.5.10 in NICE's guideline on antisocial behaviour and conduct disorders in children and young people, as well as group-based ADHD-focused support. [2018]
@@ -1060,7 +1059,7 @@ Here are some pointers to help organisations put NICE guidelines into practice:
 
 8. **Review and monitor** how well the guideline is being implemented through the project group. Share progress with those involved in making improvements, as well as relevant boards and local partners.
 
-NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See our [into practice] pages for more information.
+NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See our **into practice** pages for more information.
 
 Also see Leng G, Moore V, Abraham S, editors (2014) *Achieving high quality care – practical experience from NICE*. Chichester: Wiley.Context
 
@@ -1072,7 +1071,11 @@ The causes of ADHD are not fully understood but a number of risk factors are ass
 
 Both the ICD-10 and DSM-5 require the presence of functional impairment due to symptoms of ADHD, with the symptoms adversely affecting psychological, social and/or educational/occupational functioning. The impact of ADHD may vary considerably in its severity, which is best judged by considering the level of impairment, pervasiveness, and familial and social context. For some people, symptoms may be limited to certain settings and cause minimal impairment in a limited number of domains (for example, ability to complete schoolwork, work tasks, avoiding common hazards and forming positive interpersonal relationships). In other people, multiple symptom areas (hyperactivity, inattention and impulsivity) are present in multiple settings, and this causes significant impairment across multiple domains. Symptoms and impact can also change over time. For some people, symptoms and impairment may be reduced through environmental modifications, such as a modified school curriculum or choice of employment.
 
-Symptoms of ADHD can overlap with those of other related disorders. Therefore, care in differential diagnosis is needed. ADHD may also coexist with other disorders. CommonFinding more information and committee details
+Symptoms of ADHD can overlap with those of other related disorders. Therefore, care in differential diagnosis is needed. ADHD may also coexist with other disorders. Commoncoexisting conditions in children include disorders of mood, conduct, learning, motor control, language and communication, and anxiety disorders; in adults, they include personality disorders, bipolar disorder, obsessive-compulsive disorder and substance misuse. Where there are coexisting conditions, it is important to try to differentiate the level of impairment due to ADHD, because this will guide the treatment plan. In addition, ADHD is under-recognised in some populations, which can mean that a lack of appropriate diagnosis and treatment adversely affects people's quality of life.
+
+The aim of this guideline is to raise awareness of populations at risk and to provide clear advice on managing ADHD.
+
+The guideline covers children under 5 years, children and young people aged 5 to 17 years, and adults aged 18 years or over who are at risk of ADHD or have a diagnosis of ADHD. The guideline covers all primary, secondary and community care settings in which NHS-funded care is provided for people with ADHD.Finding more information and committee details
 
 To find NICE guidance on related topics, including guidance in development, see the NICE topic page on mental health and behavioural conditions.
 

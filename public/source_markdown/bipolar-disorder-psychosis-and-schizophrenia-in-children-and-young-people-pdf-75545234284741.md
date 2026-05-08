@@ -59,7 +59,9 @@ Equality and diversity considerations ... 17
 
 Quality statement 4: Support for carers ... 18
 
-Quality statement ... 18Bipolar disorder, psychosis and schizophrenia in children and young people (QS102)
+Quality statement ... 18
+
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-conditions#notice-of-rights).Bipolar disorder, psychosis and schizophrenia in children and young people (QS102)
 
 Rationale ... 18
 Quality measures ... 18
@@ -327,7 +329,7 @@ b) Relapse rates for children and young people with psychosis.
 
 **Data source:** Local data collection.
 
-**What the quality statement means for different audiences**
+What the quality statement means for different audiences
 
 Service providers (such as child and adolescent mental health services and early intervention in psychosis services) ensure that a psychological intervention is available as a treatment option for children and young people newly diagnosed with bipolar depression or a first episode of psychosis. They should ensure that practitioners are trained and have the appropriate competencies to deliver psychological interventions.Healthcare professionals (such as psychologists, psychiatrists and psychotherapists) offer a psychological intervention to children and young people newly diagnosed with bipolar depression or a first episode of psychosis.
 
@@ -501,7 +503,7 @@ Service providers (such as GP surgeries, community health services, child and ad
 
 Healthcare professionals (such as GPs, psychologists and mental health nurses) offer age-appropriate healthy lifestyle advice to children and young people with bipolar disorder, psychosis or schizophrenia at diagnosis and at annual review.
 
-Commissioners commission services that offer age-appropriate healthy lifestyle advice to children and young people with bipolar disorder, psychosis or schizophrenia at diagnosis.and at annual review.
+Commissioners commission services that offer age-appropriate healthy lifestyle advice to children and young people with bipolar disorder, psychosis or schizophrenia at diagnosisand at annual review.
 
 Children and young people with bipolar disorder, psychosis or schizophrenia should be offered advice that is suitable for their age at diagnosis and at annual review on healthy eating, how to make sure they get enough exercise, practising safe sex and the importance of avoiding drug and alcohol misuse and smoking. If they smoke, they should be given advice on how to stop.
 

@@ -131,7 +131,7 @@ An increased risk of acute kidney injury is associated with a range of chronic a
 
 Advice on maintaining kidney health
 
-Healthcare professionals should discuss the potential causes of acute kidney injury and how people at risk can maintain their kidney health. The potentially preventable causes of acute kidney injury include conditions leading to dehydration (for example, diarrhoea and vomiting) and drugs that can cause or exacerbate kidney injury (including over-the-counter NSAIDs [non-steroidal anti-inflammatory drugs]). Healthcare professionals should offer written information such as Kidney Care UK's leaflet, At risk of kidney disease? Keeping your kidneys safe. [NICE's guideline on acute kidney injury], recommendation 1.6.4, and NICE's clinical knowledge summary on acute kidney injury, prevention of acute kidney injury.
+Healthcare professionals should discuss the potential causes of acute kidney injury and how people at risk can maintain their kidney health. The potentially preventable causes of acute kidney injury include conditions leading to dehydration (for example, diarrhoea and vomiting) and drugs that can cause or exacerbate kidney injury (including over-the-counter NSAIDs [non-steroidal anti-inflammatory drugs]). Healthcare professionals should offer written information such as Kidney Care UK's leaflet, At risk of kidney disease? Keeping your kidneys safe. [NICE's guideline on acute kidney injury], recommendation 1.6.4, and NICE's clinical knowledge summary on acute kidney injury, prevention of acute kidney injury
 
 Equality and diversity considerations
 
@@ -211,6 +211,7 @@ Additionally, people with acute illness in hospital are at risk of acute kidney 
 • young age, neurological or cognitive impairment or disability, which may mean limited access to fluids because of reliance on a parent or carer
 • hypovolaemia
 • use of drugs that can cause or exacerbate kidney injury (such as non-steroidal anti-inflammatory drugs [NSAIDs], aminoglycosides, angiotensin-converting enzyme [ACE] inhibitors, angiotensin II receptor antagonists [ARBs] and diuretics) within the past week, especially if the person is hypovolaemic. For further information on high-risk medicines, see Think Kidneys' guidelines on medicines optimisation for AKI, section 3.
+
 • use of iodine-based contrast media within the past week in adults
 • symptoms or history of urological obstruction, or conditions that may lead to obstruction
 • sepsis
@@ -312,13 +313,11 @@ The UK Kidney Association's (formerly the Renal Association) guideline on acute 
 
 The approach to clinical review in primary care is described in Think Kidneys' resource on responding to AKI warning stage test results in primary care.
 
-For specific information on medication review for adults with acute kidney injury see Think Kidneys' documents on acute kidney injury - potentially problematic drugs and actions to take in primary care and guidelines for medicines optimisation in patients with acute kidney injury. Information on dose adjustment in renal impairment is available from the British National Formulary (BNF) or the manufacturers' summary of product characteristics.(available at www.medicines.org.uk/emc). Healthcare professionals should seek specialist advice if unsure. [NICE's clinical knowledge summary on acute kidney injury], management of acute kidney injury]
+For specific information on medication review for adults with acute kidney injury see Think Kidneys' documents on acute kidney injury - potentially problematic drugs and actions to take in primary care and guidelines for medicines optimisation in patients with acute kidney injury. Information on dose adjustment in renal impairment is available from the British National Formulary (BNF) or the manufacturers' summary of product characteristics(available at www.medicines.org.uk/emc). Healthcare professionals should seek specialist advice if unsure. [NICE's clinical knowledge summary on acute kidney injury, management of acute kidney injury]
 
 Equality and diversity considerations
 
-Healthcare professionals should be aware that acute kidney injury is less likely to be identified in young adults under 30 and some minority ethnic groups. A timely and effective response to an acute kidney injury warning stage 2 test result will help to improve detection in these groups.
-
-© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of conditions#notice-of-rights).Quality statement 4: Response to acute kidney injury warning stage 3 test result
+Healthcare professionals should be aware that acute kidney injury is less likely to be identified in young adults under 30 and some minority ethnic groups. A timely and effective response to an acute kidney injury warning stage 2 test result will help to improve detection in these groups.Quality statement 4: Response to acute kidney injury warning stage 3 test result
 
 Quality statement
 

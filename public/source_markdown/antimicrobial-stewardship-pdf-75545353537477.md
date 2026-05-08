@@ -177,7 +177,7 @@ Prescribers should discuss with the person and/or their family members or carers
 • what they should do if their condition gets worse (safety netting advice) or if they have problems as a result of treatment
 • what they can do to minimise spreading the infection to others (such as good hand hygiene).
 
-[NICE's guideline on antimicrobial stewardship: systems and processes for effective antimicrobial medicine use, recommendation 1.1.31 and expert opinion]
+[NICE's guideline on antimicrobial stewardship: systems and processes for effective antimicrobial medicine use], recommendation 1.1.31 and expert opinion]
 
 Equality and diversity considerations
 
@@ -357,7 +357,19 @@ Data source: Local data collection.
 
 c) Length of hospital stay.
 
-Data source: Local data collection.Quality statement 5: Data collection and feedback
+Data source: Local data collection.What the quality statement means for different audiences
+
+Service providers (hospitals) ensure that systems are in place for people in hospital to have a microbiological sample taken before they are prescribed an antimicrobial, and have the treatment reviewed when the microbiological results are available.
+
+Prescribers in hospitals ensure that microbiological samples are taken before they prescribe antimicrobials and that they review the treatment when the microbiological results are available.
+
+Commissioners ensure that they commission services that take microbiological samples from people in hospital before they are prescribed antimicrobials, and that review the treatment when the microbiological results are available.
+
+People who are in hospital have a sample taken before they are prescribed an antimicrobial to find out what is causing the infection. They may be given an antimicrobial immediately, but once the test results come back the prescription is checked to make sure that the antimicrobial is the right one and will work against the infection.
+
+Source guidance
+
+Antimicrobial stewardship: systems and processes for effective antimicrobial medicine use. NICE guideline NG15 (2015), recommendations 1.1.27 and 1.1.29Quality statement 5: Data collection and feedback
 
 Quality statement
 
@@ -511,11 +523,13 @@ Supporting organisations
 
 Many organisations share NICE's commitment to quality improvement using evidence-based guidance. The following supporting organisations have recognised the benefit of the quality standard in improving care for patients, carers, service users and members of the public. They have agreed to work with NICE to ensure that those commissioning or providing services are made aware of and encouraged to use the quality standard.
 
-- MRSA Action UK
-- British Thoracic Society (BTS)
-- British Society for Antimicrobial Chemotherapy
-- Royal College of General Practitioners (RCGP)
-- Royal College of Nursing (RCN)
-- Royal College of Physicians (RCP)
-- Royal College of Paediatrics and Child Health
-- College of General Dentistry
+• MRSA Action UK
+• British Thoracic Society (BTS)
+• British Society for Antimicrobial Chemotherapy
+• Royal College of General Practitioners (RCGP)
+• Royal College of Nursing (RCN)
+• Royal College of Physicians (RCP)
+• Royal College of Paediatrics and Child Health
+• College of General Dentistry
+
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of conditions#notice-of-rights).
