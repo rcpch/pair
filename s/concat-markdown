@@ -1,0 +1,10 @@
+#!/bin/bash -e
+
+SOURCE_DIR="public/source_markdown"
+
+for dir in "$SOURCE_DIR"/*/; do
+    name=$(basename "$dir")
+    output="$SOURCE_DIR/${name}.md"
+    cat "$dir"*.md > "$output"
+    echo "Written: $output"
+done
